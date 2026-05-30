@@ -234,7 +234,7 @@ Amazon S3 storage classes are basically **different pricing + performance tiers*
 
 Instead of using one type of storage for everything, AWS lets you optimize cost by choosing the right class.
 
-<img src="./src/s3/s3_storage_class.png", alt="Storage Classes"/>
+<img src="./src/s3/s3_storage_class.png" alt="Storage Classes"/>
 
 ---
 
