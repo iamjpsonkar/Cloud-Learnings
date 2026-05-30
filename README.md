@@ -65,7 +65,10 @@ Businesses use AWS because it offers:
 <img src="./src/aws_benefits_2.png" alt="AWS Benefits"/>
 <img src="./src/aws_benefits_3.png" alt="AWS Benefits"/>
 
-
+<img src="./src/aws_support_overview.png" alt="AWS Support">
+<img src="./src/aws_documentation.png" alt="AWS Documentation">
+<img src="./src/aws_technical_resource.png" alt="AWS Technical Resources">
+<img src="./src/aws_trusted_advisor.png" alt="AWS Trusted Advisor">
 
 ## Common AWS services
 
@@ -545,9 +548,21 @@ Example:
 
 Amazon EC2 (Elastic Compute Cloud) is a service that provides virtual servers in the AWS cloud.
 
+EC2 provides **virtual servers in the cloud**. Instead of buying a physical machine, you rent a server from AWS and run your applications on it.
+
 <img src="./src/ec2/ec2_overview.png" alt="EC2 Overview"/>
 
 ## What is EC2?
+
+Think of EC2 as a computer running in an AWS data center.
+
+You can:
+
+* Install Linux or Windows
+* Run websites and APIs
+* Host databases (though RDS is usually preferred)
+* Run Docker containers
+* Deploy FastAPI, Django, Node.js, etc.
 
 EC2 allows you to:
 - Run Linux or Windows servers
@@ -587,9 +602,10 @@ Every EC2 instance runs inside a VPC.
 
 AWS EC2, is built using different components
 
+
 ### EC2 AMI (Amazon Machine Image)
 
-An AMI is a template used to launch instances.
+An AMI is a template used to launch instances. It is like a template for your server.
 
 Examples:
 ```txt
@@ -605,5 +621,201 @@ Windows Server
 
 We can create aws EC2 instances i.e. virtual system as per our requirement.
 
+Determines CPU, RAM, and performance.
+
+Examples:
+
+| Instance  | vCPU     | Use Case         |
+| --------- | -------- | ---------------- |
+| t3.micro  | 2        | Small apps       |
+| t3.small  | 2        | Development      |
+| t3.medium | 2        | Medium workloads |
+| c7g.large | More CPU | Compute-heavy    |
+| r7g.large | More RAM | Memory-heavy     |
+
 <img src="./src/ec2/ec2_instances.png" alt="EC2 Instances"/>
+
+### EBS: Elastic Block Store
+
+Amazon Elastic Block Store (EBS) is a persistent block storage service used with EC2 instances.
+
+Your EC2 disk storage.
+Like:
+* SSD/HDD attached to a computer
+
+Stores:
+* OS
+* Application code
+* Logs
+
+<img src="./src/ec2/ec2_ebs_overview.png" alt="AWS EBS Overview"/>
+<img src="./src/ec2/ec2_ebs_performance.png" alt="AWS EBS Performance"/>
+<img src="./src/ec2/ec2_ebs_ssd_storage.png" alt="AWS EBS SSD"/>
+<img src="./src/ec2/ec2_ebs_hdd_storage.png" alt="AWS EBS HDD"/>
+
+#### Security Groups
+
+A firewall for EC2.
+
+Example rules:
+
+| Port | Purpose |
+| ---- | ------- |
+| 22   | SSH     |
+| 80   | HTTP    |
+| 443  | HTTPS   |
+| 8000 | FastAPI |
+
+If port 8000 isn't allowed, your FastAPI app won't be reachable.
+
+
+#### Key Pair
+
+Used for SSH access.
+
+Example:
+
+```bash
+ssh -i mykey.pem ubuntu@<public-ip>
+```
+
+Keep the `.pem` file safe.
+
+
+### Launch Flow
+
+```text
+AMI
+ ↓
+Instance Type
+ ↓
+Storage (EBS)
+ ↓
+Security Group
+ ↓
+Key Pair
+ ↓
+Launch EC2
+```
+
+---
+
+### Example: Deploy FastAPI
+
+1. Launch Ubuntu EC2
+2. Open ports:
+
+   * 22
+   * 80
+   * 443
+3. SSH into server
+
+```bash
+ssh -i key.pem ubuntu@server-ip
+```
+
+4. Install Python
+
+```bash
+sudo apt update
+sudo apt install python3-pip
+```
+
+5. Run FastAPI
+
+```bash
+uvicorn app:app --host 0.0.0.0 --port 8000
+```
+
+6. Access from browser
+
+```text
+http://server-ip:8000/docs
+```
+
+---
+
+### Public IP vs Private IP
+
+| Type       | Accessible From |
+| ---------- | --------------- |
+| Public IP  | Internet        |
+| Private IP | Inside VPC      |
+
+Example:
+
+* Public: `13.x.x.x`
+* Private: `172.31.x.x`
+
+---
+
+### EC2 Pricing Models
+
+#### On-Demand
+
+Pay as you use.
+
+Best for:
+
+* Development
+* Testing
+
+#### Reserved Instances
+
+Commit for 1–3 years.
+
+Best for:
+
+* Predictable workloads
+
+#### Spot Instances
+
+Use spare AWS capacity.
+
+Can be terminated anytime.
+
+Best for:
+
+* Batch jobs
+* CI/CD
+
+---
+
+### Important EC2 Concepts
+
+* Start Instance
+* Stop Instance
+* Reboot Instance
+* Terminate Instance (deletes the server)
+* Create AMI (server backup)
+* Attach IAM Role
+* Attach EBS Volume
+
+---
+
+### Real-world Architecture
+
+For a FastAPI application:
+
+```text
+Users
+   ↓
+Load Balancer
+   ↓
+EC2 (FastAPI)
+   ↓
+RDS (PostgreSQL)
+   ↓
+S3 (Files/Images)
+```
+
+# AWS DNS: Domain Name System
+
+DNS is a system, that translate human readable english domain name to a fixed IP, for server commnunication.
+
+<img src="./src/dns/dns_overview.png" alt="AWS DNS>
+
+<img src="./src/dns/dns_process.png" alt="AWS DNS Process>
+
+
 
