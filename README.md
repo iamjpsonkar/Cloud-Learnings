@@ -1,5 +1,12 @@
 # AWS-Learnings
 
+<img src="./src/aws_overview.png"/>
+
+<img src="./src/aws_zones.png"/>
+
+<img src="./src/aws_partioning.png"/>
+
+
 # What is AWS?
 
 AWS stands for Amazon Web Services, a cloud computing platform provided by Amazon.
@@ -53,6 +60,12 @@ Businesses use AWS because it offers:
 * Pay-as-you-go pricing
 * Security and compliance tools
 * Faster deployment
+
+<img src="./src/aws_benefits_1.png" alt="AWS Benefits"/>
+<img src="./src/aws_benefits_2.png" alt="AWS Benefits"/>
+<img src="./src/aws_benefits_3.png" alt="AWS Benefits"/>
+
+
 
 ## Common AWS services
 
@@ -526,3 +539,71 @@ Example:
 <img src="./src/s3/s3_resource_based_policy.png" alt="resource based policy"/>
 
 <img src="./src/s3/s3_user_policy.png" alt="user policy"/>
+
+
+# AWS EC2: Elastic Compute Cloud
+
+Amazon EC2 (Elastic Compute Cloud) is a service that provides virtual servers in the AWS cloud.
+
+<img src="./src/ec2/ec2_overview.png" alt="EC2 Overview"/>
+
+## What is EC2?
+
+EC2 allows you to:
+- Run Linux or Windows servers
+- Host websites
+- Deploy APIs
+- Run Docker containers
+- Execute batch jobs
+- Perform development and testing
+
+Example:
+```txt
+Your Laptop
+    ↓
+Internet
+    ↓
+AWS EC2 Server
+    ↓
+Application
+```
+
+## EC2 Architecture
+```txt
+AWS Account
+    ↓
+VPC
+    ↓
+Subnet
+    ↓
+EC2 Instance
+    ↓
+EBS Volume
+```
+
+Every EC2 instance runs inside a VPC.
+
+## EC2 Components
+
+AWS EC2, is built using different components
+
+### EC2 AMI (Amazon Machine Image)
+
+An AMI is a template used to launch instances.
+
+Examples:
+```txt
+Ubuntu
+Amazon Linux
+Red Hat
+Windows Server
+```
+
+<img src="./src/ec2/ec2_ami.png" alt="EC2 AMI"/>
+
+### EC2 instance
+
+We can create aws EC2 instances i.e. virtual system as per our requirement.
+
+<img src="./src/ec2/ec2_instances.png" alt="EC2 Instances"/>
+
