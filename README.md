@@ -70,6 +70,12 @@ Businesses use AWS because it offers:
 <img src="./src/aws_technical_resource.png" alt="AWS Technical Resources">
 <img src="./src/aws_trusted_advisor.png" alt="AWS Trusted Advisor">
 
+
+<img src="./src/aws_system_manager_overview.png" alt="AWS System Manager Overview">
+<img src="./src/aws_system_manager_features.png" alt="AWS System Manager Features">
+<img src="./src/aws_system_manager_use_cases.png" alt="AWS System Manager Use Cases">
+
+
 ## Common AWS services
 
 Here are a few well-known services:
