@@ -295,4 +295,4 @@ az monitor data-collection rule create \
 
 ---
 
-← [Previous: Azure Observability](./README.md) | [Home](../../README.md) | [Next: Azure IaC →](../11-iac/README.md)
+← [Previous: Azure Observability](./README.md) | [Home](../../README.md) | [Next: Application Insights →](./application-insights.md)

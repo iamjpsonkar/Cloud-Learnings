@@ -316,4 +316,4 @@ az container delete \
 - [Azure Container Instances](https://docs.microsoft.com/azure/container-instances/)
 ---
 
-← [Previous: Azure Databases](../06-databases/README.md) | [Home](../../README.md) | [Next: Azure Serverless →](../08-serverless/README.md)
+← [Previous: Redis](../06-databases/redis.md) | [Home](../../README.md) | [Next: ACR →](./acr.md)

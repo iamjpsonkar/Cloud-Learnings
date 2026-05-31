@@ -319,4 +319,4 @@ def get_user(user_id: str) -> dict:
 - [Azure Cache for Redis](https://docs.microsoft.com/azure/azure-cache-for-redis/)
 ---
 
-← [Previous: Storage Accounts](../05-storage/storage-accounts.md) | [Home](../../README.md) | [Next: Azure Containers →](../07-containers/README.md)
+← [Previous: Storage Accounts](../05-storage/storage-accounts.md) | [Home](../../README.md) | [Next: PostgreSQL →](./postgresql.md)

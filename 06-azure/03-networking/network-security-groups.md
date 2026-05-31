@@ -264,4 +264,4 @@ az network nic show-effective-nsg \
 
 ---
 
-← [Previous: VNet](./vnet.md) | [Home](../../README.md) | [Next: Azure Compute →](../04-compute/README.md)
+← [Previous: VNet](./vnet.md) | [Home](../../README.md) | [Next: Application Gateway →](./application-gateway.md)

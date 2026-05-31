@@ -335,4 +335,4 @@ az apim api policy create \
 - [Azure API Management](https://docs.microsoft.com/azure/api-management/)
 ---
 
-← [Previous: Azure Containers](../07-containers/README.md) | [Home](../../README.md) | [Next: Azure Security →](../09-security/README.md)
+← [Previous: ACI](../07-containers/aci.md) | [Home](../../README.md) | [Next: Azure Functions →](./functions.md)

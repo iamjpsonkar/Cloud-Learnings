@@ -640,4 +640,4 @@ jobs:
 - [Azure Developer CLI (azd)](https://docs.microsoft.com/azure/developer/azure-developer-cli/)
 ---
 
-← [Previous: Azure Monitor](../10-observability/azure-monitor.md) | [Home](../../README.md) | [Next: Azure Projects →](../12-projects/README.md)
+← [Previous: Application Insights](../10-observability/application-insights.md) | [Home](../../README.md) | [Next: Bicep →](./bicep.md)

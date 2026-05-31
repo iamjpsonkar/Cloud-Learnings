@@ -283,4 +283,4 @@ az network vnet update \
 - [Azure security baseline](https://docs.microsoft.com/security/benchmark/azure/)
 ---
 
-← [Previous: Azure Serverless](../08-serverless/README.md) | [Home](../../README.md) | [Next: Azure Observability →](../10-observability/README.md)
+← [Previous: APIM](../08-serverless/apim.md) | [Home](../../README.md) | [Next: Key Vault →](./key-vault.md)

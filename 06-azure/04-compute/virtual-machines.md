@@ -276,4 +276,4 @@ az vm create \
 
 ---
 
-← [Previous: Azure Compute](./README.md) | [Home](../../README.md) | [Next: Azure Storage →](../05-storage/README.md)
+← [Previous: Azure Compute](./README.md) | [Home](../../README.md) | [Next: VMSS →](./vmss.md)

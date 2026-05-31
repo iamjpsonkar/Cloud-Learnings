@@ -508,4 +508,4 @@ az functionapp config appsettings set \
 - [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/)
 ---
 
-← [Previous: Azure IaC](../11-iac/README.md) | [Home](../../README.md) | [Next: GCP →](../../07-gcp/README.md)
+← [Previous: Terraform on Azure](../11-iac/terraform-azure.md) | [Home](../../README.md) | [Next: Static Website →](./static-website.md)
