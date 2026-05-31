@@ -428,4 +428,4 @@ gcloud run jobs execute db-migration \
 - [GKE Workload Identity](https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity)
 ---
 
-← [Previous: GCP Databases](../06-databases/README.md) | [Home](../../README.md) | [Next: GCP Serverless →](../08-serverless/README.md)
+← [Previous: BigQuery](../06-databases/bigquery.md) | [Home](../../README.md) | [Next: Artifact Registry →](./artifact-registry.md)

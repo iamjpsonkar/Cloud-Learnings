@@ -380,4 +380,4 @@ bq query --use_legacy_sql=false --project_id=$PROJECT_ID \
 - [Well-Architected Framework on GCP](https://cloud.google.com/architecture/framework)
 ---
 
-← [Previous: GCP IaC](../11-iac/README.md) | [Home](../../README.md) | [Next: Other Clouds →](../../08-other-clouds/README.md)
+← [Previous: Terraform on GCP](../11-iac/terraform-gcp.md) | [Home](../../README.md) | [Next: Static Website →](./static-website.md)

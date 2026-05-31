@@ -377,4 +377,4 @@ def safe_process(order_id: str) -> None:
 - [OpenTelemetry on GCP](https://opentelemetry.io/docs/instrumentation/python/)
 ---
 
-← [Previous: GCP Security](../09-security/README.md) | [Home](../../README.md) | [Next: GCP IaC →](../11-iac/README.md)
+← [Previous: VPC Service Controls](../09-security/vpc-service-controls.md) | [Home](../../README.md) | [Next: Cloud Monitoring →](./cloud-monitoring.md)

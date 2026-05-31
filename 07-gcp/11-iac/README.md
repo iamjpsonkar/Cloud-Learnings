@@ -443,4 +443,4 @@ jobs:
 - [Workload Identity Federation for GitHub Actions](https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions)
 ---
 
-← [Previous: GCP Observability](../10-observability/README.md) | [Home](../../README.md) | [Next: GCP Projects →](../12-projects/README.md)
+← [Previous: Cloud Trace](../10-observability/cloud-trace.md) | [Home](../../README.md) | [Next: Terraform on GCP →](./terraform-gcp.md)
