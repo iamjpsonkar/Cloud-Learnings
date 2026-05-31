@@ -419,4 +419,4 @@ kubectl create secret docker-registry ecr-pull-secret \
 - [Cosign](https://docs.sigstore.dev/signing/quickstart/)
 ---
 
-← [Previous: Docker Compose](./docker-compose.md) | [Home](../README.md) | [Next: Kubernetes (Batch 17) →](../10-kubernetes/README.md)
+← [Previous: Docker Compose](./docker-compose.md) | [Home](../README.md) | [Next: Kubernetes →](../10-kubernetes/README.md)

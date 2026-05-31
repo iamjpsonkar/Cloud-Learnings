@@ -71,6 +71,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on adding or improving c
 ## License
 
 [MIT](./LICENSE)
+
 ---
 
 [Next: Foundations →](./00-foundations/README.md)
