@@ -330,4 +330,4 @@ def generate_sas_url(container_name: str, blob_name: str, expiry_hours: int = 1)
 - [Azure Storage pricing](https://azure.microsoft.com/pricing/details/storage/)
 ---
 
-← [Previous: Azure Compute](../04-compute/README.md) | [Home](../../README.md) | [Next: Azure Databases →](../06-databases/README.md)
+← [Previous: Virtual Machines](../04-compute/virtual-machines.md) | [Home](../../README.md) | [Next: Storage Accounts →](./storage-accounts.md)

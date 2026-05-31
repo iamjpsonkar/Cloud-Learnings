@@ -296,4 +296,4 @@ az rest --method POST \
 - [Microsoft Graph API](https://docs.microsoft.com/graph/)
 ---
 
-← [Previous: Azure Account Setup](../01-account-setup/README.md) | [Home](../../README.md) | [Next: Azure Networking →](../03-networking/README.md)
+← [Previous: Resource Groups](../01-account-setup/resource-groups.md) | [Home](../../README.md) | [Next: Entra ID Basics →](./entra-id-basics.md)

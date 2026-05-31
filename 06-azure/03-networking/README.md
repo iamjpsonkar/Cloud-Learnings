@@ -350,4 +350,4 @@ az network vpn-connection create \
 - [Azure Bastion](https://docs.microsoft.com/azure/bastion/)
 ---
 
-← [Previous: Azure Entra ID](../02-entra-id/README.md) | [Home](../../README.md) | [Next: Azure Compute →](../04-compute/README.md)
+← [Previous: Managed Identities](../02-entra-id/managed-identities.md) | [Home](../../README.md) | [Next: VNet →](./vnet.md)

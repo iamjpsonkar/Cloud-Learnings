@@ -267,4 +267,4 @@ az vm auto-shutdown \
 - [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/)
 ---
 
-← [Previous: Azure Networking](../03-networking/README.md) | [Home](../../README.md) | [Next: Azure Storage →](../05-storage/README.md)
+← [Previous: Network Security Groups](../03-networking/network-security-groups.md) | [Home](../../README.md) | [Next: Virtual Machines →](./virtual-machines.md)

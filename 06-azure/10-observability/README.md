@@ -401,4 +401,4 @@ az monitor scheduled-query create \
 - [Azure Monitor alerts](https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-overview)
 ---
 
-← [Previous: Azure Security](../09-security/README.md) | [Home](../../README.md) | [Next: Azure IaC →](../11-iac/README.md)
+← [Previous: Azure Security](../09-security/README.md) | [Home](../../README.md) | [Next: Azure Monitor →](./azure-monitor.md)

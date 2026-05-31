@@ -221,4 +221,4 @@ az monitor diagnostic-settings create \
 - [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/)
 ---
 
-← [Previous: Azure](../README.md) | [Home](../../README.md) | [Next: Azure Entra ID →](../02-entra-id/README.md)
+← [Previous: Azure](../README.md) | [Home](../../README.md) | [Next: Account Setup →](./account-setup.md)
