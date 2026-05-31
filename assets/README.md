@@ -29,12 +29,16 @@ assets/
 
 Always use relative paths from the document location:
 
-```markdown
-<!-- From a file in 05-aws/04-compute/ -->
-<img src="../../assets/images/aws/ec2/ec2_overview.png" alt="EC2 Overview"/>
+From a file two levels deep (e.g., `05-aws/04-compute/ec2.md`):
 
-<!-- From a file in 05-aws/ (one level deep) -->
-<img src="../assets/images/aws/aws/aws_overview.png" alt="AWS Overview"/>
+```
+src="../../assets/images/aws/ec2/ec2_overview.png"
+```
+
+From a file one level deep (e.g., `05-aws/README.md`):
+
+```
+src="../assets/images/aws/aws/aws_overview.png"
 ```
 
 ## Rules

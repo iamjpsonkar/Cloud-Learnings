@@ -9,4 +9,4 @@ Topics covered in this section:
 | [efs.md](./efs.md) | Elastic File System — shared POSIX filesystem |
 | [fsx.md](./fsx.md) | FSx for Windows, Lustre, NetApp ONTAP |
 
-> **Note:** `s3.md` is migrated content from the original AWS-Learnings repo.
+> **Note:** `s3.md` is migrated content from the original repo.

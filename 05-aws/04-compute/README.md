@@ -10,4 +10,4 @@ Topics covered in this section:
 | [load-balancers.md](./load-balancers.md) | ALB, NLB, GLB |
 | [lambda.md](./lambda.md) | Lambda functions and triggers |
 
-> **Note:** `ec2.md` is migrated content from the original AWS-Learnings repo.
+> **Note:** `ec2.md` is migrated content from the original repo.

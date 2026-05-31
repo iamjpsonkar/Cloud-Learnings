@@ -13,4 +13,4 @@ Topics covered in this section:
 | [route53.md](./route53.md) | DNS, Route 53 routing policies |
 | [cloudfront.md](./cloudfront.md) | CloudFront CDN |
 
-> **Note:** `route53.md` is migrated content from the original AWS-Learnings repo.
+> **Note:** `route53.md` is migrated content from the original repo.

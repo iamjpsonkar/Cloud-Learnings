@@ -6,4 +6,4 @@ Topics covered in this section:
 |------|-------------|
 | [systems-manager.md](./systems-manager.md) | SSM — Session Manager, Run Command, Patch Manager, Parameter Store |
 
-> **Note:** `systems-manager.md` is migrated content from the original AWS-Learnings repo.
+> **Note:** `systems-manager.md` is migrated content from the original repo.
