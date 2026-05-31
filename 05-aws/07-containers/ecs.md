@@ -328,3 +328,6 @@ aws cloudwatch put-metric-alarm \
 - [Fargate task sizing](https://docs.aws.amazon.com/ecs/latest/developerguide/task-cpu-memory-error.html)
 - [ECS task networking](https://docs.aws.amazon.com/ecs/latest/developerguide/task-networking.html)
 - [ECS pricing](https://aws.amazon.com/ecs/pricing/)
+---
+
+← [Previous: ECR](./ecr.md) | [Home](../../README.md) | [Next: EKS →](./eks.md)

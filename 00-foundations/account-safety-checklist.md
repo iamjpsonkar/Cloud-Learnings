@@ -186,3 +186,6 @@ These apply regardless of which cloud provider you use:
 - [Azure security baseline](https://learn.microsoft.com/en-us/security/benchmark/azure/security-baselines-overview)
 - [GCP security best practices](https://cloud.google.com/security/best-practices)
 - [CIS Cloud Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+---
+
+← [Previous: Billing Basics](./billing-basics.md) | [Home](../README.md) | [Next: Cloud Fundamentals →](../01-cloud-fundamentals/README.md)

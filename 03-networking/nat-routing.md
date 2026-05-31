@@ -300,3 +300,6 @@ aws ec2 describe-route-tables \
 - [AWS NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
 - [AWS Transit Gateway](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html)
 - [RFC 4271 — BGP-4](https://www.rfc-editor.org/rfc/rfc4271)
+---
+
+← [Previous: CIDR & Subnetting](./cidr-subnetting.md) | [Home](../README.md) | [Next: Firewalls & VPN →](./firewalls-vpn.md)

@@ -226,3 +226,6 @@ Will the data be accessed very rarely (< 1x/year) and must be kept long-term?
 - [AWS EFS documentation](https://docs.aws.amazon.com/efs/)
 - [GCP Storage options comparison](https://cloud.google.com/storage-options)
 - [Azure storage overview](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
+---
+
+← [Previous: Compute](./compute.md) | [Home](../README.md) | [Next: Networking →](./networking.md)

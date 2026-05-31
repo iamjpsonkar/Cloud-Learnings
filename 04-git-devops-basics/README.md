@@ -55,4 +55,4 @@ Working Directory    Staging Area (Index)     Local Repository       Remote (Git
 - [Git flight rules](https://github.com/k88hudson/git-flight-rules)
 ---
 
-← [Previous: Networking](../03-networking/README.md) | [Home](../README.md) | [Next: AWS →](../05-aws/README.md)
+← [Previous: Networking Troubleshooting](../03-networking/troubleshooting.md) | [Home](../README.md) | [Next: Git Basics →](./git-basics.md)

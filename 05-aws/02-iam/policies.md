@@ -360,3 +360,6 @@ aws iam simulate-principal-policy \
 - [IAM policy examples](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html)
 - [IAM policy evaluation logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
 - [AWS policy simulator](https://policysim.aws.amazon.com/)
+---
+
+← [Previous: Users, Groups & Roles](./users-groups-roles.md) | [Home](../../README.md) | [Next: Identity Center →](./identity-center.md)

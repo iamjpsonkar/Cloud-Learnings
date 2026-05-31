@@ -162,3 +162,6 @@ Use this to verify you're meeting your side of the shared responsibility model:
 - [Azure Shared Responsibility](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 - [GCP Shared Responsibility](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
 - [CISA Cloud Security Best Practices](https://www.cisa.gov/sites/default/files/2023-03/CISA_Cloud-Security-Best-Practices_FINAL_508c.pdf)
+---
+
+← [Previous: Deployment Models](./deployment-models.md) | [Home](../README.md) | [Next: Regions & Zones →](./regions-zones-geography.md)

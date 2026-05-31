@@ -303,3 +303,6 @@ curl -s http://169.254.169.254/latest/meta-data/instance-id
 - [Linux man pages](https://man7.org/linux/man-pages/)
 - [AWS EBS volume types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html)
 - [Amazon EFS mounting guide](https://docs.aws.amazon.com/efs/latest/ug/mounting-fs.html)
+---
+
+← [Previous: Linux](./README.md) | [Home](../README.md) | [Next: Users & Permissions →](./users-groups-permissions.md)

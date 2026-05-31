@@ -327,3 +327,6 @@ snyk container test my-app:latest
 - [BuildKit documentation](https://docs.docker.com/build/buildkit/)
 - [Distroless base images](https://github.com/GoogleContainerTools/distroless)
 - [Trivy vulnerability scanner](https://trivy.dev)
+---
+
+← [Previous: Docker Basics](./docker-basics.md) | [Home](../README.md) | [Next: Docker Compose →](./docker-compose.md)

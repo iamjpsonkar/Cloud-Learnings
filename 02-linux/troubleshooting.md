@@ -460,3 +460,6 @@ file -s /dev/xvdb                   # check if filesystem present (or unformatte
 - [ss command reference](https://man7.org/linux/man-pages/man8/ss.8.html)
 - [Brendan Gregg's Linux Performance Tools](https://www.brendangregg.com/linuxperf.html)
 - [AWS EC2 troubleshooting guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstances.html)
+---
+
+← [Previous: Cron & Scheduling](./cron-scheduling.md) | [Home](../README.md) | [Next: Networking →](../03-networking/README.md)

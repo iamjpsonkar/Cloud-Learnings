@@ -229,3 +229,6 @@ Do you need services only available on a specific provider?
 - [AWS: Types of cloud computing deployment models](https://aws.amazon.com/types-of-cloud-computing/)
 - [Azure: What is hybrid cloud?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/)
 - [GCP: Public cloud vs private cloud vs hybrid cloud](https://cloud.google.com/learn/public-cloud-vs-private-cloud-vs-hybrid-cloud)
+---
+
+← [Previous: Service Models](./service-models.md) | [Home](../README.md) | [Next: Shared Responsibility →](./shared-responsibility.md)

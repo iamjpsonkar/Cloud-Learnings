@@ -50,4 +50,4 @@ CodePipeline                       (orchestrates all stages end-to-end)
 - [CodePipeline documentation](https://docs.aws.amazon.com/codepipeline/latest/userguide/)
 ---
 
-← [Previous: AWS Management](../11-management/README.md) | [Home](../../README.md) | [Next: AWS IaC →](../13-iac/README.md)
+← [Previous: Systems Manager](../11-management/systems-manager.md) | [Home](../../README.md) | [Next: CodeBuild →](./codebuild.md)

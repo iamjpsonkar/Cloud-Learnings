@@ -304,3 +304,6 @@ aws cloudwatch get-metric-statistics \
 - [EFS performance](https://docs.aws.amazon.com/efs/latest/ug/performance.html)
 - [EFS access points](https://docs.aws.amazon.com/efs/latest/ug/efs-access-points.html)
 - [EFS with ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/efs-volumes.html)
+---
+
+← [Previous: EBS](./ebs.md) | [Home](../../README.md) | [Next: FSx →](./fsx.md)

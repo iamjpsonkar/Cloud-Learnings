@@ -62,4 +62,4 @@ What are you storing?
 | FSx for Lustre | ~$0.14/GB/mo | Scratch tier |
 ---
 
-← [Previous: AWS Compute](../04-compute/README.md) | [Home](../../README.md) | [Next: AWS Databases →](../06-databases/README.md)
+← [Previous: Lambda](../04-compute/lambda.md) | [Home](../../README.md) | [Next: S3 →](./s3.md)

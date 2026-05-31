@@ -451,3 +451,6 @@ aws iam put-role-policy \
 - [SDK integrations](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-service-integrations.html)
 - [Step Functions pricing](https://aws.amazon.com/step-functions/pricing/)
 - [Workflow Studio](https://docs.aws.amazon.com/step-functions/latest/dg/workflow-studio.html) — visual state machine designer in the console
+---
+
+← [Previous: EventBridge](./eventbridge.md) | [Home](../../README.md) | [Next: AWS Security →](../09-security/README.md)

@@ -257,3 +257,6 @@ aws rds describe-db-cluster-endpoints \
 - [Aurora Serverless v2](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
 - [Aurora Global Database](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html)
 - [Aurora best practices](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.BestPractices.html)
+---
+
+← [Previous: RDS](./rds.md) | [Home](../../README.md) | [Next: DynamoDB →](./dynamodb.md)

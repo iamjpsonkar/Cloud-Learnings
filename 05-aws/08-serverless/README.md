@@ -69,4 +69,4 @@ Long-running workflows:
 | Real-time bidirectional communication | API Gateway WebSocket |
 ---
 
-← [Previous: AWS Containers](../07-containers/README.md) | [Home](../../README.md) | [Next: AWS Security →](../09-security/README.md)
+← [Previous: EKS](../07-containers/eks.md) | [Home](../../README.md) | [Next: API Gateway →](./api-gateway.md)

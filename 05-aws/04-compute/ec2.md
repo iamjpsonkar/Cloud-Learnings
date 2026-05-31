@@ -247,3 +247,6 @@ S3 (Files/Images)
 | Create AMI         | Snapshot for backup or replication |
 | Attach IAM Role    | Grant AWS service permissions      |
 | Attach EBS Volume  | Add or expand disk storage         |
+---
+
+← [Previous: AWS Compute](./README.md) | [Home](../../README.md) | [Next: AMI & Launch Templates →](./ami-launch-templates.md)

@@ -295,3 +295,6 @@ aws codebuild update-project \
 - [buildspec.yml reference](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html)
 - [Managed Docker images](https://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref-available.html)
 - [CodeBuild pricing](https://aws.amazon.com/codebuild/pricing/)
+---
+
+← [Previous: AWS CI/CD](./README.md) | [Home](../../README.md) | [Next: CodeDeploy →](./codedeploy.md)

@@ -477,3 +477,6 @@ time ./backup.sh
 - [ShellCheck — static analysis tool](https://www.shellcheck.net/)
 - [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 - [Bash pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+---
+
+← [Previous: Package Managers](./package-managers.md) | [Home](../README.md) | [Next: SSH, SCP & rsync →](./ssh-scp-rsync.md)

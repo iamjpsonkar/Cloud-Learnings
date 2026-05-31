@@ -371,3 +371,6 @@ table.put_item(Item={"PK": "SESSION#abc", "SK": "DATA", "data": "...", "expires_
 - [Single-table design guide](https://www.alexdebrie.com/posts/dynamodb-single-table/)
 - [DynamoDB pricing](https://aws.amazon.com/dynamodb/pricing/)
 - [DAX (DynamoDB Accelerator)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.html)
+---
+
+← [Previous: Aurora](./aurora.md) | [Home](../../README.md) | [Next: ElastiCache →](./elasticache.md)

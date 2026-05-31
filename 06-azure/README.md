@@ -99,4 +99,4 @@ Tenant (Entra ID)
 - [Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/)
 ---
 
-← [Previous: AWS Projects](../05-aws/14-projects/README.md) | [Home](../README.md) | [Next: Azure Account Setup →](./01-account-setup/README.md)
+← [Previous: Static Website on AWS](../05-aws/14-projects/static-website.md) | [Home](../README.md) | [Next: Azure Account Setup →](./01-account-setup/README.md)

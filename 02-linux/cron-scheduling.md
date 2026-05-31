@@ -398,3 +398,6 @@ aws scheduler create-schedule \
 - [systemd OnCalendar syntax](https://www.freedesktop.org/software/systemd/man/systemd.time.html)
 - [Amazon EventBridge Scheduler](https://docs.aws.amazon.com/scheduler/latest/UserGuide/what-is-scheduler.html)
 - [crontab.guru — interactive cron expression builder](https://crontab.guru/)
+---
+
+← [Previous: SSH, SCP & rsync](./ssh-scp-rsync.md) | [Home](../README.md) | [Next: Linux Troubleshooting →](./troubleshooting.md)

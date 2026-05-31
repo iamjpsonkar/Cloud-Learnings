@@ -40,4 +40,4 @@ You should be comfortable with:
 - Reading package manager output and applying security updates
 ---
 
-← [Previous: Cloud Fundamentals](../01-cloud-fundamentals/README.md) | [Home](../README.md) | [Next: Networking →](../03-networking/README.md)
+← [Previous: Cross-Cloud Comparison](../01-cloud-fundamentals/cross-cloud-comparison.md) | [Home](../README.md) | [Next: Filesystem →](./filesystem.md)

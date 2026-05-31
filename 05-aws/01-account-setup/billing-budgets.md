@@ -276,3 +276,6 @@ aws ce get-dimension-values \
 - [AWS Budgets documentation](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html)
 - [AWS Free Tier](https://aws.amazon.com/free/)
 - [Savings Plans documentation](https://docs.aws.amazon.com/savingsplans/latest/userguide/)
+---
+
+← [Previous: Account Setup](./account-setup.md) | [Home](../../README.md) | [Next: CLI Setup →](./cli-setup.md)

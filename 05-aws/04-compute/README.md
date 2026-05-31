@@ -57,4 +57,4 @@ Need compute?
 | Dedicated Host | Licensing, compliance | On-demand or reserved |
 ---
 
-← [Previous: AWS Networking](../03-networking/README.md) | [Home](../../README.md) | [Next: AWS Storage →](../05-storage/README.md)
+← [Previous: PrivateLink](../03-networking/privatelink.md) | [Home](../../README.md) | [Next: EC2 →](./ec2.md)

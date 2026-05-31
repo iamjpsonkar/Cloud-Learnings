@@ -413,3 +413,6 @@ healthcheck:
 - [Docker Compose documentation](https://docs.docker.com/compose/)
 - [Compose file reference](https://docs.docker.com/compose/compose-file/)
 - [Compose CLI reference](https://docs.docker.com/compose/reference/)
+---
+
+← [Previous: Dockerfile](./dockerfile.md) | [Home](../README.md) | [Next: Container Registries →](./container-registries.md)

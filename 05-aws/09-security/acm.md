@@ -354,3 +354,6 @@ aws events put-targets \
 - [ACM Private CA](https://docs.aws.amazon.com/privateca/latest/userguide/)
 - [ALB TLS policies](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/create-https-listener.html#describe-ssl-policies)
 - [ACM pricing](https://aws.amazon.com/certificate-manager/pricing/)
+---
+
+← [Previous: Secrets Manager](./secrets-manager.md) | [Home](../../README.md) | [Next: GuardDuty →](./guardduty.md)

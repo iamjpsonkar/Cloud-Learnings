@@ -396,3 +396,6 @@ doctl compute domain records list example.com --output table
 - [doctl CLI reference](https://docs.digitalocean.com/reference/doctl/)
 - [App Platform docs](https://docs.digitalocean.com/products/app-platform/)
 - [Spaces S3 compatibility](https://docs.digitalocean.com/products/spaces/reference/s3-compatibility/)
+---
+
+← [Previous: Alibaba Cloud](./alibaba-cloud.md) | [Home](../README.md) | [Next: Cloudflare →](./cloudflare.md)

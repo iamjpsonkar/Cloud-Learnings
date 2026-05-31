@@ -411,3 +411,6 @@ aws configservice select-aggregate-resource-config \
 - [Conformance pack samples](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [Advanced query](https://docs.aws.amazon.com/config/latest/developerguide/querying-AWS-resources.html)
 - [AWS Config pricing](https://aws.amazon.com/config/pricing/)
+---
+
+← [Previous: CloudTrail](./cloudtrail.md) | [Home](../../README.md) | [Next: AWS Management →](../11-management/README.md)

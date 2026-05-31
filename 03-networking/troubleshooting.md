@@ -418,3 +418,6 @@ sudo dnf install -y bind-utils traceroute mtr ncat tcpdump iperf3 nmap          
 - [tcpdump manual](https://www.tcpdump.org/manpages/tcpdump.1.html)
 - [mtr project](https://www.bitwizard.nl/mtr/)
 - [Brendan Gregg: Network Performance](https://www.brendangregg.com/blog/2014-09-06/linux-ftrace-tcp-retransmit-tracing.html)
+---
+
+← [Previous: Zero Trust](./zero-trust.md) | [Home](../README.md) | [Next: Git & DevOps Basics →](../04-git-devops-basics/README.md)

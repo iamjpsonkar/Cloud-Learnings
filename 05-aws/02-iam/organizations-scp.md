@@ -333,3 +333,6 @@ For new organizations, start with Control Tower rather than setting up Organizat
 - [SCP syntax reference](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_syntax.html)
 - [AWS Control Tower](https://docs.aws.amazon.com/controltower/latest/userguide/)
 - [SCP examples](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html)
+---
+
+← [Previous: Identity Center](./identity-center.md) | [Home](../../README.md) | [Next: AWS Networking →](../03-networking/README.md)

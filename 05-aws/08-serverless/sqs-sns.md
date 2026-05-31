@@ -414,3 +414,6 @@ aws sns publish \
 - [SNS documentation](https://docs.aws.amazon.com/sns/latest/dg/)
 - [SNS message filtering](https://docs.aws.amazon.com/sns/latest/dg/sns-message-filtering.html)
 - [SQS pricing](https://aws.amazon.com/sqs/pricing/)
+---
+
+← [Previous: API Gateway](./api-gateway.md) | [Home](../../README.md) | [Next: EventBridge →](./eventbridge.md)

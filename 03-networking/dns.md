@@ -261,3 +261,6 @@ aws route53resolver list-resolver-rules
 - [RFC 1035 — DNS Implementation](https://www.rfc-editor.org/rfc/rfc1035)
 - [AWS Route 53 Developer Guide](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/)
 - [Cloudflare: How DNS works](https://www.cloudflare.com/learning/dns/what-is-dns/)
+---
+
+← [Previous: TCP/IP](./tcp-ip.md) | [Home](../README.md) | [Next: CIDR & Subnetting →](./cidr-subnetting.md)

@@ -305,3 +305,6 @@ aws guardduty create-sample-findings \
 - [Finding types reference](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
 - [Automated remediation patterns](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_remediate.html)
 - [GuardDuty pricing](https://aws.amazon.com/guardduty/pricing/)
+---
+
+← [Previous: ACM](./acm.md) | [Home](../../README.md) | [Next: Security Hub →](./security-hub.md)

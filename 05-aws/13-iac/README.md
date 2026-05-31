@@ -46,4 +46,4 @@ Infrastructure as Code (IaC) treats your cloud resources as software: version-co
 - [Terraform AWS provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 ---
 
-← [Previous: AWS CI/CD](../12-cicd/README.md) | [Home](../../README.md) | [Next: AWS Projects →](../14-projects/README.md)
+← [Previous: CodePipeline](../12-cicd/codepipeline.md) | [Home](../../README.md) | [Next: CloudFormation →](./cloudformation.md)

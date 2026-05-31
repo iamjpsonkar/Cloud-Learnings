@@ -338,3 +338,6 @@ aws ec2 modify-instance-metadata-defaults \
 - [Launch templates documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html)
 - [Data Lifecycle Manager](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html)
 - [IMDSv2 best practices](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-IMDS-new-instances.html)
+---
+
+← [Previous: EC2](./ec2.md) | [Home](../../README.md) | [Next: Auto Scaling →](./auto-scaling.md)

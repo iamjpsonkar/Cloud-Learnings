@@ -310,3 +310,6 @@ aws ec2 start-network-insights-analysis \
 - [VPC documentation](https://docs.aws.amazon.com/vpc/latest/userguide/)
 - [VPC pricing](https://aws.amazon.com/vpc/pricing/)
 - [VPC Reachability Analyzer](https://docs.aws.amazon.com/vpc/latest/reachability/)
+---
+
+← [Previous: 3-Tier Architecture](./3-tier-architecture.md) | [Home](../../README.md) | [Next: Static Website on AWS →](./static-website.md)

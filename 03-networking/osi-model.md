@@ -164,3 +164,6 @@ When engineers say "Layer 4 load balancer" or "Layer 7 routing", they are referr
 - [OSI model — RFC 1122 (Internet layer requirements)](https://www.rfc-editor.org/rfc/rfc1122)
 - [Cloudflare: What is the OSI model?](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
 - [AWS Networking Fundamentals](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+---
+
+← [Previous: Networking](./README.md) | [Home](../README.md) | [Next: TCP/IP →](./tcp-ip.md)

@@ -28,4 +28,4 @@ These docs explain the concept. The provider-specific sections explain the imple
 Read this section first, then the provider-specific section for your target platform.
 ---
 
-← [Previous: Foundations](../00-foundations/README.md) | [Home](../README.md) | [Next: Linux →](../02-linux/README.md)
+← [Previous: Account Safety Checklist](../00-foundations/account-safety-checklist.md) | [Home](../README.md) | [Next: Compute →](./compute.md)

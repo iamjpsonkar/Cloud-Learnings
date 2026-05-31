@@ -61,4 +61,4 @@ Region
 | NAT Gateway | AZ | N/A | None (must create per AZ) |
 ---
 
-← [Previous: AWS IAM](../02-iam/README.md) | [Home](../../README.md) | [Next: AWS Compute →](../04-compute/README.md)
+← [Previous: Organizations & SCP](../02-iam/organizations-scp.md) | [Home](../../README.md) | [Next: VPC →](./vpc.md)

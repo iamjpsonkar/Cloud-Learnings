@@ -296,3 +296,6 @@ Key permissions the CodePipeline service role needs:
 - [Action type reference](https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html)
 - [GitHub connection setup](https://docs.aws.amazon.com/codepipeline/latest/userguide/connections-github.html)
 - [CodePipeline pricing](https://aws.amazon.com/codepipeline/pricing/)
+---
+
+← [Previous: CodeDeploy](./codedeploy.md) | [Home](../../README.md) | [Next: AWS IaC →](../13-iac/README.md)

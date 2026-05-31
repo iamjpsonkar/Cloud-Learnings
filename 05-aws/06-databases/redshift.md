@@ -359,3 +359,6 @@ aws cloudwatch put-metric-alarm \
 - [Redshift Spectrum](https://docs.aws.amazon.com/redshift/latest/dg/c-using-spectrum.html)
 - [Table design best practices](https://docs.aws.amazon.com/redshift/latest/dg/c_designing-tables-best-practices.html)
 - [Redshift pricing](https://aws.amazon.com/redshift/pricing/)
+---
+
+← [Previous: ElastiCache](./elasticache.md) | [Home](../../README.md) | [Next: AWS Containers →](../07-containers/README.md)

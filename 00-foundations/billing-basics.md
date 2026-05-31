@@ -200,3 +200,6 @@ aws ec2 create-tags \
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [GCP Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Cloud Pricing Comparison (Infracost)](https://www.infracost.io/docs/)
+---
+
+← [Previous: Regions & Zones](./regions-zones-geography.md) | [Home](../README.md) | [Next: Account Safety Checklist →](./account-safety-checklist.md)

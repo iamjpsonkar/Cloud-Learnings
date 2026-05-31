@@ -405,3 +405,6 @@ aws eks update-addon \
 - [IRSA](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
 - [EKS best practices guide](https://aws.github.io/aws-eks-best-practices/)
 - [EKS pricing](https://aws.amazon.com/eks/pricing/)
+---
+
+← [Previous: ECS](./ecs.md) | [Home](../../README.md) | [Next: AWS Serverless →](../08-serverless/README.md)

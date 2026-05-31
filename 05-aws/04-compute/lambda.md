@@ -498,3 +498,6 @@ aws lambda update-function-configuration \
 - [Lambda event source mappings](https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html)
 - [Lambda concurrency](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html)
 - [Lambda performance tuning](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+---
+
+← [Previous: Load Balancers](./load-balancers.md) | [Home](../../README.md) | [Next: AWS Storage →](../05-storage/README.md)

@@ -347,3 +347,6 @@ aws secretsmanager restore-secret --secret-id prod/my-app/database
 - [Secrets Manager documentation](https://docs.aws.amazon.com/secretsmanager/latest/userguide/)
 - [Rotation functions](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [Rotation Lambda template](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotating-secrets-lambda-function-overview.html)
+---
+
+← [Previous: KMS](./kms.md) | [Home](../../README.md) | [Next: ACM →](./acm.md)

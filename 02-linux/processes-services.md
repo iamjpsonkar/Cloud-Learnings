@@ -320,3 +320,6 @@ ss -s                                # socket statistics summary
 - [journalctl manual](https://man7.org/linux/man-pages/man1/journalctl.1.html)
 - [Linux signals reference](https://man7.org/linux/man-pages/man7/signal.7.html)
 - [tmux cheatsheet](https://tmuxcheatsheet.com/)
+---
+
+← [Previous: Users & Permissions](./users-groups-permissions.md) | [Home](../README.md) | [Next: Package Managers →](./package-managers.md)

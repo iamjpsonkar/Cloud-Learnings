@@ -343,3 +343,6 @@ echo "exclude=nginx" | sudo tee -a /etc/dnf/dnf.conf
 - [Amazon Linux 2023 package management](https://docs.aws.amazon.com/linux/al2023/ug/package-management.html)
 - [dnf documentation](https://dnf.readthedocs.io/)
 - [Alpine apk reference](https://wiki.alpinelinux.org/wiki/Alpine_Package_Keeper)
+---
+
+← [Previous: Processes & Services](./processes-services.md) | [Home](../README.md) | [Next: Shell Scripting →](./shell-scripting.md)

@@ -245,3 +245,6 @@ In practice, most architectures use a combination: FaaS for async processing, Pa
 - [AWS: Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
 - [Azure: IaaS, PaaS, SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/)
 - [GCP: Cloud computing services](https://cloud.google.com/learn/paas-vs-iaas-vs-saas)
+---
+
+← [Previous: Cloud Concepts](./cloud-concepts.md) | [Home](../README.md) | [Next: Deployment Models →](./deployment-models.md)

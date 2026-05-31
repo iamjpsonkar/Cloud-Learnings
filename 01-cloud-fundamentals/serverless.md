@@ -242,3 +242,6 @@ DynamoDB (data store) or RDS Proxy → RDS
 - [Azure Functions documentation](https://learn.microsoft.com/en-us/azure/azure-functions/)
 - [GCP Cloud Run documentation](https://cloud.google.com/run/docs)
 - [Serverless Land (AWS patterns)](https://serverlessland.com/)
+---
+
+← [Previous: IAM](./iam.md) | [Home](../README.md) | [Next: Cross-Cloud Comparison →](./cross-cloud-comparison.md)

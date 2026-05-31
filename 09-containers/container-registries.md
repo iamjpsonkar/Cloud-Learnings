@@ -417,3 +417,6 @@ kubectl create secret docker-registry ecr-pull-secret \
 - [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 - [Harbor documentation](https://goharbor.io/docs/)
 - [Cosign](https://docs.sigstore.dev/signing/quickstart/)
+---
+
+← [Previous: Docker Compose](./docker-compose.md) | [Home](../README.md) | [Next: Kubernetes (Batch 17) →](../10-kubernetes/README.md)

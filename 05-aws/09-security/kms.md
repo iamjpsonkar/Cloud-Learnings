@@ -310,3 +310,6 @@ aws kms cancel-key-deletion --key-id $KEY_ID
 - [Key policies](https://docs.aws.amazon.com/kms/latest/developerguide/key-policies.html)
 - [Envelope encryption](https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#enveloping)
 - [Multi-Region keys](https://docs.aws.amazon.com/kms/latest/developerguide/multi-region-keys-overview.html)
+---
+
+← [Previous: AWS Security](./README.md) | [Home](../../README.md) | [Next: Secrets Manager →](./secrets-manager.md)

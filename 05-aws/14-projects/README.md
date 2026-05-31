@@ -28,4 +28,4 @@ Practical projects that combine multiple AWS services into complete, deployable 
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 ---
 
-← [Previous: AWS IaC](../13-iac/README.md) | [Home](../../README.md) | [Next: Azure →](../../06-azure/README.md)
+← [Previous: Terraform on AWS](../13-iac/terraform-on-aws.md) | [Home](../../README.md) | [Next: 3-Tier Architecture →](./3-tier-architecture.md)

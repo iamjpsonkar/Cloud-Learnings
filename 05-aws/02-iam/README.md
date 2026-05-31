@@ -37,4 +37,4 @@ IAM is the foundation of AWS security. Every API call is authenticated (who are 
 - [AWS Organizations documentation](https://docs.aws.amazon.com/organizations/latest/userguide/)
 ---
 
-← [Previous: AWS Account Setup](../01-account-setup/README.md) | [Home](../../README.md) | [Next: AWS Networking →](../03-networking/README.md)
+← [Previous: CLI Setup](../01-account-setup/cli-setup.md) | [Home](../../README.md) | [Next: IAM Overview →](./iam-overview.md)

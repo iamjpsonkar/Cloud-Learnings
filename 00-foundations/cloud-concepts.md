@@ -145,3 +145,6 @@ Your workloads run on physical hardware shared with other customers. While moder
 - [AWS: What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
 - [Azure: What is cloud computing?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/)
 - [GCP: What is cloud computing?](https://cloud.google.com/learn/what-is-cloud-computing)
+---
+
+← [Previous: Foundations](./README.md) | [Home](../README.md) | [Next: Service Models →](./service-models.md)

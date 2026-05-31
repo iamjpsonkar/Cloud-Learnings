@@ -325,3 +325,6 @@ ssh -vT git@github-work 2>&1 | grep -E "IdentityFile|Authentications|Hi"
 - [OpenSSH man page](https://man.openbsd.org/ssh)
 - [SSH config reference](https://man.openbsd.org/ssh_config)
 - [GitHub signed commits with SSH](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+---
+
+← [Previous: GitHub Workflow](./github-workflow.md) | [Home](../README.md) | [Next: AWS →](../05-aws/README.md)

@@ -273,3 +273,6 @@ sudo sysctl --system
 - [Linux TCP tuning guide (Cloudflare Blog)](https://blog.cloudflare.com/optimizing-tcp-for-high-throughput-and-low-latency/)
 - [ss(8) man page](https://man7.org/linux/man-pages/man8/ss.8.html)
 - [AWS NAT Gateway connection timeout behaviour](https://docs.aws.amazon.com/vpc/latest/userguide/nat-gateway-troubleshooting.html)
+---
+
+← [Previous: OSI Model](./osi-model.md) | [Home](../README.md) | [Next: DNS →](./dns.md)

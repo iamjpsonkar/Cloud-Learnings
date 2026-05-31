@@ -323,3 +323,6 @@ MaxAuthTries 3
 - [Linux man pages: useradd(8)](https://man7.org/linux/man-pages/man8/useradd.8.html)
 - [sudoers(5) manual](https://man7.org/linux/man-pages/man5/sudoers.5.html)
 - [SSH hardening guide](https://www.ssh.com/academy/ssh/config)
+---
+
+← [Previous: Filesystem](./filesystem.md) | [Home](../README.md) | [Next: Processes & Services →](./processes-services.md)

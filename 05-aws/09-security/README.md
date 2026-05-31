@@ -61,4 +61,4 @@ Audit
 - [ ] Distinguish ACM public vs ACM Private CA
 ---
 
-← [Previous: AWS Serverless](../08-serverless/README.md) | [Home](../../README.md) | [Next: AWS Observability →](../10-observability/README.md)
+← [Previous: Step Functions](../08-serverless/step-functions.md) | [Home](../../README.md) | [Next: KMS →](./kms.md)

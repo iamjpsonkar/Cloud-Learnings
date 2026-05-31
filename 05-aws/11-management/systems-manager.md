@@ -152,3 +152,6 @@ Both store secrets, but they differ:
 | Best for             | Config + secrets     | Database credentials     |
 
 Use Parameter Store for most configs. Use Secrets Manager when you need automatic rotation (e.g., RDS passwords).
+---
+
+← [Previous: AWS Management](./README.md) | [Home](../../README.md) | [Next: AWS CI/CD →](../12-cicd/README.md)

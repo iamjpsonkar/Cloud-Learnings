@@ -383,3 +383,6 @@ aws cloudtrail validate-logs \
 - [Athena table for CloudTrail](https://docs.aws.amazon.com/athena/latest/ug/cloudtrail-logs.html)
 - [CIS Benchmark CloudTrail controls](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
 - [CloudTrail pricing](https://aws.amazon.com/cloudtrail/pricing/)
+---
+
+← [Previous: CloudWatch](./cloudwatch.md) | [Home](../../README.md) | [Next: AWS Config →](./config.md)

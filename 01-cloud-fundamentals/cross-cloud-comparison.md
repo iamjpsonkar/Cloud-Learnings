@@ -195,3 +195,6 @@ These mappings are approximate. Services with the same name often have different
 - [AWS to Azure service comparison](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
 - [AWS to GCP service comparison](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison)
 - [GCP to Azure service comparison](https://learn.microsoft.com/en-us/azure/architecture/gcp-professional/services)
+---
+
+← [Previous: Serverless](./serverless.md) | [Home](../README.md) | [Next: Linux →](../02-linux/README.md)

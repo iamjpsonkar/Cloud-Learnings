@@ -62,4 +62,4 @@ Layer 1 — Physical      Cables, fibre, radio, voltage levels
 - [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
 ---
 
-← [Previous: Linux](../02-linux/README.md) | [Home](../README.md) | [Next: Git & DevOps Basics →](../04-git-devops-basics/README.md)
+← [Previous: Linux Troubleshooting](../02-linux/troubleshooting.md) | [Home](../README.md) | [Next: OSI Model →](./osi-model.md)

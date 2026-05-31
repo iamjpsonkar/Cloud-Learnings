@@ -330,3 +330,6 @@ aws cloudwatch put-metric-alarm \
 - [Redis commands reference](https://redis.io/commands/)
 - [Caching strategies](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Strategies.html)
 - [ElastiCache pricing](https://aws.amazon.com/elasticache/pricing/)
+---
+
+← [Previous: DynamoDB](./dynamodb.md) | [Home](../../README.md) | [Next: Redshift →](./redshift.md)

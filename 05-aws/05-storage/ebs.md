@@ -299,3 +299,6 @@ aws ec2 describe-volumes \
 - [EBS snapshots](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html)
 - [EBS encryption](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html)
 - [Data Lifecycle Manager](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html)
+---
+
+← [Previous: S3](./s3.md) | [Home](../../README.md) | [Next: EFS →](./efs.md)

@@ -9,4 +9,4 @@ Topics covered in this section:
 > **Note:** `systems-manager.md` is migrated content from the original repo.
 ---
 
-← [Previous: AWS Observability](../10-observability/README.md) | [Home](../../README.md) | [Next: AWS CI/CD →](../12-cicd/README.md)
+← [Previous: AWS Config](../10-observability/config.md) | [Home](../../README.md) | [Next: Systems Manager →](./systems-manager.md)

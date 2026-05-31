@@ -347,3 +347,6 @@ echo "Deployment complete: https://$DOMAIN"
 - [S3 static website hosting](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
 - [CloudFront + S3 with OAC](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
 - [Route 53 alias records](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
+---
+
+← [Previous: Secure VPC](./secure-vpc.md) | [Home](../../README.md) | [Next: Azure →](../../06-azure/README.md)

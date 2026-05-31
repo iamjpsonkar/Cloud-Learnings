@@ -44,4 +44,4 @@ Coverage of cloud platforms beyond AWS, Azure, and GCP — including Oracle Clou
 | [cloudflare.md](cloudflare.md) | Cloudflare — Workers, R2, D1, CDN, Zero Trust |
 ---
 
-← [Previous: GCP Projects](../07-gcp/12-projects/README.md) | [Home](../README.md) | [Next: Containers →](../09-containers/README.md)
+← [Previous: GCP Projects](../07-gcp/12-projects/README.md) | [Home](../README.md) | [Next: OCI →](./oci.md)

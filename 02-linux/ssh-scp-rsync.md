@@ -416,3 +416,6 @@ ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null ubuntu@host
 - [rsync documentation](https://rsync.samba.org/documentation.html)
 - [AWS EC2 Instance Connect](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-methods.html)
 - [AWS SSM Session Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html)
+---
+
+← [Previous: Shell Scripting](./shell-scripting.md) | [Home](../README.md) | [Next: Cron & Scheduling →](./cron-scheduling.md)

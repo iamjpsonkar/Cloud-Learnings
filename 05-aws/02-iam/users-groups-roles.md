@@ -324,3 +324,6 @@ curl -s http://169.254.169.254/latest/meta-data/iam/security-credentials/MyApp-E
 - [IAM roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
 - [Instance profiles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html)
 - [OIDC federation](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc.html)
+---
+
+← [Previous: IAM Overview](./iam-overview.md) | [Home](../../README.md) | [Next: IAM Policies →](./policies.md)

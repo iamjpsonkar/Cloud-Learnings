@@ -309,3 +309,6 @@ aws securityhub get-insight-results \
 - [ASFF (Amazon Security Finding Format)](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html)
 - [AWS Foundational Security Best Practices](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html)
 - [Automated remediation patterns](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-cloudwatch-events.html)
+---
+
+← [Previous: GuardDuty](./guardduty.md) | [Home](../../README.md) | [Next: WAF & Shield →](./waf-shield.md)

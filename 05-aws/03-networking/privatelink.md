@@ -295,3 +295,6 @@ aws ec2 describe-vpc-endpoints \
 - [PrivateLink concepts](https://docs.aws.amazon.com/vpc/latest/privatelink/privatelink-share-your-services.html)
 - [Endpoint service configuration](https://docs.aws.amazon.com/vpc/latest/privatelink/create-endpoint-service.html)
 - [Endpoint policies](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-access.html)
+---
+
+← [Previous: VPC Peering & Transit Gateway](./vpc-peering-tgw.md) | [Home](../../README.md) | [Next: AWS Compute →](../04-compute/README.md)

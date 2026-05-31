@@ -492,3 +492,6 @@ curl -X POST "https://api.cloudflare.com/client/v4/zones/${ZONE_ID}/rulesets" \
 - [Cloudflare Zero Trust](https://developers.cloudflare.com/cloudflare-one/)
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)
 - [Wrangler CLI reference](https://developers.cloudflare.com/workers/wrangler/)
+---
+
+← [Previous: DigitalOcean](./digitalocean.md) | [Home](../README.md) | [Next: Containers →](../09-containers/README.md)

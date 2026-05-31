@@ -302,3 +302,6 @@ User receives response — subsequent requests served from Tokyo
 - [Azure networking overview](https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview)
 - [GCP VPC overview](https://cloud.google.com/vpc/docs/overview)
 - [Subnet CIDR calculator](https://www.subnet-calculator.com/)
+---
+
+← [Previous: Storage](./storage.md) | [Home](../README.md) | [Next: Databases →](./databases.md)

@@ -384,3 +384,6 @@ aws cloudwatch put-metric-alarm \
 - [REST API documentation](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-rest-api.html)
 - [WebSocket API](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api.html)
 - [API Gateway pricing](https://aws.amazon.com/api-gateway/pricing/)
+---
+
+← [Previous: AWS Serverless](./README.md) | [Home](../../README.md) | [Next: SQS & SNS →](./sqs-sns.md)

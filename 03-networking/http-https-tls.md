@@ -365,3 +365,6 @@ curl -vI https://example.com 2>&1 | grep -A 5 "Server certificate"
 - [RFC 8446 — TLS 1.3](https://www.rfc-editor.org/rfc/rfc8446)
 - [AWS Certificate Manager](https://docs.aws.amazon.com/acm/latest/userguide/)
 - [Cloudflare: TLS Explained](https://www.cloudflare.com/learning/ssl/what-is-tls/)
+---
+
+← [Previous: Load Balancing](./load-balancing.md) | [Home](../README.md) | [Next: CDN →](./cdn.md)

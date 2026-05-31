@@ -534,3 +534,6 @@ git last
 - [Conventional Commits specification](https://www.conventionalcommits.org/)
 - [Oh My Git! — interactive learning](https://ohmygit.org/)
 - [Git flight rules — how to handle common situations](https://github.com/k88hudson/git-flight-rules)
+---
+
+← [Previous: Git & DevOps Basics](./README.md) | [Home](../README.md) | [Next: GitHub Workflow →](./github-workflow.md)

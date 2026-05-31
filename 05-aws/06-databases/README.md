@@ -57,4 +57,4 @@ What's your workload?
 | Serverless | Aurora Serverless v2 | Yes (on-demand capacity) | No | Redshift Serverless |
 ---
 
-← [Previous: AWS Storage](../05-storage/README.md) | [Home](../../README.md) | [Next: AWS Containers →](../07-containers/README.md)
+← [Previous: FSx](../05-storage/fsx.md) | [Home](../../README.md) | [Next: RDS →](./rds.md)

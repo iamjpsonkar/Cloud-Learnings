@@ -236,3 +236,6 @@ docker pull $REGISTRY/dockerhub/library/nginx:1.25-alpine
 - [ECR documentation](https://docs.aws.amazon.com/ecr/latest/userguide/)
 - [Lifecycle policy examples](https://docs.aws.amazon.com/ecr/latest/userguide/lifecycle_policy_examples.html)
 - [ECR pricing](https://aws.amazon.com/ecr/pricing/)
+---
+
+← [Previous: AWS Containers](./README.md) | [Home](../../README.md) | [Next: ECS →](./ecs.md)

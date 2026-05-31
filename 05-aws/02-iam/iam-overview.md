@@ -307,3 +307,6 @@ aws iam get-service-last-accessed-details \
 - [IAM best practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 - [IAM condition keys reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
 - [AWS policy simulator](https://policysim.aws.amazon.com/)
+---
+
+← [Previous: AWS IAM](./README.md) | [Home](../../README.md) | [Next: Users, Groups & Roles →](./users-groups-roles.md)

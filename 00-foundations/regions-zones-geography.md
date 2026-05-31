@@ -202,3 +202,6 @@ GCP Cloud Storage and BigQuery support multi-region configurations where data is
 - [Azure geographies and regions](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/)
 - [GCP locations](https://cloud.google.com/about/locations)
 - [Cloud Ping — measure latency to cloud regions](https://cloudping.info)
+---
+
+← [Previous: Shared Responsibility](./shared-responsibility.md) | [Home](../README.md) | [Next: Billing Basics →](./billing-basics.md)

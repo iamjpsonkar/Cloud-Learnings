@@ -361,3 +361,6 @@ aws cloudwatch put-metric-alarm \
 - [RDS best practices](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
 - [RDS Proxy](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy.html)
 - [Secrets Manager rotation for RDS](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotate-secrets_turn-on-for-db.html)
+---
+
+← [Previous: AWS Databases](./README.md) | [Home](../../README.md) | [Next: Aurora →](./aurora.md)

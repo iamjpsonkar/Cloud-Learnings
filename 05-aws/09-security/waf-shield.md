@@ -310,3 +310,6 @@ EC2 / ECS / Lambda (Security Groups — no direct internet exposure)
 - [AWS Managed Rules](https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-list.html)
 - [Shield Advanced](https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html)
 - [WAF pricing](https://aws.amazon.com/waf/pricing/)
+---
+
+← [Previous: Security Hub](./security-hub.md) | [Home](../../README.md) | [Next: AWS Observability →](../10-observability/README.md)

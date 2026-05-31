@@ -395,3 +395,6 @@ aws synthetics create-canary \
 - [Logs Insights query syntax](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_QuerySyntax.html)
 - [CloudWatch Synthetics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Synthetics_Canaries.html)
 - [CloudWatch pricing](https://aws.amazon.com/cloudwatch/pricing/)
+---
+
+← [Previous: AWS Observability](./README.md) | [Home](../../README.md) | [Next: CloudTrail →](./cloudtrail.md)

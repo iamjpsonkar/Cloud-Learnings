@@ -245,3 +245,6 @@ curl -s http://[fd00:ec2::254]/latest/meta-data/ipv6
 - [RFC 4632 — CIDR](https://www.rfc-editor.org/rfc/rfc4632)
 - [AWS VPC CIDR guidance](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html)
 - [Subnet calculator — subnet.tools](https://subnet.tools/)
+---
+
+← [Previous: DNS](./dns.md) | [Home](../README.md) | [Next: NAT & Routing →](./nat-routing.md)

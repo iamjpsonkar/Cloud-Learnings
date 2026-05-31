@@ -372,3 +372,6 @@ aws cloudwatch put-metric-alarm \
 - [EventBridge Pipes](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-pipes.html)
 - [EventBridge Scheduler](https://docs.aws.amazon.com/scheduler/latest/UserGuide/)
 - [Event pattern reference](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-event-patterns.html)
+---
+
+← [Previous: SQS & SNS](./sqs-sns.md) | [Home](../../README.md) | [Next: Step Functions →](./step-functions.md)

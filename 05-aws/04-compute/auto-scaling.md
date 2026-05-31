@@ -374,3 +374,6 @@ aws autoscaling resume-processes \
 - [Scaling policies](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scale-based-on-demand.html)
 - [Instance refresh](https://docs.aws.amazon.com/autoscaling/ec2/userguide/asg-instance-refresh.html)
 - [Lifecycle hooks](https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html)
+---
+
+← [Previous: AMI & Launch Templates](./ami-launch-templates.md) | [Home](../../README.md) | [Next: Load Balancers →](./load-balancers.md)

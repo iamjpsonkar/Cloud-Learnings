@@ -53,4 +53,4 @@ Configuration (What changed and is it compliant?)
 | AWS Config | Resource config snapshots + changes | Config Rules, Security Hub, Audit Manager |
 ---
 
-← [Previous: AWS Security](../09-security/README.md) | [Home](../../README.md) | [Next: AWS Management →](../11-management/README.md)
+← [Previous: WAF & Shield](../09-security/waf-shield.md) | [Home](../../README.md) | [Next: CloudWatch →](./cloudwatch.md)

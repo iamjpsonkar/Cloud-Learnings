@@ -385,3 +385,6 @@ aws cloudwatch put-metric-alarm \
 - [Well-Architected Web Application Lens](https://docs.aws.amazon.com/wellarchitected/latest/web-application-lens/)
 - [Aurora documentation](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/)
 - [ECS Fargate pricing](https://aws.amazon.com/fargate/pricing/)
+---
+
+← [Previous: AWS Projects](./README.md) | [Home](../../README.md) | [Next: Secure VPC →](./secure-vpc.md)

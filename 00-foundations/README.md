@@ -26,4 +26,4 @@ Cloud certifications and job interviews test these concepts heavily. More import
 Work through these before diving into provider-specific services.
 ---
 
-← [Previous: Home](../README.md) | [Home](../README.md) | [Next: Cloud Fundamentals →](../01-cloud-fundamentals/README.md)
+← [Previous: Home](../README.md) | [Home](../README.md) | [Next: Cloud Concepts →](./cloud-concepts.md)

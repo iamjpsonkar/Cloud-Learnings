@@ -253,3 +253,6 @@ permissions:
 - [Azure RBAC documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
 - [GCP IAM overview](https://cloud.google.com/iam/docs/overview)
 - [GitHub Actions OIDC with AWS](https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services)
+---
+
+← [Previous: Databases](./databases.md) | [Home](../README.md) | [Next: Serverless →](./serverless.md)

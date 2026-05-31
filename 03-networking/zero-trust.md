@@ -287,3 +287,6 @@ aws ec2 create-vpc-endpoint \
 - [AWS Verified Access documentation](https://docs.aws.amazon.com/verified-access/latest/ug/)
 - [SPIFFE/SPIRE project](https://spiffe.io/)
 - [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model)
+---
+
+← [Previous: CDN](./cdn.md) | [Home](../README.md) | [Next: Networking Troubleshooting →](./troubleshooting.md)

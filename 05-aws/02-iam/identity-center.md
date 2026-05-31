@@ -303,3 +303,6 @@ AWS Accounts (roles created automatically per permission set)
 - [IAM Identity Center CLI commands](https://docs.aws.amazon.com/cli/latest/reference/sso-admin/)
 - [SCIM provisioning](https://docs.aws.amazon.com/singlesignon/latest/userguide/provision-automatically.html)
 - [Okta + AWS IAM Identity Center integration](https://help.okta.com/en-us/content/topics/deploymentguides/aws/aws-deployment.htm)
+---
+
+← [Previous: IAM Policies](./policies.md) | [Home](../../README.md) | [Next: Organizations & SCP →](./organizations-scp.md)
