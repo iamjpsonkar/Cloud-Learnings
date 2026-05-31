@@ -67,3 +67,6 @@ Long-running workflows:
 | Schedule tasks (cron/rate) | EventBridge Scheduler |
 | Multi-step workflow with retries, branching | Step Functions |
 | Real-time bidirectional communication | API Gateway WebSocket |
+---
+
+← [Previous: AWS Containers](../07-containers/README.md) | [Home](../../README.md) | [Next: AWS Security →](../09-security/README.md)

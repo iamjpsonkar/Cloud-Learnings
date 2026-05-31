@@ -42,3 +42,6 @@ Coverage of cloud platforms beyond AWS, Azure, and GCP — including Oracle Clou
 | [alibaba-cloud.md](alibaba-cloud.md) | Alibaba Cloud — ECS, OSS, ApsaraDB, CDN |
 | [digitalocean.md](digitalocean.md) | DigitalOcean — Droplets, Spaces, App Platform, managed databases |
 | [cloudflare.md](cloudflare.md) | Cloudflare — Workers, R2, D1, CDN, Zero Trust |
+---
+
+← [Previous: GCP Projects](../07-gcp/12-projects/README.md) | [Home](../README.md) | [Next: Containers →](../09-containers/README.md)

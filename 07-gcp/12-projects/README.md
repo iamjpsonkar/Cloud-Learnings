@@ -378,3 +378,6 @@ bq query --use_legacy_sql=false --project_id=$PROJECT_ID \
 - [GCP reference architectures](https://cloud.google.com/architecture/framework)
 - [GCP pricing calculator](https://cloud.google.com/products/calculator)
 - [Well-Architected Framework on GCP](https://cloud.google.com/architecture/framework)
+---
+
+← [Previous: GCP IaC](../11-iac/README.md) | [Home](../../README.md) | [Next: Other Clouds →](../../08-other-clouds/README.md)

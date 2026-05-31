@@ -506,3 +506,6 @@ az functionapp config appsettings set \
 - [Azure Reference Architectures](https://docs.microsoft.com/azure/architecture/reference-architectures/)
 - [Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/)
 - [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+---
+
+← [Previous: Azure IaC](../11-iac/README.md) | [Home](../../README.md) | [Next: GCP →](../../07-gcp/README.md)

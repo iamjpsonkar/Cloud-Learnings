@@ -84,3 +84,6 @@ S3 (File Storage)
 ```
 
 Major organizations using AWS: Netflix, Airbnb, NASA, Samsung, Twitch.
+---
+
+← [Previous: Git & DevOps Basics](../04-git-devops-basics/README.md) | [Home](../README.md) | [Next: AWS Account Setup →](./01-account-setup/README.md)

@@ -441,3 +441,6 @@ jobs:
 - [GCS Terraform backend](https://developer.hashicorp.com/terraform/language/settings/backends/gcs)
 - [Config Connector](https://cloud.google.com/config-connector/docs)
 - [Workload Identity Federation for GitHub Actions](https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions)
+---
+
+← [Previous: GCP Observability](../10-observability/README.md) | [Home](../../README.md) | [Next: GCP Projects →](../12-projects/README.md)

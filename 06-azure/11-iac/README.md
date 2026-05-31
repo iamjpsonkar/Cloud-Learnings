@@ -638,3 +638,6 @@ jobs:
 - [Bicep modules](https://docs.microsoft.com/azure/azure-resource-manager/bicep/modules)
 - [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 - [Azure Developer CLI (azd)](https://docs.microsoft.com/azure/developer/azure-developer-cli/)
+---
+
+← [Previous: Azure Observability](../10-observability/README.md) | [Home](../../README.md) | [Next: Azure Projects →](../12-projects/README.md)

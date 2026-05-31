@@ -51,3 +51,6 @@ Configuration (What changed and is it compliant?)
 | CloudWatch Logs | Application and service logs | Logs Insights, Metric Filters, Lambda subscriptions |
 | CloudWatch Metrics | Numeric time-series data | Alarms, Dashboards, Auto Scaling, Anomaly Detection |
 | AWS Config | Resource config snapshots + changes | Config Rules, Security Hub, Audit Manager |
+---
+
+← [Previous: AWS Security](../09-security/README.md) | [Home](../../README.md) | [Next: AWS Management →](../11-management/README.md)

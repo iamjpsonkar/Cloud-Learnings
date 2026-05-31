@@ -59,3 +59,6 @@ Audit
 - [ ] Create a WAF web ACL with AWS Managed Rules attached to an ALB
 - [ ] Provision and validate an ACM public certificate via DNS validation
 - [ ] Distinguish ACM public vs ACM Private CA
+---
+
+← [Previous: AWS Serverless](../08-serverless/README.md) | [Home](../../README.md) | [Next: AWS Observability →](../10-observability/README.md)

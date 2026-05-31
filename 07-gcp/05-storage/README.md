@@ -239,3 +239,6 @@ echo "${FS_IP}:/data /mnt/my-app-data nfs defaults,hard,intr 0 0" | sudo tee -a 
 - [Cloud Storage Python client](https://googleapis.dev/python/storage/latest/)
 - [Filestore documentation](https://cloud.google.com/filestore/docs)
 - [Signed URLs](https://cloud.google.com/storage/docs/access-control/signed-urls)
+---
+
+← [Previous: GCP Compute](../04-compute/README.md) | [Home](../../README.md) | [Next: GCP Databases →](../06-databases/README.md)

@@ -294,3 +294,6 @@ gcloud compute instance-templates create tmpl-spot-worker \
 - [Machine types](https://cloud.google.com/compute/docs/machine-resource)
 - [Managed instance groups](https://cloud.google.com/compute/docs/instance-groups/working-with-managed-instances)
 - [Persistent Disk types](https://cloud.google.com/compute/docs/disks)
+---
+
+← [Previous: GCP Networking](../03-networking/README.md) | [Home](../../README.md) | [Next: GCP Storage →](../05-storage/README.md)

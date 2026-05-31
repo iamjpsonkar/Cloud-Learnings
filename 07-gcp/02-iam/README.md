@@ -257,3 +257,6 @@ gcloud resource-manager org-policies enable-enforce \
 - [Predefined roles reference](https://cloud.google.com/iam/docs/understanding-roles)
 - [Workload Identity Federation](https://cloud.google.com/iam/docs/workload-identity-federation)
 - [Service account best practices](https://cloud.google.com/iam/docs/best-practices-for-using-and-managing-service-accounts)
+---
+
+← [Previous: GCP Account Setup](../01-account-setup/README.md) | [Home](../../README.md) | [Next: GCP Networking →](../03-networking/README.md)

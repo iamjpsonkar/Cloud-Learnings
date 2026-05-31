@@ -38,3 +38,6 @@ You should be comfortable with:
 - Writing basic shell scripts for automation
 - Diagnosing disk, CPU, and memory issues
 - Reading package manager output and applying security updates
+---
+
+← [Previous: Cloud Fundamentals](../01-cloud-fundamentals/README.md) | [Home](../README.md) | [Next: Networking →](../03-networking/README.md)

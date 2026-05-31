@@ -35,3 +35,6 @@ Before building anything in AWS, you need a secure account foundation. Accounts 
 
 - [AWS Security best practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 - [AWS Well-Architected Framework — Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/)
+---
+
+← [Previous: AWS](../README.md) | [Home](../../README.md) | [Next: AWS IAM →](../02-iam/README.md)

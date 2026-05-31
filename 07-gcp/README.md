@@ -99,3 +99,6 @@ GCP's global load balancer is a single anycast IP that routes traffic to the nea
 | [10 Observability](10-observability/README.md) | Cloud Monitoring, Cloud Logging, Cloud Trace, Error Reporting |
 | [11 IaC](11-iac/README.md) | Terraform on GCP, Config Connector |
 | [12 Projects](12-projects/README.md) | Static website, secure VPC, GKE microservice, serverless API |
+---
+
+← [Previous: Azure Projects](../06-azure/12-projects/README.md) | [Home](../README.md) | [Next: GCP Account Setup →](./01-account-setup/README.md)

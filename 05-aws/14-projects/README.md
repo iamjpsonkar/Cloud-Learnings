@@ -26,3 +26,6 @@ Practical projects that combine multiple AWS services into complete, deployable 
 
 - [AWS Architecture Center](https://aws.amazon.com/architecture/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+---
+
+← [Previous: AWS IaC](../13-iac/README.md) | [Home](../../README.md) | [Next: Azure →](../../06-azure/README.md)

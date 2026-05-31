@@ -330,3 +330,6 @@ globalPolicyEvaluationMode: ENABLE
 - [Security Command Center](https://cloud.google.com/security-command-center/docs)
 - [Cloud Armor documentation](https://cloud.google.com/armor/docs)
 - [VPC Service Controls](https://cloud.google.com/vpc-service-controls/docs)
+---
+
+← [Previous: GCP Serverless](../08-serverless/README.md) | [Home](../../README.md) | [Next: GCP Observability →](../10-observability/README.md)

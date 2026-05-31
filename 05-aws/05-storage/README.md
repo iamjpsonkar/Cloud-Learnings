@@ -60,3 +60,6 @@ What are you storing?
 | EFS IA | $0.025/GB/mo | Infrequent access tier |
 | FSx for Windows | ~$0.13/GB/mo | SSD, includes NTFS |
 | FSx for Lustre | ~$0.14/GB/mo | Scratch tier |
+---
+
+← [Previous: AWS Compute](../04-compute/README.md) | [Home](../../README.md) | [Next: AWS Databases →](../06-databases/README.md)

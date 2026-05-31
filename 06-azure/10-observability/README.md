@@ -399,3 +399,6 @@ az monitor scheduled-query create \
 - [Log Analytics KQL reference](https://docs.microsoft.com/azure/data-explorer/kusto/query/)
 - [Application Insights](https://docs.microsoft.com/azure/azure-monitor/app/app-insights-overview)
 - [Azure Monitor alerts](https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-overview)
+---
+
+← [Previous: Azure Security](../09-security/README.md) | [Home](../../README.md) | [Next: Azure IaC →](../11-iac/README.md)

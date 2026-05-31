@@ -26,3 +26,6 @@ These docs explain the concept. The provider-specific sections explain the imple
 | SSM / Management | [Systems Manager](../05-aws/11-management/systems-manager.md) | Azure Arc | GCP Ops Agent |
 
 Read this section first, then the provider-specific section for your target platform.
+---
+
+← [Previous: Foundations](../00-foundations/README.md) | [Home](../README.md) | [Next: Linux →](../02-linux/README.md)

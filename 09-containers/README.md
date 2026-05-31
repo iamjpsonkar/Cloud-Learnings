@@ -66,3 +66,6 @@ Containers package an application and its dependencies into a single, portable, 
 | **Kata Containers** | VM-based containers — hardware isolation with container UX |
 
 Kubernetes uses **containerd** (or CRI-O) directly — not the Docker daemon.
+---
+
+← [Previous: Other Clouds](../08-other-clouds/README.md) | [Home](../README.md) | [Next: Kubernetes (Batch 17) →](../10-kubernetes/README.md)

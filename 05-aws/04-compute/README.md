@@ -55,3 +55,6 @@ Need compute?
 | Savings Plans | Flexible commitment | 1 or 3 years |
 | Spot | Fault-tolerant batch, CI | None (can be interrupted) |
 | Dedicated Host | Licensing, compliance | On-demand or reserved |
+---
+
+← [Previous: AWS Networking](../03-networking/README.md) | [Home](../../README.md) | [Next: AWS Storage →](../05-storage/README.md)

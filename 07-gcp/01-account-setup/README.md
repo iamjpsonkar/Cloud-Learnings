@@ -199,3 +199,6 @@ gcloud projects create my-app-staging \
 - [gcloud CLI reference](https://cloud.google.com/sdk/gcloud/reference)
 - [GCP resource hierarchy](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy)
 - [GCP regions and zones](https://cloud.google.com/compute/docs/regions-zones)
+---
+
+← [Previous: GCP](../README.md) | [Home](../../README.md) | [Next: GCP IAM →](../02-iam/README.md)
