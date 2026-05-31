@@ -6,6 +6,18 @@ Covers AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD, SRE, FinOps, and 
 
 ---
 
+## Quick Start
+
+**Read documentation** → Start at [00-foundations](./00-foundations/README.md)
+
+**Practice locally (simple)** → [docker/QUICKSTART.md](./docker/QUICKSTART.md)
+- Single `docker-compose.yml` with profiles, interactive `./run.sh` menu, 19 labs, 14 profiles
+
+**Practice locally (advanced)** → [40-local-cloud-lab-platform/QUICKSTART.md](./40-local-cloud-lab-platform/QUICKSTART.md)
+- FastAPI backend, React dashboard, 30 structured lab exercises, lab runner with validation and grading
+
+---
+
 ## Repository Structure
 
 | Section | Topics |
@@ -39,20 +51,19 @@ Covers AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD, SRE, FinOps, and 
 | [26-roadmaps](./26-roadmaps/README.md) | Beginner, intermediate, and advanced learning paths |
 | [27-interview-prep](./27-interview-prep/README.md) | AWS, Kubernetes, networking, security questions |
 | [28-references](./28-references/README.md) | Official docs, books, and curated links |
+| [docker/](./docker/README.md) | Local Docker Lab Platform — single compose, 14 profiles, 19 labs, interactive run.sh |
+| [40-local-cloud-lab-platform/](./40-local-cloud-lab-platform/README.md) | Advanced Lab Platform — FastAPI API, React UI, 30 structured labs, validation + grading |
 
 ---
 
-## Available Content
+## Learning Paths
 
-The following sections have content ready to read:
-
-| Section | Status |
-|---------|--------|
-| [05-aws/README.md](./05-aws/README.md) | AWS overview |
-| [05-aws/04-compute/ec2.md](./05-aws/04-compute/ec2.md) | EC2 deep dive |
-| [05-aws/05-storage/s3.md](./05-aws/05-storage/s3.md) | S3 deep dive |
-| [05-aws/03-networking/route53.md](./05-aws/03-networking/route53.md) | DNS and Route 53 |
-| [05-aws/11-management/systems-manager.md](./05-aws/11-management/systems-manager.md) | AWS Systems Manager |
+| Goal | Path |
+|------|------|
+| **Beginner** | [00-foundations](./00-foundations/README.md) → [01-cloud-fundamentals](./01-cloud-fundamentals/README.md) → [02-linux](./02-linux/README.md) → [05-aws](./05-aws/README.md) → [docker/LABS.md](./docker/LABS.md) |
+| **DevOps / SRE** | [09-containers](./09-containers/README.md) → [10-kubernetes](./10-kubernetes/README.md) → [11-terraform-opentofu](./11-terraform-opentofu/README.md) → [13-cicd-gitops](./13-cicd-gitops/README.md) → [16-sre](./16-sre/README.md) → [docker/](./docker/README.md) |
+| **Cloud Certifications** | Provider section → [24-cheatsheets](./24-cheatsheets/README.md) → [27-interview-prep](./27-interview-prep/README.md) |
+| **Hands-on Practice** | [docker/QUICKSTART.md](./docker/QUICKSTART.md) or [40-local-cloud-lab-platform/QUICKSTART.md](./40-local-cloud-lab-platform/QUICKSTART.md) → [22-projects](./22-projects/README.md) |
 
 ---
 

@@ -34,14 +34,15 @@ build/
 *.tmp
 
 # Secrets — never commit these
+# Note: .env matches only the root secrets file. .env.example MUST be committed — it is the template.
 .env
-.env.*
 *.pem
 *.key
 credentials
 *.tfvars
 
 # Terraform state — do not commit state files
+# Note: .terraform.lock.hcl is intentionally NOT ignored — Terraform best practice is to commit it.
 *.tfstate
 *.tfstate.backup
 .terraform/
@@ -54,5 +55,19 @@ credentials
 # Log files
 *.log
 
+# SQLite databases (generated at runtime by lab platforms)
+*.db
+
+# Generated reports and lab results (created at runtime, not source)
+docker/reports/lab-results/
+40-local-cloud-lab-platform/reports/lab-results/
+40-local-cloud-lab-platform/reports/validation-results/
+
+# Python virtual environments inside lab platform
+40-local-cloud-lab-platform/.venv/
+
 # Local tool output
 .validate-repo-cache/
+
+# Claude Code local settings (personal permissions, not project context)
+.claude/settings.local.json
