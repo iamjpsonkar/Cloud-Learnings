@@ -1,0 +1,73 @@
+name: Content Gap
+description: A topic is missing or covered too shallowly
+labels: ["content-gap"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to request documentation for a topic that is missing or incomplete.
+
+  - type: input
+    id: topic
+    attributes:
+      label: Topic or service
+      description: What should be documented? (e.g., "AWS EKS networking", "Terraform remote state")
+      placeholder: "AWS EKS — pod networking and CNI configuration"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section does it belong in?
+      options:
+        - 00-foundations
+        - 01-cloud-fundamentals
+        - 02-linux
+        - 03-networking
+        - 04-git-devops-basics
+        - 05-aws
+        - 06-azure
+        - 07-gcp
+        - 08-other-clouds
+        - 09-containers
+        - 10-kubernetes
+        - 11-terraform-opentofu
+        - 12-ansible
+        - 13-cicd-gitops
+        - 14-security
+        - 15-observability
+        - 16-sre
+        - 17-finops
+        - 18-databases
+        - 19-disaster-recovery
+        - 20-migration
+        - 21-multi-cloud
+        - 22-projects
+        - 23-troubleshooting
+        - 24-cheatsheets
+        - 25-glossary
+        - 26-roadmaps
+        - 27-interview-prep
+        - 28-references
+        - New section needed
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Why is this important?
+      description: What scenario or use case prompted this request?
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: willing-to-contribute
+    attributes:
+      label: Would you like to contribute this content?
+      options:
+        - label: Yes, I can write a first draft
+        - label: I can review a draft if someone else writes it
+        - label: I just want to flag the gap

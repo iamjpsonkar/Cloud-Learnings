@@ -1,0 +1,55 @@
+name: Validate Links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-links:
+    runs-on: ubuntu-latest
+    name: Check for broken links
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+
+      - name: Check links in all Markdown files
+        run: |
+          find . -name "*.md" \
+            -not -path "./.git/*" \
+            -not -path "./node_modules/*" \
+            | xargs -I{} markdown-link-check {} \
+              --config .github/mlc-config.json \
+              --quiet
+        continue-on-error: true
+
+      - name: Validate local image references
+        run: |
+          echo "Checking for broken local image src paths..."
+          broken=0
+          while IFS= read -r file; do
+            while IFS= read -r src; do
+              # Strip leading ../../ etc. and resolve relative to file location
+              dir=$(dirname "$file")
+              resolved=$(realpath --relative-to=. "$dir/$src" 2>/dev/null || echo "$src")
+              if [ ! -f "$resolved" ]; then
+                echo "BROKEN: $file references $src (resolved: $resolved)"
+                broken=1
+              fi
+            done < <(grep -oP '(?<=src=")[^"]+(?=")' "$file" 2>/dev/null || true)
+          done < <(find . -name "*.md" -not -path "./.git/*")
+          if [ "$broken" -eq 1 ]; then
+            echo "One or more broken local image references found."
+            exit 1
+          fi
+          echo "All local image references valid."

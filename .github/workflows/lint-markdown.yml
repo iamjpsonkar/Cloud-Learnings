@@ -1,0 +1,67 @@
+name: Lint Markdown
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    name: Markdown linting
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install markdownlint-cli
+        run: npm install -g markdownlint-cli
+
+      - name: Lint all Markdown files
+        run: |
+          markdownlint \
+            --config .github/markdownlint.json \
+            --ignore node_modules \
+            '**/*.md'
+        continue-on-error: true
+
+      - name: Check for old branding
+        run: |
+          echo "Checking for old 'aws-learnings' branding..."
+          if grep -ri "aws-learnings\|AWS-Learnings\|AWS Learnings" \
+               --include="*.md" \
+               --exclude-dir=".git" \
+               --exclude-dir="node_modules" \
+               .; then
+            echo "ERROR: Old branding found. Replace with 'Cloud-Learnings'."
+            exit 1
+          fi
+          echo "No old branding found."
+
+      - name: Check all folders have README
+        run: |
+          echo "Checking for folders without README.md..."
+          missing=0
+          while IFS= read -r dir; do
+            if [ ! -f "$dir/README.md" ]; then
+              echo "MISSING README: $dir"
+              missing=1
+            fi
+          done < <(find . -mindepth 1 -maxdepth 3 -type d \
+            -not -path "./.git*" \
+            -not -path "./node_modules*" \
+            -not -path "./.github*" \
+            -not -path "./assets/images*" \
+            -not -path "./assets/diagrams*" \
+            -not -path "./assets/prompts*")
+          if [ "$missing" -eq 1 ]; then
+            echo "Some folders are missing README.md files."
+            exit 1
+          fi
+          echo "All checked folders have README.md."
