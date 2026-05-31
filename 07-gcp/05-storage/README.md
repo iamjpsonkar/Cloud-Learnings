@@ -241,4 +241,4 @@ echo "${FS_IP}:/data /mnt/my-app-data nfs defaults,hard,intr 0 0" | sudo tee -a 
 - [Signed URLs](https://cloud.google.com/storage/docs/access-control/signed-urls)
 ---
 
-← [Previous: GCP Compute](../04-compute/README.md) | [Home](../../README.md) | [Next: GCP Databases →](../06-databases/README.md)
+← [Previous: Managed Instance Groups](../04-compute/managed-instance-groups.md) | [Home](../../README.md) | [Next: Cloud Storage →](./cloud-storage.md)

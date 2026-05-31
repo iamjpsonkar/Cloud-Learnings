@@ -351,4 +351,4 @@ bq extract \
 - [BigQuery documentation](https://cloud.google.com/bigquery/docs)
 ---
 
-← [Previous: GCP Storage](../05-storage/README.md) | [Home](../../README.md) | [Next: GCP Containers →](../07-containers/README.md)
+← [Previous: Filestore](../05-storage/filestore.md) | [Home](../../README.md) | [Next: GCP Containers →](../07-containers/README.md)

@@ -201,4 +201,4 @@ gcloud projects create my-app-staging \
 - [GCP regions and zones](https://cloud.google.com/compute/docs/regions-zones)
 ---
 
-← [Previous: GCP](../README.md) | [Home](../../README.md) | [Next: GCP IAM →](../02-iam/README.md)
+← [Previous: GCP](../README.md) | [Home](../../README.md) | [Next: gcloud CLI →](./gcloud.md)

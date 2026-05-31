@@ -346,4 +346,4 @@ gcloud dns managed-zones create zone-internal \
 - [VPC firewall rules](https://cloud.google.com/vpc/docs/firewalls)
 ---
 
-← [Previous: GCP IAM](../02-iam/README.md) | [Home](../../README.md) | [Next: GCP Compute →](../04-compute/README.md)
+← [Previous: Workload Identity Federation](../02-iam/workload-identity-federation.md) | [Home](../../README.md) | [Next: VPC →](./vpc.md)

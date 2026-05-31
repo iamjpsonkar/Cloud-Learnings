@@ -296,4 +296,4 @@ gcloud compute instance-templates create tmpl-spot-worker \
 - [Persistent Disk types](https://cloud.google.com/compute/docs/disks)
 ---
 
-← [Previous: GCP Networking](../03-networking/README.md) | [Home](../../README.md) | [Next: GCP Storage →](../05-storage/README.md)
+← [Previous: Cloud DNS](../03-networking/cloud-dns.md) | [Home](../../README.md) | [Next: Compute Engine →](./compute-engine.md)
