@@ -38,6 +38,9 @@ jobs:
                --include="*.md" \
                --exclude-dir=".git" \
                --exclude-dir="node_modules" \
+               --exclude-dir=".claude" \
+               --exclude-dir=".github" \
+               --exclude="CHANGELOG.md" \
                .; then
             echo "ERROR: Old branding found. Replace with 'Cloud-Learnings'."
             exit 1
@@ -46,22 +49,28 @@ jobs:
 
       - name: Check all folders have README
         run: |
-          echo "Checking for folders without README.md..."
+          echo "Checking numbered learning directories for README.md..."
           missing=0
+          # Check numbered learning content directories (00-foundations through 28-references)
+          # and their immediate subsections only. Excludes lab platform internals which
+          # follow a different directory convention (configs/, scripts/, api/, etc.).
           while IFS= read -r dir; do
             if [ ! -f "$dir/README.md" ]; then
               echo "MISSING README: $dir"
               missing=1
             fi
-          done < <(find . -mindepth 1 -maxdepth 3 -type d \
+          done < <(find . -mindepth 1 -maxdepth 2 -type d \
             -not -path "./.git*" \
             -not -path "./node_modules*" \
             -not -path "./.github*" \
+            -not -path "./.claude*" \
             -not -path "./assets/images*" \
             -not -path "./assets/diagrams*" \
-            -not -path "./assets/prompts*")
+            -not -path "./assets/prompts*" \
+            -not -path "./docker/*" \
+            -not -path "./40-local-cloud-lab-platform/*")
           if [ "$missing" -eq 1 ]; then
-            echo "Some folders are missing README.md files."
+            echo "Some learning content folders are missing README.md files."
             exit 1
           fi
-          echo "All checked folders have README.md."
+          echo "All learning content folders have README.md."

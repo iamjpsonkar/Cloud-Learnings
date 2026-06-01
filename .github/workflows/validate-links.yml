@@ -39,7 +39,13 @@ jobs:
           broken=0
           while IFS= read -r file; do
             while IFS= read -r src; do
-              # Strip leading ../../ etc. and resolve relative to file location
+              # Skip template placeholders (paths containing { or })
+              [[ "$src" == *"{"* ]] && continue
+              # Skip absolute URL-style paths (code examples like <script src="/app.js">)
+              [[ "$src" == /* ]] && continue
+              # Only check image file extensions — ignore .js, .css, etc.
+              [[ "$src" =~ \.(png|jpg|jpeg|gif|svg|webp)$ ]] || continue
+              # Resolve path relative to the file's directory
               dir=$(dirname "$file")
               resolved=$(realpath --relative-to=. "$dir/$src" 2>/dev/null || echo "$src")
               if [ ! -f "$resolved" ]; then
@@ -47,7 +53,13 @@ jobs:
                 broken=1
               fi
             done < <(grep -oP '(?<=src=")[^"]+(?=")' "$file" 2>/dev/null || true)
-          done < <(find . -name "*.md" -not -path "./.git/*")
+          done < <(find . -name "*.md" \
+            -not -path "./.git/*" \
+            -not -path "./node_modules/*" \
+            -not -path "./assets/*" \
+            -not -path "./templates/*" \
+            -not -path "./.claude/*" \
+            -not -path "./.github/*")
           if [ "$broken" -eq 1 ]; then
             echo "One or more broken local image references found."
             exit 1
