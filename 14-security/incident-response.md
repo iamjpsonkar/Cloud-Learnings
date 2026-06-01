@@ -1,3 +1,7 @@
+← [Previous: Compliance](./compliance.md) | [Home](../README.md) | [Next: Supply Chain Security →](./supply-chain-security.md)
+
+---
+
 # Incident Response
 
 Incident response is the structured process of detecting, containing, eradicating, and recovering from security incidents. An untested IR plan is not a plan.

@@ -1,3 +1,7 @@
+← [Previous: PostgreSQL](./postgresql.md) | [Home](../../README.md) | [Next: Cosmos DB →](./cosmos-db.md)
+
+---
+
 # Azure SQL Database
 
 Azure SQL Database is a fully managed relational database service built on SQL Server. It offers serverless compute, elastic pools, built-in HA, geo-replication, and automatic backups.

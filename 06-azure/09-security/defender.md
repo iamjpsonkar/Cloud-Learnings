@@ -1,3 +1,7 @@
+← [Previous: Key Vault](./key-vault.md) | [Home](../../README.md) | [Next: Azure Observability →](../10-observability/README.md)
+
+---
+
 # Microsoft Defender for Cloud
 
 Defender for Cloud is Azure's cloud security posture management (CSPM) and cloud workload protection platform (CWPP). It provides security recommendations, threat detection, vulnerability assessment, and compliance reporting.

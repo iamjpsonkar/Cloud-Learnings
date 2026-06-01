@@ -1,3 +1,7 @@
+← [Previous: Performance](../23-troubleshooting/performance.md) | [Home](../README.md) | [Next: AWS CLI →](./aws-cli.md)
+
+---
+
 # Cheatsheets
 
 Quick-reference cards for the most frequently used tools in cloud engineering. Each cheatsheet covers the 20% of commands that cover 80% of daily work.

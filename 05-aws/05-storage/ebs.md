@@ -1,3 +1,7 @@
+← [Previous: S3](./s3.md) | [Home](../../README.md) | [Next: EFS →](./efs.md)
+
+---
+
 # Amazon EBS — Elastic Block Store
 
 EBS provides persistent block storage volumes for EC2 instances. Volumes persist independently from the instance lifecycle and are replicated within a single Availability Zone.

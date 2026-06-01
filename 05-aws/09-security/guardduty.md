@@ -1,3 +1,7 @@
+← [Previous: ACM](./acm.md) | [Home](../../README.md) | [Next: Security Hub →](./security-hub.md)
+
+---
+
 # Amazon GuardDuty
 
 GuardDuty is a managed threat detection service that continuously monitors AWS accounts for malicious activity and unauthorized behaviour. It uses machine learning, anomaly detection, and threat intelligence feeds — no agents to install, no log processing to manage.

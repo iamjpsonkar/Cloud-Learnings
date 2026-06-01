@@ -1,3 +1,7 @@
+← [Previous: AWS Containers](./README.md) | [Home](../../README.md) | [Next: ECS →](./ecs.md)
+
+---
+
 # Amazon ECR (Elastic Container Registry)
 
 ECR is a fully managed private container registry. It integrates natively with ECS, EKS, Lambda, CodePipeline, and the Docker CLI. Images are stored encrypted at rest in S3 and scanned for vulnerabilities by Amazon Inspector.

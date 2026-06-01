@@ -1,3 +1,7 @@
+← [Previous: Dockerfile](./dockerfile.md) | [Home](../README.md) | [Next: Container Registries →](./container-registries.md)
+
+---
+
 # Docker Compose
 
 Docker Compose defines and runs multi-container applications from a single YAML file. It is the standard tool for local development environments and integration testing.

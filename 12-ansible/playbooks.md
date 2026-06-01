@@ -1,3 +1,7 @@
+← [Previous: Inventory](./inventory.md) | [Home](../README.md) | [Next: Roles →](./roles.md)
+
+---
+
 # Playbooks
 
 Playbooks are Ansible's configuration and deployment language. A playbook is a YAML file containing one or more plays, each mapping a host group to a set of tasks.

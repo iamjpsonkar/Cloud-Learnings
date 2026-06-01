@@ -1,3 +1,7 @@
+← [Previous: Relational Databases](./relational.md) | [Home](../README.md) | [Next: Caching →](./caching.md)
+
+---
+
 # NoSQL Databases
 
 NoSQL databases trade relational features (joins, strict schema, ACID everywhere) for scale, flexibility, or speed. Choose based on your access patterns, not popularity.

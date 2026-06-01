@@ -1,3 +1,7 @@
+← [Previous: IAM Policies](./policies.md) | [Home](../../README.md) | [Next: Organizations & SCP →](./organizations-scp.md)
+
+---
+
 # AWS IAM Identity Center (SSO)
 
 IAM Identity Center (formerly AWS Single Sign-On) is the recommended way to manage human access to multiple AWS accounts. It provides a central place to manage users, assign permissions, and authenticate — with short-lived temporary credentials instead of long-lived IAM access keys.

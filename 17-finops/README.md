@@ -1,3 +1,7 @@
+← [Previous: Postmortems](../16-sre/postmortems.md) | [Home](../README.md) | [Next: Cost Visibility →](./cost-visibility.md)
+
+---
+
 # FinOps
 
 FinOps (Financial Operations) is the practice of bringing financial accountability to cloud spending. It aligns engineering, finance, and business teams around cost visibility, optimization, and informed trade-offs.

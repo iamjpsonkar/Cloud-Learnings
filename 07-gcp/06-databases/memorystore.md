@@ -1,3 +1,7 @@
+← [Previous: Firestore](./firestore.md) | [Home](../../README.md) | [Next: BigQuery →](./bigquery.md)
+
+---
+
 # Memorystore for Redis
 
 Memorystore is a fully managed Redis and Memcached service. It handles patching, backups, failover, and scaling with no infrastructure management.

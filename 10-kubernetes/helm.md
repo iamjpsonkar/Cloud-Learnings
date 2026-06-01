@@ -1,3 +1,7 @@
+← [Previous: RBAC](./rbac.md) | [Home](../README.md) | [Next: Kustomize →](./kustomize.md)
+
+---
+
 # Helm
 
 Helm is the package manager for Kubernetes. It bundles Kubernetes manifests into reusable, versioned packages called **charts**.

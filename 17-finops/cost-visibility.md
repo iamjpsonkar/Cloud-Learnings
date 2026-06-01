@@ -1,3 +1,7 @@
+← [Previous: FinOps Overview](./README.md) | [Home](../README.md) | [Next: Rightsizing →](./rightsizing.md)
+
+---
+
 # Cost Visibility
 
 You cannot optimize what you cannot see. Cost visibility means getting granular, queryable data on cloud spending before attempting any optimization.

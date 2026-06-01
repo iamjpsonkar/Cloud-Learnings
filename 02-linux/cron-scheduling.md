@@ -1,3 +1,7 @@
+← [Previous: SSH, SCP & rsync](./ssh-scp-rsync.md) | [Home](../README.md) | [Next: Linux Troubleshooting →](./troubleshooting.md)
+
+---
+
 # Cron and Task Scheduling
 
 ## Cron Overview

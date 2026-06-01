@@ -1,3 +1,7 @@
+← [Previous: OpenTelemetry](./opentelemetry.md) | [Home](../README.md) | [Next: SRE →](../16-sre/README.md)
+
+---
+
 # Prometheus & Grafana
 
 Prometheus is the de facto metrics collection and alerting system for Kubernetes. Grafana is the visualization layer. Together they form the most widely deployed observability stack in cloud-native environments.

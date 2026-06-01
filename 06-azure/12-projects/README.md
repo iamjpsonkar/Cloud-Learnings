@@ -1,3 +1,7 @@
+← [Previous: Terraform on Azure](../11-iac/terraform-azure.md) | [Home](../../README.md) | [Next: Static Website →](./static-website.md)
+
+---
+
 # Azure Projects
 
 Hands-on projects that combine multiple Azure services into complete, production-ready architectures.

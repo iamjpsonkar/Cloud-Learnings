@@ -1,3 +1,7 @@
+← [Previous: Ansible](./README.md) | [Home](../README.md) | [Next: Inventory →](./inventory.md)
+
+---
+
 # Getting Started with Ansible
 
 ---

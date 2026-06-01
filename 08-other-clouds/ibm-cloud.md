@@ -1,3 +1,7 @@
+← [Previous: OCI](./oci.md) | [Home](../README.md) | [Next: Alibaba Cloud →](./alibaba-cloud.md)
+
+---
+
 # IBM Cloud
 
 IBM Cloud is positioned for hybrid and multicloud enterprise workloads, regulated industries (financial services, healthcare), and AI via the watsonx platform. It integrates tightly with IBM's on-premises portfolio (IBM Z, Power, Db2).

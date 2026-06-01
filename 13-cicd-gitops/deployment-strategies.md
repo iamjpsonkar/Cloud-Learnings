@@ -1,3 +1,7 @@
+← [Previous: FluxCD](./fluxcd.md) | [Home](../README.md) | [Next: Production Pipelines →](./production-pipelines.md)
+
+---
+
 # Deployment Strategies
 
 Choosing the right deployment strategy balances risk, speed, and resource cost.

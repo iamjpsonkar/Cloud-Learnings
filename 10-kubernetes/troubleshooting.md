@@ -1,3 +1,7 @@
+← [Previous: Kustomize](./kustomize.md) | [Home](../README.md) | [Next: Terraform / OpenTofu (Batch 18) →](../11-terraform-opentofu/README.md)
+
+---
+
 # Kubernetes Troubleshooting
 
 A systematic approach to diagnosing and fixing common Kubernetes issues.

@@ -1,3 +1,7 @@
+← [Previous: FSx](../05-storage/fsx.md) | [Home](../../README.md) | [Next: RDS →](./rds.md)
+
+---
+
 # AWS Databases
 
 AWS offers purpose-built database services for every access pattern — relational, NoSQL key-value, in-memory caching, and analytical data warehouses. This section covers the five most commonly used services.

@@ -1,3 +1,7 @@
+← [Previous: Firewall Rules](./firewall-rules.md) | [Home](../../README.md) | [Next: Cloud DNS →](./cloud-dns.md)
+
+---
+
 # GCP Load Balancing
 
 GCP offers several managed load balancer types. The Global External HTTPS Load Balancer is the most powerful — it operates at the edge of Google's network (Anycast), supporting HTTP/2, WebSocket, Cloud CDN, Cloud Armor, and serverless NEGs.

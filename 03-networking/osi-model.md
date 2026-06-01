@@ -1,3 +1,7 @@
+← [Previous: Networking](./README.md) | [Home](../README.md) | [Next: TCP/IP →](./tcp-ip.md)
+
+---
+
 # OSI Model
 
 The **Open Systems Interconnection (OSI)** model is a conceptual framework that describes how data moves across a network in seven distinct layers. Each layer has a specific responsibility and communicates with the layers directly above and below it.

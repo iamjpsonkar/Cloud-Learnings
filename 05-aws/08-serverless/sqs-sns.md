@@ -1,3 +1,7 @@
+← [Previous: API Gateway](./api-gateway.md) | [Home](../../README.md) | [Next: EventBridge →](./eventbridge.md)
+
+---
+
 # Amazon SQS and SNS
 
 SQS (Simple Queue Service) and SNS (Simple Notification Service) are the foundational messaging primitives for decoupling and fan-out in AWS architectures.

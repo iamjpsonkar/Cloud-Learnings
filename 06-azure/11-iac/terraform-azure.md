@@ -1,3 +1,7 @@
+← [Previous: Bicep](./bicep.md) | [Home](../../README.md) | [Next: Azure Projects →](../12-projects/README.md)
+
+---
+
 # Terraform on Azure
 
 Terraform uses the AzureRM and AzureAD providers to manage Azure resources. State is stored in Azure Blob Storage. Authentication uses a service principal or OIDC (recommended for CI/CD).

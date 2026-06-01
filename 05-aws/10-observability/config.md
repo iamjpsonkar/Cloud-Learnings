@@ -1,3 +1,7 @@
+← [Previous: CloudTrail](./cloudtrail.md) | [Home](../../README.md) | [Next: AWS Management →](../11-management/README.md)
+
+---
+
 # AWS Config
 
 AWS Config continuously records the configuration state of your AWS resources and evaluates them against rules. It answers: "What did this resource look like at time T?" and "Does this resource comply with our policies?"

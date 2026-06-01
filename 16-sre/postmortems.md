@@ -1,3 +1,7 @@
+← [Previous: Chaos Engineering](./chaos-engineering.md) | [Home](../README.md) | [Next: FinOps →](../17-finops/README.md)
+
+---
+
 # Postmortems
 
 A postmortem (also called incident review or retrospective) is a structured analysis of an incident. Its purpose is to understand what happened and prevent recurrence — not to assign blame.

@@ -1,3 +1,7 @@
+← [Previous: Azure Security](../09-security/README.md) | [Home](../../README.md) | [Next: Azure Monitor →](./azure-monitor.md)
+
+---
+
 # Azure Observability
 
 ---

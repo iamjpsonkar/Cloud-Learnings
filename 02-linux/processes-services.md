@@ -1,3 +1,7 @@
+← [Previous: Users & Permissions](./users-groups-permissions.md) | [Home](../README.md) | [Next: Package Managers →](./package-managers.md)
+
+---
+
 # Linux Processes and Services
 
 ## Processes

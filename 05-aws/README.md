@@ -1,3 +1,7 @@
+← [Previous: SSH Keys](../04-git-devops-basics/ssh-keys.md) | [Home](../README.md) | [Next: AWS Account Setup →](./01-account-setup/README.md)
+
+---
+
 # AWS — Amazon Web Services
 
 AWS (Amazon Web Services) is a cloud computing platform provided by Amazon. It lets individuals and companies rent computing resources over the internet instead of buying and maintaining physical servers.

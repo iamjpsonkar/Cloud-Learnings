@@ -1,3 +1,7 @@
+← [Previous: Azure Functions](./functions.md) | [Home](../../README.md) | [Next: Event Grid →](./event-grid.md)
+
+---
+
 # Azure Service Bus
 
 Azure Service Bus is an enterprise-grade message broker supporting queues (point-to-point) and topics/subscriptions (pub/sub). It guarantees at-least-once delivery, ordering, deduplication, and dead-lettering.

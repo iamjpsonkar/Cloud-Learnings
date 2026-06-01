@@ -1,3 +1,7 @@
+← [Previous: Projects Overview](./README.md) | [Home](../README.md) | [Next: Serverless API →](./serverless-api.md)
+
+---
+
 # Project: Static Website CDN
 
 Deploy a globally distributed static website with HTTPS, custom domain, and automatic cache invalidation on deployment. No servers, no maintenance — pay only for storage and CDN requests.

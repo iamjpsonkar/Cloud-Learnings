@@ -1,3 +1,7 @@
+← [Previous: Azure Entra ID](./README.md) | [Home](../../README.md) | [Next: Azure RBAC →](./rbac.md)
+
+---
+
 # Microsoft Entra ID Basics
 
 Microsoft Entra ID (formerly Azure Active Directory) is Microsoft's cloud-based identity and access management service. It is the authentication and authorization foundation for all of Azure.

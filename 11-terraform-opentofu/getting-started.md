@@ -1,3 +1,7 @@
+← [Previous: Terraform / OpenTofu](./README.md) | [Home](../README.md) | [Next: State Management →](./state.md)
+
+---
+
 # Getting Started with Terraform
 
 ---

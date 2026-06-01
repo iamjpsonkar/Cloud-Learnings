@@ -1,3 +1,7 @@
+← [Previous: Azure Projects](../06-azure/12-projects/README.md) | [Home](../README.md) | [Next: GCP Account Setup →](./01-account-setup/README.md)
+
+---
+
 # Google Cloud Platform (GCP)
 
 GCP is Google's public cloud platform, differentiated by its global private fiber network, BigQuery analytics, Kubernetes origin (GKE), and AI/ML tooling (Vertex AI).

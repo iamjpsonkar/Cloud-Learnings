@@ -1,3 +1,7 @@
+← [Previous: Network Security Groups](../03-networking/network-security-groups.md) | [Home](../../README.md) | [Next: Virtual Machines →](./virtual-machines.md)
+
+---
+
 # Azure Compute
 
 ---

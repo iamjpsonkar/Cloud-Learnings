@@ -1,3 +1,7 @@
+← [Previous: Azure Networking](./README.md) | [Home](../../README.md) | [Next: Network Security Groups →](./network-security-groups.md)
+
+---
+
 # Azure Virtual Networks (VNet)
 
 A Virtual Network (VNet) is a private, isolated network in Azure — the equivalent of AWS VPC. It is the foundation of Azure networking.

@@ -1,3 +1,7 @@
+← [Previous: Security Groups & NACLs](./security-groups-nacl.md) | [Home](../../README.md) | [Next: CloudFront →](./cloudfront.md)
+
+---
+
 # AWS DNS and Route 53
 
 DNS (Domain Name System) translates human-readable domain names into IP addresses that servers use to communicate.

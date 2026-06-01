@@ -1,3 +1,7 @@
+← [Previous: CIDR & Subnetting](./cidr-subnetting.md) | [Home](../README.md) | [Next: Firewalls & VPN →](./firewalls-vpn.md)
+
+---
+
 # NAT and Routing
 
 NAT (Network Address Translation) allows private IP addresses to reach the internet without being publicly routable. Routing determines the path packets take between networks. Both are core to cloud VPC architecture.

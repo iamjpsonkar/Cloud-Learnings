@@ -1,3 +1,7 @@
+← [Previous: Azure RBAC](./rbac.md) | [Home](../../README.md) | [Next: Managed Identities →](./managed-identities.md)
+
+---
+
 # Azure Service Principals
 
 A service principal is an application identity in Entra ID — the identity used by non-human workloads (CI/CD pipelines, external applications, scripts) to access Azure resources.

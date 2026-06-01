@@ -1,3 +1,7 @@
+← [Previous: Getting Started](./getting-started.md) | [Home](../README.md) | [Next: Modules →](./modules.md)
+
+---
+
 # State Management
 
 Terraform state is a JSON file that maps configuration resources to real infrastructure objects. It is the single source of truth for what Terraform manages.

@@ -1,3 +1,7 @@
+← [Previous: CLI Setup](./cli-setup.md) | [Home](../../README.md) | [Next: Resource Groups →](./resource-groups.md)
+
+---
+
 # Azure Subscriptions
 
 ---

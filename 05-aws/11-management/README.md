@@ -1,3 +1,7 @@
+← [Previous: AWS Config](../10-observability/config.md) | [Home](../../README.md) | [Next: Systems Manager →](./systems-manager.md)
+
+---
+
 # AWS Management
 
 Topics covered in this section:

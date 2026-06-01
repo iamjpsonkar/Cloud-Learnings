@@ -1,3 +1,7 @@
+← [Previous: GuardDuty](./guardduty.md) | [Home](../../README.md) | [Next: WAF & Shield →](./waf-shield.md)
+
+---
+
 # AWS Security Hub
 
 Security Hub aggregates security findings from GuardDuty, Inspector, Macie, Firewall Manager, IAM Access Analyzer, and third-party tools into a single pane of glass. It evaluates your environment against security standards (CIS, PCI-DSS, NIST, AWS Foundational Security Best Practices) and produces a security score.

@@ -1,3 +1,7 @@
+← [Previous: DigitalOcean](./digitalocean.md) | [Home](../README.md) | [Next: Containers →](../09-containers/README.md)
+
+---
+
 # Cloudflare
 
 Cloudflare operates the world's largest edge network — 300+ Points of Presence (PoPs) globally. Unlike traditional cloud providers, Cloudflare focuses on the **edge layer**: DDoS protection, CDN, DNS, Zero Trust access, and edge compute. It complements AWS/Azure/GCP rather than replacing them.

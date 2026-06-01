@@ -1,3 +1,7 @@
+← [Previous: PrivateLink](../03-networking/privatelink.md) | [Home](../../README.md) | [Next: EC2 →](./ec2.md)
+
+---
+
 # AWS Compute
 
 EC2 is the foundation of AWS compute: virtual machines you fully control. This section covers everything from launching instances to building auto-scaling fleets with load balancers, and running serverless functions with Lambda.

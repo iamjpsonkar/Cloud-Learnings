@@ -1,3 +1,7 @@
+← [Previous: Azure Monitor](./azure-monitor.md) | [Home](../../README.md) | [Next: Azure IaC →](../11-iac/README.md)
+
+---
+
 # Azure Application Insights
 
 Application Insights is the APM (Application Performance Monitoring) component of Azure Monitor. It provides distributed tracing, dependency tracking, live metrics, exceptions, custom events, and user analytics.

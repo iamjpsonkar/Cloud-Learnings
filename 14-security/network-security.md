@@ -1,3 +1,7 @@
+← [Previous: IAM & Least Privilege](./iam-least-privilege.md) | [Home](../README.md) | [Next: Secrets Management →](./secrets-management.md)
+
+---
+
 # Network Security
 
 Defence-in-depth for cloud networks means layering controls: VPC isolation, security groups, NACLs, WAF, DDoS protection, and private endpoints.

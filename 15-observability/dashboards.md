@@ -1,3 +1,7 @@
+← [Previous: Alerting](./alerting.md) | [Home](../README.md) | [Next: OpenTelemetry →](./opentelemetry.md)
+
+---
+
 # Dashboards
 
 Dashboards translate raw metrics into operational insight. A good dashboard answers "is my service healthy right now?" in under 5 seconds.

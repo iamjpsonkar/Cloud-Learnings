@@ -1,3 +1,7 @@
+← [Previous: GitHub Workflow](./github-workflow.md) | [Home](../README.md) | [Next: AWS →](../05-aws/README.md)
+
+---
+
 # SSH Keys for Git and GitHub
 
 SSH key authentication replaces passwords for Git operations. It is faster, more secure, and enables automation. This document covers key generation, GitHub/GitLab configuration, managing multiple identities, and the SSH agent.

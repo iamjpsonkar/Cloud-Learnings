@@ -1,3 +1,7 @@
+← [Previous: Jenkins](./jenkins.md) | [Home](../README.md) | [Next: FluxCD →](./fluxcd.md)
+
+---
+
 # ArgoCD
 
 ArgoCD is a declarative GitOps continuous delivery tool for Kubernetes. It pulls desired state from Git and continuously reconciles the cluster to match.

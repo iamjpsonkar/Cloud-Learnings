@@ -1,3 +1,7 @@
+← [Previous: EKS](../07-containers/eks.md) | [Home](../../README.md) | [Next: API Gateway →](./api-gateway.md)
+
+---
+
 # AWS Serverless
 
 Serverless on AWS means you provision no servers, pay only for what you use, and scale automatically from zero to millions of events. Lambda is the compute engine; API Gateway, SQS, SNS, EventBridge, and Step Functions handle ingestion, routing, and orchestration.

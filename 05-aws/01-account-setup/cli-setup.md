@@ -1,3 +1,7 @@
+← [Previous: Billing & Budgets](./billing-budgets.md) | [Home](../../README.md) | [Next: AWS IAM →](../02-iam/README.md)
+
+---
+
 # AWS CLI Setup and Configuration
 
 The AWS CLI is the primary tool for interacting with AWS from a terminal, scripts, and CI/CD pipelines. This document covers installation, authentication, named profiles, and the credential resolution chain.

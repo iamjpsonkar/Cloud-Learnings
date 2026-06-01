@@ -1,3 +1,7 @@
+← [Previous: ECR](./ecr.md) | [Home](../../README.md) | [Next: EKS →](./eks.md)
+
+---
+
 # Amazon ECS (Elastic Container Service)
 
 ECS is a fully managed container orchestration service. You define what to run (task definitions) and ECS decides where to run it. With the Fargate launch type there are no EC2 instances to manage — AWS runs containers on its infrastructure and bills per vCPU-second and GB-second.

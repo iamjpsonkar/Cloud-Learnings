@@ -1,3 +1,7 @@
+← [Previous: VPC](./vpc.md) | [Home](../../README.md) | [Next: Load Balancing →](./load-balancing.md)
+
+---
+
 # GCP Firewall Rules
 
 GCP firewall rules are stateful, applied at the network level, and target VMs using network tags or service accounts. They differ from AWS security groups (which are applied per instance).

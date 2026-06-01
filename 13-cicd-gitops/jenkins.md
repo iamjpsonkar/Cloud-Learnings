@@ -1,3 +1,7 @@
+← [Previous: GitLab CI](./gitlab-ci.md) | [Home](../README.md) | [Next: ArgoCD →](./argocd.md)
+
+---
+
 # Jenkins
 
 Jenkins is the most widely deployed open-source CI/CD server. It supports declarative and scripted pipelines, a massive plugin ecosystem, and flexible on-premises or cloud deployment.

@@ -1,3 +1,7 @@
+← [Previous: IAM Basics](./iam-basics.md) | [Home](../../README.md) | [Next: Workload Identity Federation →](./workload-identity-federation.md)
+
+---
+
 # GCP Service Accounts
 
 Service accounts are non-human identities used by applications, VMs, and GKE workloads to authenticate to GCP APIs. They are both a principal (can be granted roles) and a resource (can have IAM policies controlling who can use them).

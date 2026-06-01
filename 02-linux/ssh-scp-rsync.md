@@ -1,3 +1,7 @@
+← [Previous: Shell Scripting](./shell-scripting.md) | [Home](../README.md) | [Next: Cron & Scheduling →](./cron-scheduling.md)
+
+---
+
 # SSH, SCP, and rsync
 
 ## SSH Overview

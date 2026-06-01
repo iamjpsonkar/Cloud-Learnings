@@ -1,3 +1,7 @@
+← [Previous: Service Accounts](./service-accounts.md) | [Home](../../README.md) | [Next: GCP Networking →](../03-networking/README.md)
+
+---
+
 # GCP Workload Identity Federation
 
 Workload Identity Federation lets external workloads (GitHub Actions, AWS, on-premises) authenticate to GCP without service account key files — using short-lived tokens from their own identity provider.

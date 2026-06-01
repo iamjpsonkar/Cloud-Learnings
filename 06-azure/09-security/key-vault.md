@@ -1,3 +1,7 @@
+← [Previous: Azure Security](./README.md) | [Home](../../README.md) | [Next: Defender for Cloud →](./defender.md)
+
+---
+
 # Azure Key Vault
 
 Key Vault stores and manages secrets, encryption keys, and certificates. It enforces access control via Azure RBAC and integrates with managed identities for zero-credential access from Azure services.

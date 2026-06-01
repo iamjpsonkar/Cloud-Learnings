@@ -1,3 +1,7 @@
+← [Previous: Serverless API](./serverless-api.md) | [Home](../README.md) | [Next: CI/CD Pipeline →](./cicd-pipeline.md)
+
+---
+
 # Project: Containerized API
 
 Build and deploy a production-grade containerized REST API on ECS Fargate with RDS PostgreSQL, a private network, secrets management, health checks, and auto-scaling.

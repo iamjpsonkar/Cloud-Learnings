@@ -1,3 +1,7 @@
+← [Previous: Account Setup](./account-setup.md) | [Home](../../README.md) | [Next: CLI Setup →](./cli-setup.md)
+
+---
+
 # AWS Billing and Cost Management
 
 Cloud costs can spiral without guardrails. Set up billing visibility and alerts before deploying anything significant. An unexpected $10,000 bill from an undeleted resource is a common and avoidable experience.

@@ -1,3 +1,7 @@
+← [Previous: Serverless](./serverless.md) | [Home](../README.md) | [Next: Linux →](../02-linux/README.md)
+
+---
+
 # Cross-Cloud Service Comparison
 
 Service equivalents across AWS, Azure, and GCP. Use this as a lookup table when you know the concept but need to find the right service for a specific provider.

@@ -1,3 +1,7 @@
+← [Previous: Backup Strategies](./backup-strategies.md) | [Home](../README.md) | [Next: DR Runbooks →](./dr-runbooks.md)
+
+---
+
 # Failover Patterns
 
 Failover patterns determine how quickly and at what cost you can recover. Choose based on your RTO/RPO requirements.

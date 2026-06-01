@@ -1,3 +1,7 @@
+← [Previous: Storage Accounts](../05-storage/storage-accounts.md) | [Home](../../README.md) | [Next: PostgreSQL →](./postgresql.md)
+
+---
+
 # Azure Databases
 
 ---

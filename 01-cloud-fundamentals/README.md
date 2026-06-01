@@ -1,3 +1,7 @@
+← [Previous: Account Safety Checklist](../00-foundations/account-safety-checklist.md) | [Home](../README.md) | [Next: Compute →](./compute.md)
+
+---
+
 # Cloud Fundamentals
 
 Vendor-neutral deep dives into the core service categories that exist across all major cloud providers. Understanding these concepts means you can work with any provider — the implementations differ, but the underlying ideas are the same.

@@ -1,3 +1,7 @@
+← [Previous: Databases Overview](./README.md) | [Home](../README.md) | [Next: NoSQL →](./nosql.md)
+
+---
+
 # Relational Databases
 
 Relational databases (RDBMS) store data in tables with rows and columns, enforce schemas, and provide ACID guarantees. PostgreSQL is the default choice for new applications — it is versatile, feature-rich, and handles most workloads from startup to large scale.

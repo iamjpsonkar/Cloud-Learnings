@@ -1,3 +1,7 @@
+← [Previous: Git Basics](./git-basics.md) | [Home](../README.md) | [Next: SSH Keys →](./ssh-keys.md)
+
+---
+
 # GitHub Workflow
 
 GitHub adds collaboration features on top of Git: pull requests, code review, branch protection, and CI/CD via GitHub Actions. This document covers the day-to-day workflow for cloud and DevOps teams.

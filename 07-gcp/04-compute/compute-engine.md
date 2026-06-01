@@ -1,3 +1,7 @@
+← [Previous: GCP Compute](./README.md) | [Home](../../README.md) | [Next: Managed Instance Groups →](./managed-instance-groups.md)
+
+---
+
 # Compute Engine
 
 Compute Engine is GCP's IaaS VM service. It offers predefined and custom machine types, Spot VMs, confidential computing, and tight integration with IAM and GCP networking.

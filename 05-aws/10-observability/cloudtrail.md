@@ -1,3 +1,7 @@
+← [Previous: CloudWatch](./cloudwatch.md) | [Home](../../README.md) | [Next: AWS Config →](./config.md)
+
+---
+
 # AWS CloudTrail
 
 CloudTrail records every API call made to your AWS account — who called what, from where, and when. It is the primary source of truth for security audits, compliance, and incident investigation.

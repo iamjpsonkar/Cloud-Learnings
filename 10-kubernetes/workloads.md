@@ -1,3 +1,7 @@
+← [Previous: Architecture](./architecture.md) | [Home](../README.md) | [Next: Services & Ingress →](./services-ingress.md)
+
+---
+
 # Kubernetes Workloads
 
 Workload resources manage how Pods are run on the cluster.

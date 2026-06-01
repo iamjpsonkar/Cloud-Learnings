@@ -1,3 +1,7 @@
+← [Previous: GKE Microservice](./gke-microservice.md) | [Home](../../README.md) | [Next: Other Clouds →](../../08-other-clouds/README.md)
+
+---
+
 # Project: Cloud Run Microservice API
 
 Deploy a production-ready REST API on Cloud Run with Cloud SQL (PostgreSQL via Cloud SQL Python Connector), Secret Manager, Cloud Monitoring/Tracing, and a full CI/CD pipeline.

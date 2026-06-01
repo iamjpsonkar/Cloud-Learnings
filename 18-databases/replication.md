@@ -1,3 +1,7 @@
+← [Previous: Migrations](./migrations.md) | [Home](../README.md) | [Next: Backups →](./backups.md)
+
+---
+
 # Replication
 
 Replication copies data from a primary database to one or more replicas. It serves two purposes: high availability (failover if primary fails) and read scaling (direct read queries to replicas).

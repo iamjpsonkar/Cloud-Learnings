@@ -1,3 +1,7 @@
+← [Previous: Security Checklist](../14-security/security-checklist.md) | [Home](../README.md) | [Next: Metrics →](./metrics.md)
+
+---
+
 # Observability
 
 Observability is the ability to understand a system's internal state from its external outputs. The three pillars are metrics, logs, and traces — together they answer "is it broken, where is it broken, and why?"

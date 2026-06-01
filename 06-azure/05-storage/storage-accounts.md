@@ -1,3 +1,7 @@
+← [Previous: Azure Storage](./README.md) | [Home](../../README.md) | [Next: Azure Databases →](../06-databases/README.md)
+
+---
+
 # Azure Storage Accounts
 
 An Azure Storage Account is the top-level container for all Azure Storage services: Blob, Files, Queues, and Tables.

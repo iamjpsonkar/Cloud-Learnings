@@ -1,3 +1,7 @@
+← [Previous: Capacity Planning](./capacity-planning.md) | [Home](../README.md) | [Next: Postmortems →](./postmortems.md)
+
+---
+
 # Chaos Engineering
 
 Chaos engineering deliberately injects failures into production-like systems to uncover weaknesses before they cause real incidents. The goal is not to break things — it's to build confidence in the system's resilience.

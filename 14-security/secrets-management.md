@@ -1,3 +1,7 @@
+← [Previous: Network Security](./network-security.md) | [Home](../README.md) | [Next: Encryption →](./encryption.md)
+
+---
+
 # Secrets Management
 
 Secrets — API keys, database passwords, TLS certificates, and tokens — must never appear in code, environment files, or container images. They require secure storage, access controls, versioning, and rotation.

@@ -1,3 +1,7 @@
+← [Previous: Cloud Logging](./cloud-logging.md) | [Home](../../README.md) | [Next: GCP IaC →](../11-iac/README.md)
+
+---
+
 # Cloud Trace
 
 Cloud Trace is GCP's distributed tracing service. It collects latency data from applications and shows how requests propagate through microservices. OpenTelemetry is the recommended instrumentation.

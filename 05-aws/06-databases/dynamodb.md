@@ -1,3 +1,7 @@
+← [Previous: Aurora](./aurora.md) | [Home](../../README.md) | [Next: ElastiCache →](./elasticache.md)
+
+---
+
 # Amazon DynamoDB
 
 DynamoDB is a serverless, fully managed NoSQL database delivering single-digit millisecond performance at any scale. There are no servers to provision, no schemas to migrate, and capacity scales automatically.

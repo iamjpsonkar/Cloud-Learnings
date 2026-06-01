@@ -1,3 +1,7 @@
+← [Previous: Azure Compute](./README.md) | [Home](../../README.md) | [Next: VMSS →](./vmss.md)
+
+---
+
 # Azure Virtual Machines
 
 Azure VMs provide on-demand compute capacity. They are the IaaS foundation for workloads that need full OS control.

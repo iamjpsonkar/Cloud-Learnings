@@ -1,3 +1,7 @@
+← [Previous: Static Website](./static-website.md) | [Home](../../README.md) | [Next: GCP →](../../07-gcp/README.md)
+
+---
+
 # Project: Microservice Deployment on AKS
 
 Deploy a production-grade Python microservice on AKS with private ACR, Workload Identity for secretless Azure service access, Horizontal Pod Autoscaler, and full observability.

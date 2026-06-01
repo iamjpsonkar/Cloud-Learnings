@@ -1,3 +1,7 @@
+← [Previous: GCP Security](./README.md) | [Home](../../README.md) | [Next: Cloud KMS →](./cloud-kms.md)
+
+---
+
 # Secret Manager
 
 Secret Manager stores API keys, passwords, certificates, and other sensitive data. It provides versioning, auditing, IAM-controlled access, and automatic rotation integration.

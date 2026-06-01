@@ -1,3 +1,7 @@
+← [Previous: Docker Basics](./docker-basics.md) | [Home](../README.md) | [Next: Docker Compose →](./docker-compose.md)
+
+---
+
 # Dockerfile
 
 A Dockerfile is a text file of instructions Docker reads top-to-bottom to build a container image. Each instruction creates a layer. Understanding layer caching is the key to fast, efficient builds.

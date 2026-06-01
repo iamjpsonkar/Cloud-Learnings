@@ -1,3 +1,7 @@
+← [Previous: Migration Overview](./README.md) | [Home](../README.md) | [Next: Lift & Shift →](./lift-and-shift.md)
+
+---
+
 # Migration Assessment
 
 A migration assessment answers three questions: **what do you have**, **what should you do with it**, and **can you afford it**. Get these wrong and you migrate the wrong things in the wrong order at the wrong cost.

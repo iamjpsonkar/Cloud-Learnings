@@ -1,3 +1,7 @@
+← [Previous: Cross-Cloud Comparison](../01-cloud-fundamentals/cross-cloud-comparison.md) | [Home](../README.md) | [Next: Filesystem →](./filesystem.md)
+
+---
+
 # Linux for Cloud Engineers
 
 Linux is the dominant OS in cloud computing. Every EC2 instance, GCE VM, AKS node, and containerized workload you run will likely be Linux. This section covers what you need to operate, automate, and troubleshoot Linux systems in a cloud context.

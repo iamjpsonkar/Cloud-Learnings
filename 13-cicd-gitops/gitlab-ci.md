@@ -1,3 +1,7 @@
+← [Previous: GitHub Actions](./github-actions.md) | [Home](../README.md) | [Next: Jenkins →](./jenkins.md)
+
+---
+
 # GitLab CI/CD
 
 GitLab CI/CD is defined in `.gitlab-ci.yml` at the root of your repository. It supports stages, jobs, runners, environments, and Auto DevOps.

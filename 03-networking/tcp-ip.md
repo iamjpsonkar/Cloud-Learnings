@@ -1,3 +1,7 @@
+← [Previous: OSI Model](./osi-model.md) | [Home](../README.md) | [Next: DNS →](./dns.md)
+
+---
+
 # TCP and UDP
 
 TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are the two dominant Layer 4 transport protocols. Choosing between them — or tuning their behaviour — has significant impact on application performance and reliability.

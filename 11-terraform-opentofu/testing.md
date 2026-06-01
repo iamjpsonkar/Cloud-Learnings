@@ -1,3 +1,7 @@
+← [Previous: Providers](./providers.md) | [Home](../README.md) | [Next: OpenTofu →](./opentofu.md)
+
+---
+
 # Testing Terraform
 
 Testing infrastructure code prevents regressions and catches misconfigurations before they reach production.

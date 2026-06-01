@@ -1,3 +1,7 @@
+← [Previous: Container Registries](../09-containers/container-registries.md) | [Home](../README.md) | [Next: Architecture →](./architecture.md)
+
+---
+
 # Kubernetes
 
 Kubernetes (K8s) is an open-source container orchestration platform that automates deployment, scaling, and management of containerized workloads. Originally developed by Google, it is now the de-facto standard for running containers in production.

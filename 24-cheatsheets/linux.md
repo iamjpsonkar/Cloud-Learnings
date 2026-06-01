@@ -1,3 +1,7 @@
+← [Previous: Docker](./docker.md) | [Home](../README.md) | [Next: Glossary →](../25-glossary/README.md)
+
+---
+
 # Linux Cheatsheet
 
 ```bash

@@ -1,3 +1,7 @@
+← [Previous: Regions & Zones](./regions-zones-geography.md) | [Home](../README.md) | [Next: Account Safety Checklist →](./account-safety-checklist.md)
+
+---
+
 # Cloud Billing Basics
 
 ## The Pay-As-You-Go Model

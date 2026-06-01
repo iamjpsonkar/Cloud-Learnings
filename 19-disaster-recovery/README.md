@@ -1,3 +1,7 @@
+← [Previous: Query Optimization](../18-databases/query-optimization.md) | [Home](../README.md) | [Next: RPO & RTO →](./rpo-rto.md)
+
+---
+
 # Disaster Recovery
 
 Disaster recovery (DR) is the ability to restore service after a failure — be it hardware, software, human error, or a regional outage. DR is not backup; backup is one component of DR.

@@ -1,3 +1,7 @@
+← [Previous: Getting Started](./getting-started.md) | [Home](../README.md) | [Next: Playbooks →](./playbooks.md)
+
+---
+
 # Inventory
 
 Inventory tells Ansible which hosts to manage and how to connect to them.

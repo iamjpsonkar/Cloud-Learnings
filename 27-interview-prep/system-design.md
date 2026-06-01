@@ -1,3 +1,7 @@
+← [Previous: AWS Fundamentals](./aws-fundamentals.md) | [Home](../README.md) | [Next: DevOps & SRE →](./devops-sre.md)
+
+---
+
 # Interview Prep: System Design
 
 System design interviews test your ability to translate ambiguous requirements into a working architecture. The goal is not to get the "right answer" — it's to show structured thinking, awareness of trade-offs, and practical experience.

@@ -1,3 +1,7 @@
+← [Previous: Lift & Shift](./lift-and-shift.md) | [Home](../README.md) | [Next: Refactor →](./refactor.md)
+
+---
+
 # Replatform (Lift & Reshape)
 
 Replatform makes targeted optimizations without re-architecting. The application logic stays the same; the infrastructure layer changes to use managed services. Common examples: moving from self-managed MySQL on EC2 to RDS, or from bare Java JARs on VMs to ECS containers.

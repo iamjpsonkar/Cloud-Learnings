@@ -1,3 +1,7 @@
+← [Previous: Containers & Kubernetes](./containers-k8s.md) | [Home](../README.md) | [Next: CI/CD →](./cicd.md)
+
+---
+
 # Troubleshooting: Databases
 
 Database problems in production usually manifest as one of: connection errors (exhaustion, refused), slow queries (missing index, bad plan), replication lag, or failover issues. This guide covers PostgreSQL/RDS diagnostics.

@@ -1,3 +1,7 @@
+← [Previous: Filesystem](./filesystem.md) | [Home](../README.md) | [Next: Processes & Services →](./processes-services.md)
+
+---
+
 # Linux Users, Groups, and Permissions
 
 ## Users

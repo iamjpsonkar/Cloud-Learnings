@@ -1,3 +1,7 @@
+← [Previous: OpenTofu](../11-terraform-opentofu/opentofu.md) | [Home](../README.md) | [Next: Getting Started →](./getting-started.md)
+
+---
+
 # Ansible
 
 Ansible is an agentless configuration management, application deployment, and IT automation tool. It communicates over SSH (Linux) or WinRM (Windows) and uses YAML-based playbooks.

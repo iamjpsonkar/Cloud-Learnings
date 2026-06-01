@@ -1,3 +1,7 @@
+← [Previous: GCP Networking](./README.md) | [Home](../../README.md) | [Next: Firewall Rules →](./firewall-rules.md)
+
+---
+
 # GCP VPC Networks
 
 GCP VPCs are global resources — a single VPC spans all regions. Subnets are regional. This differs from AWS where VPCs are regional.

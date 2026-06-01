@@ -1,3 +1,7 @@
+← [Previous: Subnets & Route Tables](./subnets-route-tables.md) | [Home](../../README.md) | [Next: Security Groups & NACLs →](./security-groups-nacl.md)
+
+---
+
 # Internet Gateway and NAT Gateway
 
 These are the two core components that control internet connectivity in a VPC.

@@ -1,3 +1,7 @@
+← [Previous: Kubernetes](./README.md) | [Home](../README.md) | [Next: Workloads →](./workloads.md)
+
+---
+
 # Kubernetes Architecture
 
 ---

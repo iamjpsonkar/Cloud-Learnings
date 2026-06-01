@@ -1,3 +1,7 @@
+← [Previous: Prometheus & Grafana](../15-observability/prometheus-grafana.md) | [Home](../README.md) | [Next: SLIs & SLOs →](./slos-slis.md)
+
+---
+
 # Site Reliability Engineering (SRE)
 
 SRE applies software engineering discipline to operations. It defines reliability targets, measures compliance, and uses automation to eliminate repetitive work — all to keep services reliable while enabling teams to move fast.

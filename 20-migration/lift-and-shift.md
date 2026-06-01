@@ -1,3 +1,7 @@
+← [Previous: Assessment](./assessment.md) | [Home](../README.md) | [Next: Replatform →](./replatform.md)
+
+---
+
 # Lift & Shift (Rehost)
 
 Rehost moves a workload to AWS with no code changes. The VM keeps the same OS, same software, same configuration — it just runs on EC2 instead of on-premises hardware. It's the fastest migration path and the right choice for legacy apps that need to move quickly.

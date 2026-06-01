@@ -1,3 +1,7 @@
+← [Previous: WAF & Shield](../09-security/waf-shield.md) | [Home](../../README.md) | [Next: CloudWatch →](./cloudwatch.md)
+
+---
+
 # AWS Observability
 
 Observability in AWS is built on three pillars: metrics (CloudWatch), audit logs (CloudTrail), and resource configuration history (Config). Together they give you operational visibility, security audit trails, and compliance evidence.

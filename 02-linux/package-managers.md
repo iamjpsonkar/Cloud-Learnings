@@ -1,3 +1,7 @@
+← [Previous: Processes & Services](./processes-services.md) | [Home](../README.md) | [Next: Shell Scripting →](./shell-scripting.md)
+
+---
+
 # Linux Package Managers
 
 ## Overview

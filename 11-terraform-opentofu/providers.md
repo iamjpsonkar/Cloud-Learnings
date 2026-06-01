@@ -1,3 +1,7 @@
+← [Previous: Expressions](./expressions.md) | [Home](../README.md) | [Next: Testing →](./testing.md)
+
+---
+
 # Providers
 
 Providers are plugins that allow Terraform to interact with APIs. Each provider exposes resources and data sources for a specific platform or service.

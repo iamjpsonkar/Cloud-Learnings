@@ -1,3 +1,7 @@
+← [Previous: DynamoDB](./dynamodb.md) | [Home](../../README.md) | [Next: Redshift →](./redshift.md)
+
+---
+
 # Amazon ElastiCache
 
 ElastiCache is a fully managed in-memory caching service supporting Redis and Memcached. It dramatically reduces database load, improves application response times, and enables use cases like session storage, leaderboards, pub/sub messaging, and rate limiting.

@@ -1,3 +1,7 @@
+← [Previous: ConfigMaps & Secrets](./configmaps-secrets.md) | [Home](../README.md) | [Next: RBAC →](./rbac.md)
+
+---
+
 # Kubernetes Storage
 
 Kubernetes provides a pluggable storage system for persistent, shared, and ephemeral data.

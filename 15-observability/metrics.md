@@ -1,3 +1,7 @@
+← [Previous: Observability Overview](./README.md) | [Home](../README.md) | [Next: Logging →](./logging.md)
+
+---
+
 # Metrics
 
 Metrics are numeric measurements collected over time. They are cheap to store, easy to alert on, and essential for understanding system behavior at scale.

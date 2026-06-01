@@ -1,3 +1,7 @@
+← [Previous: Services & Ingress](./services-ingress.md) | [Home](../README.md) | [Next: Storage →](./storage.md)
+
+---
+
 # Kubernetes ConfigMaps & Secrets
 
 ConfigMaps and Secrets decouple configuration from container images, following the twelve-factor app principle.

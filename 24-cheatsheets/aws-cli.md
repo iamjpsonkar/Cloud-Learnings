@@ -1,3 +1,7 @@
+← [Previous: Cheatsheets Overview](./README.md) | [Home](../README.md) | [Next: kubectl →](./kubectl.md)
+
+---
+
 # AWS CLI Cheatsheet
 
 ```bash

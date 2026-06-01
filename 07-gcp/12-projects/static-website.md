@@ -1,3 +1,7 @@
+← [Previous: GCP Projects](./README.md) | [Home](../../README.md) | [Next: GKE Microservice →](./gke-microservice.md)
+
+---
+
 # Project: Static Website with Cloud CDN
 
 Deploy a static website on Cloud Storage with Cloud CDN, a custom domain, HTTPS via a Google-managed certificate, and a GitHub Actions CI/CD pipeline.

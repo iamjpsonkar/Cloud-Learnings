@@ -1,3 +1,7 @@
+← [Previous: Home](../README.md) | [Home](../README.md) | [Next: Cloud Concepts →](./cloud-concepts.md)
+
+---
+
 # Cloud Foundations
 
 Vendor-neutral concepts every cloud practitioner must understand before touching a specific provider. These apply equally to AWS, Azure, GCP, and any other cloud platform.

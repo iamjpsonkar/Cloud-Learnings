@@ -1,3 +1,7 @@
+← [Previous: ECS](./ecs.md) | [Home](../../README.md) | [Next: AWS Serverless →](../08-serverless/README.md)
+
+---
+
 # Amazon EKS (Elastic Kubernetes Service)
 
 EKS is a managed Kubernetes service. AWS runs the control plane (API server, etcd, scheduler) across multiple AZs. You choose how to run worker nodes: managed node groups (EC2 ASGs managed by AWS), self-managed nodes, or Fargate profiles (serverless pods).

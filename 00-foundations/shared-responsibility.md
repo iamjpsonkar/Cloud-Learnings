@@ -1,3 +1,7 @@
+← [Previous: Deployment Models](./deployment-models.md) | [Home](../README.md) | [Next: Regions & Zones →](./regions-zones-geography.md)
+
+---
+
 # Shared Responsibility Model
 
 ## The Core Idea

@@ -1,3 +1,7 @@
+← [Previous: Linux](./README.md) | [Home](../README.md) | [Next: Users & Permissions →](./users-groups-permissions.md)
+
+---
+
 # Linux Filesystem
 
 ## The Filesystem Hierarchy Standard (FHS)

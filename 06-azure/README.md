@@ -1,3 +1,7 @@
+← [Previous: Static Website on AWS](../05-aws/14-projects/static-website.md) | [Home](../README.md) | [Next: Azure Account Setup →](./01-account-setup/README.md)
+
+---
+
 # Microsoft Azure
 
 Azure is Microsoft's cloud platform, second largest by market share. It excels in enterprise Windows/Active Directory workloads, hybrid connectivity, and .NET ecosystems. This section covers the services and patterns you need for production Azure deployments.

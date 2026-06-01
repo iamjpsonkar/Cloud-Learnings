@@ -1,3 +1,7 @@
+← [Previous: EBS](./ebs.md) | [Home](../../README.md) | [Next: FSx →](./fsx.md)
+
+---
+
 # Amazon EFS — Elastic File System
 
 EFS is a fully managed, elastic, shared POSIX-compatible filesystem for Linux workloads. Multiple EC2 instances, containers, and Lambda functions can mount and access the same filesystem concurrently.

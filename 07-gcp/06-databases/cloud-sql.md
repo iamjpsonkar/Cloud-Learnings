@@ -1,3 +1,7 @@
+← [Previous: GCP Databases](./README.md) | [Home](../../README.md) | [Next: Firestore →](./firestore.md)
+
+---
+
 # Cloud SQL
 
 Cloud SQL is a fully managed relational database service supporting PostgreSQL, MySQL, and SQL Server. It handles replication, failover, backups, and patching.

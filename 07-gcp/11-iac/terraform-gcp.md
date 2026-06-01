@@ -1,3 +1,7 @@
+← [Previous: GCP IaC](./README.md) | [Home](../../README.md) | [Next: GCP Projects →](../12-projects/README.md)
+
+---
+
 # Terraform on GCP
 
 Terraform manages GCP infrastructure declaratively. The `google` and `google-beta` providers cover all GCP services. Remote state is stored in Cloud Storage.

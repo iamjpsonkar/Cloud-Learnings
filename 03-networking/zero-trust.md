@@ -1,3 +1,7 @@
+← [Previous: CDN](./cdn.md) | [Home](../README.md) | [Next: Networking Troubleshooting →](./troubleshooting.md)
+
+---
+
 # Zero Trust Networking
 
 Zero Trust is a security model based on the principle "**never trust, always verify**". It replaces the traditional perimeter (castle-and-moat) model — where everything inside the network is trusted — with per-request authentication and authorisation regardless of network location.

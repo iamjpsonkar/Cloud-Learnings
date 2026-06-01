@@ -1,3 +1,7 @@
+← [Previous: GCP Storage](./README.md) | [Home](../../README.md) | [Next: Filestore →](./filestore.md)
+
+---
+
 # Cloud Storage
 
 Cloud Storage is GCP's object storage service. Buckets are globally unique, regionally/multi-regionally located, and support multiple storage classes for cost optimization.

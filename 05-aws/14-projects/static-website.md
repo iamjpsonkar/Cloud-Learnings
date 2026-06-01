@@ -1,3 +1,7 @@
+← [Previous: Secure VPC](./secure-vpc.md) | [Home](../../README.md) | [Next: Azure →](../../06-azure/README.md)
+
+---
+
 # Project: Static Website with S3 + CloudFront
 
 Host a static website with global CDN, HTTPS, and a custom domain at near-zero cost. Suitable for React/Vue/Angular SPAs, documentation sites, and landing pages.

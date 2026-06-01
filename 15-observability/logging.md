@@ -1,3 +1,7 @@
+← [Previous: Metrics](./metrics.md) | [Home](../README.md) | [Next: Tracing →](./tracing.md)
+
+---
+
 # Logging
 
 Logs are the narrative of what your system did. Structured logs are queryable; unstructured logs are archaeology.

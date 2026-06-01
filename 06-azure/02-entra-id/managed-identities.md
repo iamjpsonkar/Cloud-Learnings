@@ -1,3 +1,7 @@
+← [Previous: Service Principals](./service-principals.md) | [Home](../../README.md) | [Next: Azure Networking →](../03-networking/README.md)
+
+---
+
 # Azure Managed Identities
 
 Managed identities let Azure resources authenticate to other Azure services without any credentials in code or configuration. Azure handles the identity lifecycle and token refresh automatically.

@@ -1,3 +1,7 @@
+← [Previous: Entra ID Basics](./entra-id-basics.md) | [Home](../../README.md) | [Next: Service Principals →](./service-principals.md)
+
+---
+
 # Azure RBAC
 
 Azure Role-Based Access Control (RBAC) controls who can do what on Azure resources. It operates independently from Entra ID directory roles.

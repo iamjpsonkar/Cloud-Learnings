@@ -1,3 +1,7 @@
+← [Previous: CloudFront](./cloudfront.md) | [Home](../../README.md) | [Next: PrivateLink →](./privatelink.md)
+
+---
+
 # VPC Peering and Transit Gateway
 
 VPC Peering and Transit Gateway are the two core mechanisms for connecting multiple VPCs in AWS. Peering is point-to-point; Transit Gateway is a hub-and-spoke router that scales to hundreds of VPCs.

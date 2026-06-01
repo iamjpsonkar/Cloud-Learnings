@@ -1,3 +1,7 @@
+← [Previous: AWS Observability](./README.md) | [Home](../../README.md) | [Next: CloudTrail →](./cloudtrail.md)
+
+---
+
 # Amazon CloudWatch
 
 CloudWatch is the native AWS observability service. It collects metrics, logs, and traces; evaluates alarms; and generates dashboards — all in one place. It is the primary operational data plane for every AWS service.

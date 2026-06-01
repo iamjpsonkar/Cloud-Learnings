@@ -1,3 +1,7 @@
+← [Previous: System Design](./system-design.md) | [Home](../README.md) | [Next: References →](../28-references/README.md)
+
+---
+
 # Interview Prep: DevOps & SRE
 
 ---

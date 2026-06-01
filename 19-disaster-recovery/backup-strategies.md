@@ -1,3 +1,7 @@
+← [Previous: RPO & RTO](./rpo-rto.md) | [Home](../README.md) | [Next: Failover Patterns →](./failover-patterns.md)
+
+---
+
 # Backup Strategies
 
 The 3-2-1 rule: **3** copies of data, on **2** different media types, with **1** copy off-site. In cloud terms: production + replica + cross-region/cross-account backup.

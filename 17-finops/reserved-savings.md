@@ -1,3 +1,7 @@
+← [Previous: Rightsizing](./rightsizing.md) | [Home](../README.md) | [Next: Storage Optimization →](./storage-optimization.md)
+
+---
+
 # Reserved Instances & Savings Plans
 
 Commitments (Reserved Instances, Savings Plans, Committed Use Discounts) offer 30–72% discounts on cloud compute in exchange for 1- or 3-year commitments. They are the highest-ROI FinOps action after rightsizing.

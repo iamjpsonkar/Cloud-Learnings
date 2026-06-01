@@ -1,3 +1,7 @@
+← [Previous: Network Security Groups](./network-security-groups.md) | [Home](../../README.md) | [Next: Private Endpoints →](./private-endpoints.md)
+
+---
+
 # Azure Application Gateway
 
 Application Gateway is a regional L7 (HTTP/HTTPS) load balancer with built-in Web Application Firewall (WAF), SSL termination, URL-based routing, and session affinity.

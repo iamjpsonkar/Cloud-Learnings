@@ -1,3 +1,7 @@
+← [Previous: GCP Serverless](./README.md) | [Home](../../README.md) | [Next: Pub/Sub →](./pubsub.md)
+
+---
+
 # Cloud Functions
 
 Cloud Functions is Google Cloud's serverless compute platform for event-driven functions. **2nd generation** (based on Cloud Run) is the recommended offering — it supports longer timeouts, larger instances, and concurrency.

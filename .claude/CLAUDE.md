@@ -183,9 +183,21 @@ Image path references:
 
 ---
 
-## Navigation Footer Rule
+## Navigation Bar Rule
 
-Every `.md` file in directories `00-foundations/` through `28-references/` must end with:
+Every `.md` file in directories `00-foundations/` through `28-references/` must have **both** a top and a bottom navigation bar. The top bar is a mirror of the bottom bar — identical text, placed before the `# Title` heading.
+
+**Top bar** (first lines of the file):
+
+```markdown
+← [Previous: Label](relative/path/to/file.md) | [Home](../../README.md) | [Next: Label →](relative/path/to/file.md)
+
+---
+
+# Title
+```
+
+**Bottom bar** (last lines of the file):
 
 ```markdown
 ---
@@ -193,10 +205,12 @@ Every `.md` file in directories `00-foundations/` through `28-references/` must 
 ← [Previous: Label](relative/path/to/file.md) | [Home](../../README.md) | [Next: Label →](relative/path/to/file.md)
 ```
 
+- The top and bottom nav lines are **identical**
 - Use **relative paths only** — no absolute paths
 - Home for top-level section files: `../README.md`
 - Home for sub-section files (e.g., `05-aws/01-account-setup/`): `../../README.md`
-- Support files in `assets/`, `scripts/`, `templates/` do NOT get footers
+- Support files in `assets/`, `scripts/`, `templates/` do NOT get nav bars
+- To add top nav to all files: run `python3 scripts/add-top-nav.py` (idempotent)
 
 ---
 

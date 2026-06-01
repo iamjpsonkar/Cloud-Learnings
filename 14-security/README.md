@@ -1,3 +1,7 @@
+← [Previous: Production Pipelines](../13-cicd-gitops/production-pipelines.md) | [Home](../README.md) | [Next: IAM & Least Privilege →](./iam-least-privilege.md)
+
+---
+
 # Cloud Security
 
 Security is not a feature — it is a baseline requirement. This section covers the security controls, tools, and practices that protect cloud infrastructure and applications.

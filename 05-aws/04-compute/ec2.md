@@ -1,3 +1,7 @@
+← [Previous: AWS Compute](./README.md) | [Home](../../README.md) | [Next: AMI & Launch Templates →](./ami-launch-templates.md)
+
+---
+
 # AWS EC2: Elastic Compute Cloud
 
 Amazon EC2 (Elastic Compute Cloud) provides **virtual servers in the cloud**. Instead of buying a physical machine, you rent a server from AWS and run your applications on it.

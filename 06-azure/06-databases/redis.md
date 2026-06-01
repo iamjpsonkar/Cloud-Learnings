@@ -1,3 +1,7 @@
+← [Previous: Cosmos DB](./cosmos-db.md) | [Home](../../README.md) | [Next: Azure Containers →](../07-containers/README.md)
+
+---
+
 # Azure Cache for Redis
 
 Azure Cache for Redis is a fully managed in-memory cache based on Redis. It is used for session storage, pub/sub, distributed locking, and reducing database load via cache-aside.

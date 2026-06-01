@@ -1,3 +1,7 @@
+← [Previous: SQS & SNS](./sqs-sns.md) | [Home](../../README.md) | [Next: Step Functions →](./step-functions.md)
+
+---
+
 # Amazon EventBridge
 
 EventBridge is a serverless event bus that routes events between AWS services, custom applications, and SaaS partners. It replaces CloudWatch Events and adds custom event buses, schema registry, Pipes, and Scheduler.

@@ -1,3 +1,7 @@
+← [Previous: Networking Troubleshooting](../03-networking/troubleshooting.md) | [Home](../README.md) | [Next: Git Basics →](./git-basics.md)
+
+---
+
 # Git and DevOps Basics
 
 Version control is the foundation of modern software delivery. Every cloud deployment, infrastructure change, and configuration update should flow through Git. This section covers Git fundamentals, GitHub collaboration workflows, and SSH key management — the daily tools of cloud and DevOps engineering.

@@ -1,3 +1,7 @@
+← [Previous: CI/CD Pipeline](./cicd-pipeline.md) | [Home](../README.md) | [Next: Kubernetes App →](./kubernetes-app.md)
+
+---
+
 # Project: Observability Stack
 
 Deploy a full observability stack: Prometheus for metrics, Grafana for dashboards, Loki for logs, and OpenTelemetry Collector for traces — all running on ECS Fargate or Kubernetes, plus integration with CloudWatch.

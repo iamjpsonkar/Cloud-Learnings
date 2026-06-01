@@ -1,3 +1,7 @@
+← [Previous: Roles](./roles.md) | [Home](../README.md) | [Next: Vault →](./vault.md)
+
+---
+
 # Variables
 
 Ansible variables store values used in tasks, templates, and conditionals. Understanding precedence prevents unexpected behavior.

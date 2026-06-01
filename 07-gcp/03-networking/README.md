@@ -1,3 +1,7 @@
+← [Previous: Workload Identity Federation](../02-iam/workload-identity-federation.md) | [Home](../../README.md) | [Next: VPC →](./vpc.md)
+
+---
+
 # GCP Networking
 
 ---

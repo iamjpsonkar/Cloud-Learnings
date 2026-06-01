@@ -1,3 +1,7 @@
+← [Previous: HTTP/HTTPS/TLS](./http-https-tls.md) | [Home](../README.md) | [Next: Zero Trust →](./zero-trust.md)
+
+---
+
 # CDN — Content Delivery Networks
 
 A CDN distributes content across a global network of edge servers, serving requests from the location closest to the user. This reduces latency, offloads origin servers, and improves availability.

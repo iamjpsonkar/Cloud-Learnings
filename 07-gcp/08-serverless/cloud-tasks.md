@@ -1,3 +1,7 @@
+← [Previous: Cloud Scheduler](./cloud-scheduler.md) | [Home](../../README.md) | [Next: GCP Security →](../09-security/README.md)
+
+---
+
 # Cloud Tasks
 
 Cloud Tasks manages the execution of distributed, asynchronous tasks. Use it for deferred work, rate-limited task dispatch, deduplication, and guaranteed delivery to HTTP endpoints.

@@ -1,3 +1,7 @@
+← [Previous: Billing Basics](./billing-basics.md) | [Home](../README.md) | [Next: Cloud Fundamentals →](../01-cloud-fundamentals/README.md)
+
+---
+
 # New Cloud Account Safety Checklist
 
 Complete these steps within the first hour of creating any new cloud account. These are the minimum security controls that should be in place before you deploy anything.

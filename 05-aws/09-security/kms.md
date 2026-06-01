@@ -1,3 +1,7 @@
+← [Previous: AWS Security](./README.md) | [Home](../../README.md) | [Next: Secrets Manager →](./secrets-manager.md)
+
+---
+
 # AWS Key Management Service (KMS)
 
 KMS is a managed service for creating and controlling cryptographic keys. It integrates natively with 100+ AWS services (S3, EBS, RDS, DynamoDB, Secrets Manager, etc.) and handles key storage, rotation, and access control without exposing raw key material.

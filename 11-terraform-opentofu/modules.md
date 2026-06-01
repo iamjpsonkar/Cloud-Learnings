@@ -1,3 +1,7 @@
+← [Previous: State Management](./state.md) | [Home](../README.md) | [Next: Variables & Outputs →](./variables-outputs.md)
+
+---
+
 # Modules
 
 Modules are reusable packages of Terraform resources. They allow you to abstract infrastructure patterns, enforce standards, and share configurations across teams and projects.

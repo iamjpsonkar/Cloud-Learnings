@@ -1,3 +1,7 @@
+← [Previous: Zero Trust](./zero-trust.md) | [Home](../README.md) | [Next: Git & DevOps Basics →](../04-git-devops-basics/README.md)
+
+---
+
 # Network Troubleshooting
 
 Systematic network debugging for cloud environments. Work from the outside in: DNS → connectivity → application layer. Gather evidence before drawing conclusions.

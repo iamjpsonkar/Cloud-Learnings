@@ -1,3 +1,7 @@
+← [Previous: AKS](./aks.md) | [Home](../../README.md) | [Next: Azure Serverless →](../08-serverless/README.md)
+
+---
+
 # Azure Container Instances (ACI)
 
 ACI runs containers on-demand without managing any infrastructure. It is best for short-lived tasks, batch jobs, CI/CD build steps, and burst compute alongside AKS (virtual nodes).

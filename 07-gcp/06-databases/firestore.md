@@ -1,3 +1,7 @@
+← [Previous: Cloud SQL](./cloud-sql.md) | [Home](../../README.md) | [Next: Memorystore →](./memorystore.md)
+
+---
+
 # Cloud Firestore
 
 Firestore is a serverless, horizontally scaling NoSQL document database. It supports real-time listeners, ACID transactions, and strong consistency. The native mode is the recommended offering.

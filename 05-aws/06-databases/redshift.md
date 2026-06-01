@@ -1,3 +1,7 @@
+← [Previous: ElastiCache](./elasticache.md) | [Home](../../README.md) | [Next: AWS Containers →](../07-containers/README.md)
+
+---
+
 # Amazon Redshift
 
 Redshift is a fully managed, petabyte-scale columnar data warehouse optimised for OLAP (Online Analytical Processing) and business intelligence workloads. It uses PostgreSQL-compatible SQL and integrates with standard BI tools.

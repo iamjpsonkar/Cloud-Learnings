@@ -1,3 +1,7 @@
+← [Previous: On-Call](./on-call.md) | [Home](../README.md) | [Next: Chaos Engineering →](./chaos-engineering.md)
+
+---
+
 # Capacity Planning
 
 Capacity planning ensures your systems can handle current and future load without over-provisioning. It combines load testing, metric analysis, and demand forecasting.

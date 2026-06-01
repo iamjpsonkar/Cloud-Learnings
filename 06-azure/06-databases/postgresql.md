@@ -1,3 +1,7 @@
+← [Previous: Azure Databases](./README.md) | [Home](../../README.md) | [Next: Azure SQL →](./azure-sql.md)
+
+---
+
 # Azure Database for PostgreSQL — Flexible Server
 
 Azure Database for PostgreSQL Flexible Server is a fully managed PostgreSQL service with zone-redundant HA, read replicas, PITR, and private networking support.

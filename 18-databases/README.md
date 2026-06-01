@@ -1,3 +1,7 @@
+← [Previous: FinOps Culture](../17-finops/finops-culture.md) | [Home](../README.md) | [Next: Relational Databases →](./relational.md)
+
+---
+
 # Databases
 
 Databases are the most critical stateful component in any system. Choosing the right database, operating it correctly, and knowing how to migrate and recover it are essential skills for any cloud engineer.

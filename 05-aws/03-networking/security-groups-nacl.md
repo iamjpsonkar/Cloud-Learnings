@@ -1,3 +1,7 @@
+← [Previous: IGW & NAT Gateway](./igw-natgw.md) | [Home](../../README.md) | [Next: Route 53 →](./route53.md)
+
+---
+
 # Security Groups and Network ACLs
 
 Security Groups (SGs) and Network ACLs (NACLs) are the two layers of network access control in a VPC. They complement each other — SGs control traffic at the instance level, NACLs at the subnet level.

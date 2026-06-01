@@ -1,3 +1,7 @@
+← [Previous: VPC](./vpc.md) | [Home](../../README.md) | [Next: IGW & NAT Gateway →](./igw-natgw.md)
+
+---
+
 # Subnets and Route Tables
 
 Subnets divide a VPC's CIDR block into smaller segments, each in a single Availability Zone. Route tables control where traffic flows from each subnet.

@@ -1,3 +1,7 @@
+← [Previous: AMI & Launch Templates](./ami-launch-templates.md) | [Home](../../README.md) | [Next: Load Balancers →](./load-balancers.md)
+
+---
+
 # Auto Scaling Groups
 
 An Auto Scaling Group (ASG) manages a fleet of EC2 instances, automatically adjusting the number of instances based on demand, health checks, and schedules. ASGs work with launch templates and integrate with Application Load Balancers for health-aware traffic distribution.

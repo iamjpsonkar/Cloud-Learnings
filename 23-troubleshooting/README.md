@@ -1,3 +1,7 @@
+← [Previous: Multi-Cloud Deployment](../22-projects/multi-cloud-deployment.md) | [Home](../README.md) | [Next: AWS Networking →](./aws-networking.md)
+
+---
+
 # Troubleshooting
 
 Effective troubleshooting follows a method: observe, hypothesize, test, confirm. This section provides diagnostic playbooks for the most common failure categories in cloud environments.

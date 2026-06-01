@@ -1,3 +1,7 @@
+← [Previous: Replatform](./replatform.md) | [Home](../README.md) | [Next: Data Migration →](./data-migration.md)
+
+---
+
 # Refactor (Re-architect)
 
 Refactoring redesigns an application to be cloud-native. It requires the most effort but delivers the most long-term value: independent scaling, faster deployments, and elimination of shared mutable state. The two foundational patterns are **strangler fig** (incremental) and **microservices decomposition** (structural).

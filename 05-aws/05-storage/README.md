@@ -1,3 +1,7 @@
+← [Previous: Lambda](../04-compute/lambda.md) | [Home](../../README.md) | [Next: S3 →](./s3.md)
+
+---
+
 # AWS Storage
 
 AWS offers multiple storage types to match different access patterns, performance requirements, and cost profiles. This section covers block (EBS), file (EFS, FSx), and object (S3) storage.

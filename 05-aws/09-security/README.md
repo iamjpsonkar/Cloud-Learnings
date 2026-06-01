@@ -1,3 +1,7 @@
+← [Previous: Step Functions](../08-serverless/step-functions.md) | [Home](../../README.md) | [Next: KMS →](./kms.md)
+
+---
+
 # AWS Security
 
 Security in AWS is a shared responsibility. AWS secures the infrastructure; you secure what runs on it. This section covers the core AWS security services: encryption (KMS), secrets management, threat detection (GuardDuty), compliance aggregation (Security Hub), edge protection (WAF + Shield), and TLS certificates (ACM).

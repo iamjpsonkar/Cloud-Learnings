@@ -1,3 +1,7 @@
+← [Previous: Vault](./vault.md) | [Home](../README.md) | [Next: Best Practices →](./best-practices.md)
+
+---
+
 # Common Ansible Modules
 
 Ansible ships with 3,000+ built-in modules. This page covers the most commonly used modules organized by category.

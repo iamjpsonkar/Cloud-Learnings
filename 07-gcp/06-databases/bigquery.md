@@ -1,3 +1,7 @@
+← [Previous: Memorystore](./memorystore.md) | [Home](../../README.md) | [Next: GCP Containers →](../07-containers/README.md)
+
+---
+
 # BigQuery
 
 BigQuery is GCP's serverless, fully managed data warehouse. It scales to petabytes, supports standard SQL, and charges per query (bytes scanned) or flat-rate reservations.

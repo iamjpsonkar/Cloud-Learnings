@@ -1,3 +1,7 @@
+← [Previous: Cloud DNS](../03-networking/cloud-dns.md) | [Home](../../README.md) | [Next: Compute Engine →](./compute-engine.md)
+
+---
+
 # GCP Compute
 
 ---

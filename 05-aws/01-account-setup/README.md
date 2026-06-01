@@ -1,3 +1,7 @@
+← [Previous: AWS](../README.md) | [Home](../../README.md) | [Next: Account Setup →](./account-setup.md)
+
+---
+
 # AWS Account Setup
 
 Before building anything in AWS, you need a secure account foundation. Accounts that skip this step become security incidents.

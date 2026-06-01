@@ -1,3 +1,7 @@
+← [Previous: Application Gateway](./application-gateway.md) | [Home](../../README.md) | [Next: Azure Compute →](../04-compute/README.md)
+
+---
+
 # Azure Private Endpoints
 
 Private Endpoints give Azure PaaS services (Storage, SQL, Key Vault, Cosmos DB, AKS API server, etc.) a private IP address within your VNet. Traffic stays on the Microsoft backbone — it never traverses the public internet.

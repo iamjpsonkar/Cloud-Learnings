@@ -1,3 +1,7 @@
+← [Previous: Compute Engine](./compute-engine.md) | [Home](../../README.md) | [Next: GCP Storage →](../05-storage/README.md)
+
+---
+
 # Managed Instance Groups (MIGs)
 
 MIGs are groups of identical VMs managed as a single entity. They provide autoscaling, rolling updates, health checking, and regional (multi-zone) distribution.

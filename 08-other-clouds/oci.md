@@ -1,3 +1,7 @@
+← [Previous: Other Clouds](./README.md) | [Home](../README.md) | [Next: IBM Cloud →](./ibm-cloud.md)
+
+---
+
 # Oracle Cloud Infrastructure (OCI)
 
 OCI is Oracle's second-generation cloud platform, designed for performance-sensitive and database-heavy workloads. It competes aggressively on price — particularly for Oracle Database — and offers a generous Always Free tier.

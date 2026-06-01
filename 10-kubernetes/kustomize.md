@@ -1,3 +1,7 @@
+← [Previous: Helm](./helm.md) | [Home](../README.md) | [Next: Troubleshooting →](./troubleshooting.md)
+
+---
+
 # Kustomize
 
 Kustomize is a template-free configuration customization tool built into `kubectl`. It lets you maintain a base configuration and layer environment-specific overrides without modifying the originals.

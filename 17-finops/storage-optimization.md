@@ -1,3 +1,7 @@
+← [Previous: Reserved & Savings Plans](./reserved-savings.md) | [Home](../README.md) | [Next: Kubernetes Costs →](./kubernetes-costs.md)
+
+---
+
 # Storage Optimization
 
 Storage costs grow silently and predictably. Unmanaged logs, orphaned snapshots, old backups, and over-sized EBS volumes are common sources of avoidable spend.

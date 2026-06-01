@@ -1,3 +1,7 @@
+← [Previous: Incident Response](./incident-response.md) | [Home](../README.md) | [Next: Security Checklist →](./security-checklist.md)
+
+---
+
 # Supply Chain Security
 
 Supply chain attacks target the build process, dependencies, and artifacts rather than the running application. SolarWinds, XZ Utils, and Log4Shell demonstrated that a single compromised upstream component can affect thousands of organizations.

@@ -1,3 +1,7 @@
+← [Previous: Docker Compose](./docker-compose.md) | [Home](../README.md) | [Next: Kubernetes →](../10-kubernetes/README.md)
+
+---
+
 # Container Registries
 
 A container registry stores and distributes container images. Registries provide versioning (tags), vulnerability scanning, access control, and geographic replication.

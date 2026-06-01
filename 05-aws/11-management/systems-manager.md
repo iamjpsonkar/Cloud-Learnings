@@ -1,3 +1,7 @@
+← [Previous: AWS Management](./README.md) | [Home](../../README.md) | [Next: AWS CI/CD →](../12-cicd/README.md)
+
+---
+
 # AWS Systems Manager
 
 AWS Systems Manager (SSM) is a management service that gives you visibility and control over your AWS infrastructure. It lets you automate operational tasks across EC2 instances and other AWS resources — without needing to SSH into each server manually.

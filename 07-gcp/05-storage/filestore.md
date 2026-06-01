@@ -1,3 +1,7 @@
+← [Previous: Cloud Storage](./cloud-storage.md) | [Home](../../README.md) | [Next: GCP Databases →](../06-databases/README.md)
+
+---
+
 # Cloud Filestore
 
 Cloud Filestore is a managed NFS file server. It provides a shared POSIX filesystem accessible from multiple GCE VMs and GKE nodes simultaneously. Use it for workloads that need shared file access (CMS, render farms, shared config).

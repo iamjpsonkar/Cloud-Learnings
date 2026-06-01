@@ -1,3 +1,7 @@
+← [Previous: Multi-Tier App](./multi-tier-app.md) | [Home](../README.md) | [Next: Multi-Cloud Deployment →](./multi-cloud-deployment.md)
+
+---
+
 # Project: Disaster Recovery Setup
 
 Build a warm standby DR environment that can fail over to a second AWS region in under 30 minutes. This project implements the warm standby pattern from `19-disaster-recovery/failover-patterns.md` for a real application stack.

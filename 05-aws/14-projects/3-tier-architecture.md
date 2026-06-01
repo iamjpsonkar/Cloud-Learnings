@@ -1,3 +1,7 @@
+← [Previous: AWS Projects](./README.md) | [Home](../../README.md) | [Next: Secure VPC →](./secure-vpc.md)
+
+---
+
 # Project: 3-Tier Architecture on AWS
 
 A production-ready 3-tier web application: presentation (ALB), logic (ECS Fargate), and data (RDS + ElastiCache). Includes auto scaling, secrets management, observability, and CI/CD integration.

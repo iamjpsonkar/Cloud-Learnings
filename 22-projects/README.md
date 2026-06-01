@@ -1,3 +1,7 @@
+← [Previous: Multi-Cloud IaC](../21-multi-cloud/iac-abstractions.md) | [Home](../README.md) | [Next: Static Website →](./static-website.md)
+
+---
+
 # Projects
 
 Hands-on projects tie together everything from the previous sections. Each project is self-contained: it starts from scratch, builds something real, and ends with a working deployment. Work through them in order or pick the ones most relevant to your role.

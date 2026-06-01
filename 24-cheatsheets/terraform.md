@@ -1,3 +1,7 @@
+← [Previous: kubectl](./kubectl.md) | [Home](../README.md) | [Next: Docker →](./docker.md)
+
+---
+
 # Terraform Cheatsheet
 
 ```hcl

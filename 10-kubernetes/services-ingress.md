@@ -1,3 +1,7 @@
+← [Previous: Workloads](./workloads.md) | [Home](../README.md) | [Next: ConfigMaps & Secrets →](./configmaps-secrets.md)
+
+---
+
 # Kubernetes Services & Ingress
 
 Services provide stable network endpoints for Pods. Ingress manages HTTP/HTTPS routing into the cluster.

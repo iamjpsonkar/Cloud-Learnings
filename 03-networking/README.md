@@ -1,3 +1,7 @@
+← [Previous: Linux Troubleshooting](../02-linux/troubleshooting.md) | [Home](../README.md) | [Next: OSI Model →](./osi-model.md)
+
+---
+
 # Networking for Cloud Engineers
 
 A solid understanding of networking is essential for cloud work. Every VPC, security group, load balancer, and DNS record is a networking concept. This section covers the fundamentals — from the OSI model through to Zero Trust — with cloud-specific applications throughout.

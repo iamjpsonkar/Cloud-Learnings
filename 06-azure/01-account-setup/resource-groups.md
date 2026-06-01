@@ -1,3 +1,7 @@
+← [Previous: Subscriptions](./subscriptions.md) | [Home](../../README.md) | [Next: Azure Entra ID →](../02-entra-id/README.md)
+
+---
+
 # Azure Resource Groups
 
 ---

@@ -1,3 +1,7 @@
+← [Previous: Strategy](./strategy.md) | [Home](../README.md) | [Next: Identity →](./identity.md)
+
+---
+
 # Multi-Cloud Networking
 
 Connecting workloads across cloud providers requires either public internet (with encryption), managed VPN tunnels, or dedicated interconnect circuits. The right choice depends on bandwidth, latency, cost, and security requirements.

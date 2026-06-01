@@ -1,3 +1,7 @@
+← [Previous: Package Managers](./package-managers.md) | [Home](../README.md) | [Next: SSH, SCP & rsync →](./ssh-scp-rsync.md)
+
+---
+
 # Shell Scripting for Cloud Engineers
 
 Bash scripts are the glue of cloud automation — EC2 user data, deployment scripts, maintenance tasks, and CI/CD steps are all shell scripts in practice. This guide focuses on patterns used in production cloud environments.

@@ -1,3 +1,7 @@
+← [Previous: EventBridge](./eventbridge.md) | [Home](../../README.md) | [Next: AWS Security →](../09-security/README.md)
+
+---
+
 # AWS Step Functions
 
 Step Functions is a serverless orchestration service that lets you build multi-step workflows as state machines. Each state in the machine can invoke Lambda, call AWS SDK actions directly, wait for events, branch, retry on failure, and run parallel tasks.

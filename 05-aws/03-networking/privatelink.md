@@ -1,3 +1,7 @@
+← [Previous: VPC Peering & Transit Gateway](./vpc-peering-tgw.md) | [Home](../../README.md) | [Next: AWS Compute →](../04-compute/README.md)
+
+---
+
 # AWS PrivateLink and VPC Endpoints
 
 AWS PrivateLink provides private connectivity between VPCs and AWS services (or your own services) without exposing traffic to the public internet. Traffic stays entirely within the AWS network.

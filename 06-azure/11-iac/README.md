@@ -1,3 +1,7 @@
+← [Previous: Application Insights](../10-observability/application-insights.md) | [Home](../../README.md) | [Next: Bicep →](./bicep.md)
+
+---
+
 # Azure Infrastructure as Code
 
 ---

@@ -1,3 +1,7 @@
+← [Previous: Tracing](./tracing.md) | [Home](../README.md) | [Next: Dashboards →](./dashboards.md)
+
+---
+
 # Alerting
 
 Alerts tell you when something needs human attention. A good alert is actionable, rare, and linked to a runbook. Alert fatigue — too many low-signal alerts — is a leading cause of on-call burnout.

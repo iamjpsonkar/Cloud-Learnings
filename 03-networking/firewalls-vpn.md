@@ -1,3 +1,7 @@
+← [Previous: NAT & Routing](./nat-routing.md) | [Home](../README.md) | [Next: Load Balancing →](./load-balancing.md)
+
+---
+
 # Firewalls and VPN
 
 Firewalls control which network traffic is allowed or denied. VPNs create encrypted tunnels over the public internet. Both are fundamental to cloud security architecture.

@@ -1,3 +1,7 @@
+← [Previous: Storage](./storage.md) | [Home](../README.md) | [Next: Databases →](./databases.md)
+
+---
+
 # Cloud Networking Fundamentals
 
 ## Why Cloud Networking Matters

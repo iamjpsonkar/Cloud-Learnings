@@ -1,3 +1,7 @@
+← [Previous: Networking](./networking.md) | [Home](../README.md) | [Next: Data Replication →](./data-replication.md)
+
+---
+
 # Cross-Cloud Identity
 
 The core problem in multi-cloud identity: your workloads on AWS need to call GCP APIs (or vice versa) without storing long-lived credentials. The solution is Workload Identity Federation using OIDC — each cloud trusts the other's identity tokens.

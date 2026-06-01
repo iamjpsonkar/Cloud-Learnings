@@ -1,3 +1,7 @@
+← [Previous: DR Runbooks](../19-disaster-recovery/dr-runbooks.md) | [Home](../README.md) | [Next: Assessment →](./assessment.md)
+
+---
+
 # Cloud Migration
 
 Cloud migration is the process of moving workloads from on-premises or one cloud environment to another. The 6Rs framework provides a structured way to decide the right approach for each workload.

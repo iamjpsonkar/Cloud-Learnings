@@ -1,3 +1,7 @@
+← [Previous: TCP/IP](./tcp-ip.md) | [Home](../README.md) | [Next: CIDR & Subnetting →](./cidr-subnetting.md)
+
+---
+
 # DNS — Domain Name System
 
 DNS translates human-readable names (`api.example.com`) into IP addresses (`93.184.216.34`). It is a hierarchical, distributed, eventually-consistent database. Understanding DNS is critical for cloud engineers — every service endpoint, load balancer, and CDN relies on it.

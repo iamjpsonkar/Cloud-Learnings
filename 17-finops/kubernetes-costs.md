@@ -1,3 +1,7 @@
+← [Previous: Storage Optimization](./storage-optimization.md) | [Home](../README.md) | [Next: FinOps Culture →](./finops-culture.md)
+
+---
+
 # Kubernetes Cost Management
 
 Kubernetes abstracts infrastructure from workloads — which also hides costs. Without tooling you cannot answer "how much does the order-api namespace cost?" or "which team is wasting the most."

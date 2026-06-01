@@ -1,3 +1,7 @@
+← [Previous: Vulnerability Management](./vulnerability-management.md) | [Home](../README.md) | [Next: Threat Modeling →](./threat-modeling.md)
+
+---
+
 # Application Security
 
 Application security (AppSec) integrates security testing into the development lifecycle — finding vulnerabilities before they reach production rather than after.

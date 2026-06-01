@@ -1,3 +1,7 @@
+← [Previous: Cost Visibility](./cost-visibility.md) | [Home](../README.md) | [Next: Reserved & Savings Plans →](./reserved-savings.md)
+
+---
+
 # Rightsizing
 
 Rightsizing matches resource capacity to actual workload needs. Over-provisioned resources are the single largest source of wasted cloud spend — typically 30–50% in organizations without an active FinOps practice.

@@ -1,3 +1,7 @@
+← [Previous: Kubernetes App](./kubernetes-app.md) | [Home](../README.md) | [Next: Multi-Tier App →](./multi-tier-app.md)
+
+---
+
 # Project: Streaming Data Pipeline
 
 Build a real-time data pipeline: events flow from an API into Kinesis, get enriched by Lambda, land in S3 (data lake), get cataloged by Glue, and become queryable via Athena — all without managing any servers.

@@ -1,3 +1,7 @@
+← [Previous: Cloud Armor](./cloud-armor.md) | [Home](../../README.md) | [Next: GCP Observability →](../10-observability/README.md)
+
+---
+
 # VPC Service Controls
 
 VPC Service Controls (VPC-SC) creates security perimeters around GCP resources to prevent data exfiltration. Resources inside a perimeter can communicate with each other, but cannot be accessed from outside without explicit access policies.

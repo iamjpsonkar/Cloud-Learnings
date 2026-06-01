@@ -1,3 +1,7 @@
+← [Previous: GCP Account Setup](./README.md) | [Home](../../README.md) | [Next: Projects →](./projects.md)
+
+---
+
 # gcloud CLI
 
 `gcloud` is the primary command-line tool for Google Cloud. It manages authentication, projects, compute resources, and nearly every GCP service.

@@ -1,3 +1,7 @@
+← [Previous: Databases](./databases.md) | [Home](../README.md) | [Next: Performance →](./performance.md)
+
+---
+
 # Troubleshooting: CI/CD
 
 CI/CD failures cost engineering time disproportionate to their complexity. Most failures are permission errors, environment variable mismatches, or test flakiness. This guide covers GitHub Actions, ECR, and ECS deploy issues.

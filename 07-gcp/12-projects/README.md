@@ -1,3 +1,7 @@
+← [Previous: Terraform on GCP](../11-iac/terraform-gcp.md) | [Home](../../README.md) | [Next: Static Website →](./static-website.md)
+
+---
+
 # GCP Projects
 
 Hands-on projects that combine multiple GCP services into complete, production-ready architectures.

@@ -1,3 +1,7 @@
+← [Previous: gcloud CLI](./gcloud.md) | [Home](../../README.md) | [Next: Billing →](./billing.md)
+
+---
+
 # GCP Projects and Resource Hierarchy
 
 GCP organizes resources in a three-tier hierarchy: Organization → Folders → Projects → Resources. Policies and IAM bindings applied at higher levels cascade down.

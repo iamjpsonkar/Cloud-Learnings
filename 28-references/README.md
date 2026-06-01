@@ -1,3 +1,7 @@
+← [Previous: DevOps & SRE](../27-interview-prep/devops-sre.md) | [Home](../README.md)
+
+---
+
 # References
 
 Curated references for cloud engineering, DevOps, and SRE. These are the primary sources — official documentation, foundational books, and actively-maintained tools. Organised by topic so you can go deep on whatever you are working on.

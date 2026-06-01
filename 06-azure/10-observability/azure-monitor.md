@@ -1,3 +1,7 @@
+← [Previous: Azure Observability](./README.md) | [Home](../../README.md) | [Next: Application Insights →](./application-insights.md)
+
+---
+
 # Azure Monitor
 
 Azure Monitor is the unified observability platform for all Azure services. It collects metrics, logs, and traces, enables alerting, and integrates with Log Analytics for deep analysis.

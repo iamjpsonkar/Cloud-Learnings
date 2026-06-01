@@ -1,3 +1,7 @@
+← [Previous: Auto Scaling](./auto-scaling.md) | [Home](../../README.md) | [Next: Lambda →](./lambda.md)
+
+---
+
 # AWS Load Balancers
 
 AWS Elastic Load Balancing (ELB) distributes incoming traffic across multiple targets (EC2, containers, Lambda, IP addresses). There are three types: Application Load Balancer (ALB), Network Load Balancer (NLB), and Gateway Load Balancer (GLB).

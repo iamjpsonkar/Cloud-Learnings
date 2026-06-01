@@ -1,3 +1,7 @@
+← [Previous: Supply Chain Security](./supply-chain-security.md) | [Home](../README.md) | [Next: Observability →](../15-observability/README.md)
+
+---
+
 # Security Checklist
 
 A pre-launch and operational security checklist covering the most impactful controls. Complete the Pre-Launch checklist before any public-facing service goes live. Review the Operational checklist quarterly.

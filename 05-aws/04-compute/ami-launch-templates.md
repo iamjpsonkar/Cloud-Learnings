@@ -1,3 +1,7 @@
+← [Previous: EC2](./ec2.md) | [Home](../../README.md) | [Next: Auto Scaling →](./auto-scaling.md)
+
+---
+
 # AMIs and Launch Templates
 
 An Amazon Machine Image (AMI) is a snapshot of an EC2 instance that serves as the blueprint for new instances. Launch templates define the full configuration for launching EC2 instances, enabling consistent, reproducible deployments.

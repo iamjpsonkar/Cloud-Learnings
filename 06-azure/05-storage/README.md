@@ -1,3 +1,7 @@
+← [Previous: Virtual Machines](../04-compute/virtual-machines.md) | [Home](../../README.md) | [Next: Storage Accounts →](./storage-accounts.md)
+
+---
+
 # Azure Storage
 
 ---

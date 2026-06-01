@@ -1,3 +1,7 @@
+← [Previous: Secrets Management](./secrets-management.md) | [Home](../README.md) | [Next: Vulnerability Management →](./vulnerability-management.md)
+
+---
+
 # Encryption
 
 Encryption protects data at rest and in transit. Cloud providers offer managed key management services (KMS) that handle key storage, rotation, and access controls — you should almost never manage raw encryption keys yourself.

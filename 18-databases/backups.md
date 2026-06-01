@@ -1,3 +1,7 @@
+← [Previous: Replication](./replication.md) | [Home](../README.md) | [Next: Query Optimization →](./query-optimization.md)
+
+---
+
 # Database Backups
 
 A backup strategy that has never been tested is not a backup strategy. Define your RPO (Recovery Point Objective) and RTO (Recovery Time Objective) first, then choose the appropriate backup approach.

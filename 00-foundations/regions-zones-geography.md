@@ -1,3 +1,7 @@
+← [Previous: Shared Responsibility](./shared-responsibility.md) | [Home](../README.md) | [Next: Billing Basics →](./billing-basics.md)
+
+---
+
 # Regions, Availability Zones, and Cloud Geography
 
 ## Why Cloud Geography Matters

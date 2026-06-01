@@ -1,3 +1,7 @@
+← [Previous: Static Website](./static-website.md) | [Home](../README.md) | [Next: Containerized API →](./containerized-api.md)
+
+---
+
 # Project: Serverless REST API
 
 Build a production-grade REST API with user authentication, a DynamoDB backend, structured logging, and monitoring — all without managing any servers.

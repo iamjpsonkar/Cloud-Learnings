@@ -1,3 +1,7 @@
+← [Previous: Data Migration](../20-migration/data-migration.md) | [Home](../README.md) | [Next: Strategy →](./strategy.md)
+
+---
+
 # Multi-Cloud
 
 Multi-cloud means running workloads across two or more cloud providers intentionally. It is not the same as having accidentally ended up with AWS and Azure because different teams made different choices.

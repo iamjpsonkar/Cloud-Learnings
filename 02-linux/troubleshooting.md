@@ -1,3 +1,7 @@
+← [Previous: Cron & Scheduling](./cron-scheduling.md) | [Home](../README.md) | [Next: Networking →](../03-networking/README.md)
+
+---
+
 # Linux Troubleshooting
 
 A systematic approach to diagnosing common production problems. Work from symptoms to root cause — do not guess and restart services before gathering evidence.

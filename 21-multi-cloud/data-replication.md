@@ -1,3 +1,7 @@
+← [Previous: Identity](./identity.md) | [Home](../README.md) | [Next: IaC Abstractions →](./iac-abstractions.md)
+
+---
+
 # Cross-Cloud Data Replication
 
 Replicating data across cloud providers is more expensive and more complex than replication within a single cloud. This file covers patterns for keeping data in sync between AWS and GCP/Azure, including event-driven CDC, batch sync, and conflict resolution.

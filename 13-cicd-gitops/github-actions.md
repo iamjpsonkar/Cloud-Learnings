@@ -1,3 +1,7 @@
+← [Previous: CI/CD & GitOps](./README.md) | [Home](../README.md) | [Next: GitLab CI →](./gitlab-ci.md)
+
+---
+
 # GitHub Actions
 
 GitHub Actions is GitHub's native CI/CD platform. Workflows are YAML files in `.github/workflows/` that trigger on GitHub events.

@@ -1,3 +1,7 @@
+← [Previous: Observability Stack](./observability-stack.md) | [Home](../README.md) | [Next: Data Pipeline →](./data-pipeline.md)
+
+---
+
 # Project: Kubernetes App on EKS
 
 Deploy a multi-service application on Amazon EKS with Helm, horizontal pod autoscaling, ingress with TLS, and GitOps-style deployment using Kustomize overlays.

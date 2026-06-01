@@ -1,3 +1,7 @@
+← [Previous: ArgoCD](./argocd.md) | [Home](../README.md) | [Next: Deployment Strategies →](./deployment-strategies.md)
+
+---
+
 # FluxCD
 
 FluxCD is a set of GitOps operators for Kubernetes. It uses CRDs (Custom Resource Definitions) to reconcile cluster state from Git repositories, Helm charts, and OCI artifacts.

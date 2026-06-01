@@ -1,3 +1,7 @@
+← [Previous: Modules](./modules.md) | [Home](../README.md) | [Next: Expressions →](./expressions.md)
+
+---
+
 # Variables and Outputs
 
 ---

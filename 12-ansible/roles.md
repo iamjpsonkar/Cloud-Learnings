@@ -1,3 +1,7 @@
+← [Previous: Playbooks](./playbooks.md) | [Home](../README.md) | [Next: Variables →](./variables.md)
+
+---
+
 # Roles
 
 Roles are the primary way to organize and reuse Ansible content. A role bundles tasks, handlers, variables, files, templates, and defaults into a structured directory.

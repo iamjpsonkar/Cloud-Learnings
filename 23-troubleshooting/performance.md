@@ -1,3 +1,7 @@
+← [Previous: CI/CD](./cicd.md) | [Home](../README.md) | [Next: AWS CLI Cheatsheet →](../24-cheatsheets/README.md)
+
+---
+
 # Troubleshooting: Performance
 
 Performance problems present as high latency, elevated error rates under load, or resource exhaustion. Work from the outside in: measure the symptom, identify the bottleneck, eliminate it.

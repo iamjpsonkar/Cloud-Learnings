@@ -1,3 +1,7 @@
+← [Previous: VNet](./vnet.md) | [Home](../../README.md) | [Next: Application Gateway →](./application-gateway.md)
+
+---
+
 # Network Security Groups (NSG)
 
 An NSG is a stateful L4 firewall applied to a subnet or NIC (network interface). It filters inbound and outbound traffic using rules based on protocol, port, source, and destination.

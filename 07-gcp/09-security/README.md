@@ -1,3 +1,7 @@
+← [Previous: Cloud Tasks](../08-serverless/cloud-tasks.md) | [Home](../../README.md) | [Next: Secret Manager →](./secret-manager.md)
+
+---
+
 # GCP Security
 
 ---

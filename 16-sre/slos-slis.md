@@ -1,3 +1,7 @@
+← [Previous: SRE Overview](./README.md) | [Home](../README.md) | [Next: Error Budgets →](./error-budgets.md)
+
+---
+
 # SLIs and SLOs
 
 Service Level Indicators (SLIs) measure what matters to users. Service Level Objectives (SLOs) set the target. Service Level Agreements (SLAs) are the legal promise.

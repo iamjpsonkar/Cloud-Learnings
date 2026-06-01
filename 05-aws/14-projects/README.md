@@ -1,3 +1,7 @@
+← [Previous: Terraform on AWS](../13-iac/terraform-on-aws.md) | [Home](../../README.md) | [Next: 3-Tier Architecture →](./3-tier-architecture.md)
+
+---
+
 # AWS Hands-On Projects
 
 Practical projects that combine multiple AWS services into complete, deployable architectures. Each project builds on concepts covered in earlier sections.

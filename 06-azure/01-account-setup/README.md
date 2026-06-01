@@ -1,3 +1,7 @@
+← [Previous: Azure](../README.md) | [Home](../../README.md) | [Next: Account Setup →](./account-setup.md)
+
+---
+
 # Azure Account Setup
 
 ---

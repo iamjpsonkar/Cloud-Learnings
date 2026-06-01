@@ -1,3 +1,7 @@
+← [Previous: Filestore](../05-storage/filestore.md) | [Home](../../README.md) | [Next: Cloud SQL →](./cloud-sql.md)
+
+---
+
 # GCP Databases
 
 ---

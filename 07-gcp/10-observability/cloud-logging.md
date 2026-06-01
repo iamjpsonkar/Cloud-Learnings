@@ -1,3 +1,7 @@
+← [Previous: Cloud Monitoring](./cloud-monitoring.md) | [Home](../../README.md) | [Next: Cloud Trace →](./cloud-trace.md)
+
+---
+
 # Cloud Logging
 
 Cloud Logging collects and stores logs from GCP services, VMs, Kubernetes, and custom applications. It supports log-based metrics, sinks (export), and the Log Explorer for querying.

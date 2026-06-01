@@ -1,3 +1,7 @@
+← [Previous: Virtual Machines](./virtual-machines.md) | [Home](../../README.md) | [Next: Azure Storage →](../05-storage/README.md)
+
+---
+
 # Azure Virtual Machine Scale Sets (VMSS)
 
 VMSS lets you deploy and manage a group of identical, load-balanced VMs with automatic scaling. It is the Azure equivalent of AWS Auto Scaling Groups.

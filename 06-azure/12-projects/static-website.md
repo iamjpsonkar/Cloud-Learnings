@@ -1,3 +1,7 @@
+← [Previous: Azure Projects](./README.md) | [Home](../../README.md) | [Next: Microservice on AKS →](./microservice-aks.md)
+
+---
+
 # Project: Static Website with Azure CDN
 
 Deploy a static website using Azure Blob Storage's static website hosting, served globally via Azure CDN with a custom domain and HTTPS.

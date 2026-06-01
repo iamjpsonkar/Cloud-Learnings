@@ -1,3 +1,7 @@
+← [Previous: SRE Roadmap](../26-roadmaps/sre.md) | [Home](../README.md) | [Next: AWS Fundamentals →](./aws-fundamentals.md)
+
+---
+
 # Interview Preparation
 
 Interview preparation for cloud engineering, DevOps, and SRE roles. Each section covers questions you should be able to answer, plus the underlying concepts you need to understand — not just memorize.

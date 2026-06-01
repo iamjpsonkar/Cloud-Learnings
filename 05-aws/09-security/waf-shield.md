@@ -1,3 +1,7 @@
+← [Previous: Security Hub](./security-hub.md) | [Home](../../README.md) | [Next: AWS Observability →](../10-observability/README.md)
+
+---
+
 # AWS WAF and Shield
 
 WAF (Web Application Firewall) protects HTTP/HTTPS applications against common web exploits at Layer 7. Shield protects against DDoS attacks at Layers 3, 4, and 7. They are complementary services, commonly deployed together on CloudFront, ALB, and API Gateway.

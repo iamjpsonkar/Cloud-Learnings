@@ -1,3 +1,7 @@
+← [Previous: Projects](./projects.md) | [Home](../../README.md) | [Next: GCP IAM →](../02-iam/README.md)
+
+---
+
 # GCP Billing and Cost Management
 
 GCP billing is linked to a billing account. Projects are linked to billing accounts. Budgets, cost allocation labels, and the Cloud Billing API provide cost visibility and control.

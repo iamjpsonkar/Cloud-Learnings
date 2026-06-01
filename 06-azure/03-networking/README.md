@@ -1,3 +1,7 @@
+← [Previous: Managed Identities](../02-entra-id/managed-identities.md) | [Home](../../README.md) | [Next: VNet →](./vnet.md)
+
+---
+
 # Azure Networking
 
 ---

@@ -1,3 +1,7 @@
+← [Previous: VPC Service Controls](../09-security/vpc-service-controls.md) | [Home](../../README.md) | [Next: Cloud Monitoring →](./cloud-monitoring.md)
+
+---
+
 # GCP Observability
 
 ---

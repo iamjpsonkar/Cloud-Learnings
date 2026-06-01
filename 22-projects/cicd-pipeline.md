@@ -1,3 +1,7 @@
+← [Previous: Containerized API](./containerized-api.md) | [Home](../README.md) | [Next: Observability Stack →](./observability-stack.md)
+
+---
+
 # Project: CI/CD Pipeline
 
 Build a complete deployment pipeline: automated tests, Docker build, security scanning, staging deploy with smoke tests, and production deploy with manual approval gate. Everything runs on GitHub Actions with OIDC — no stored AWS credentials.

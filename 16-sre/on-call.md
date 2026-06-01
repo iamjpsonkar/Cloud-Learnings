@@ -1,3 +1,7 @@
+← [Previous: Toil Reduction](./toil-reduction.md) | [Home](../README.md) | [Next: Capacity Planning →](./capacity-planning.md)
+
+---
+
 # On-Call
 
 On-call is the rotation of engineers who respond to production incidents outside of business hours. Sustainable on-call — with good runbooks, clear escalation, and actionable alerts — keeps engineers healthy and services reliable.

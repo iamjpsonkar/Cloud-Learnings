@@ -1,3 +1,7 @@
+← [Previous: Azure Serverless](./README.md) | [Home](../../README.md) | [Next: Service Bus →](./service-bus.md)
+
+---
+
 # Azure Functions
 
 Azure Functions is a serverless compute service for event-driven code. It supports multiple triggers (HTTP, timer, queue, Blob, Service Bus, Event Grid) and integrates with Azure services via bindings.

@@ -1,3 +1,7 @@
+← [Previous: RDS](./rds.md) | [Home](../../README.md) | [Next: DynamoDB →](./dynamodb.md)
+
+---
+
 # Amazon Aurora
 
 Aurora is a MySQL- and PostgreSQL-compatible relational database built for the cloud. Its storage layer decouples from compute — storage auto-scales up to 128 TiB, replicates 6 copies across 3 AZs, and repairs itself without manual intervention. Aurora is up to 5x faster than MySQL RDS and 3x faster than PostgreSQL RDS.

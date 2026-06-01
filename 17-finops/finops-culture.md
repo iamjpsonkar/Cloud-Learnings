@@ -1,3 +1,7 @@
+← [Previous: Kubernetes Costs](./kubernetes-costs.md) | [Home](../README.md) | [Next: Databases →](../18-databases/README.md)
+
+---
+
 # FinOps Culture
 
 Technology changes are necessary but insufficient. Sustainable cloud cost management requires a culture where every engineer understands their service's cost, owns it, and has the tools to act on it.

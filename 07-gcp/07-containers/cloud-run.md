@@ -1,3 +1,7 @@
+← [Previous: GKE](./gke.md) | [Home](../../README.md) | [Next: GCP Serverless →](../08-serverless/README.md)
+
+---
+
 # Cloud Run
 
 Cloud Run is a fully managed serverless container platform. It scales from zero to thousands of instances automatically and charges only for CPU and memory used during request processing.

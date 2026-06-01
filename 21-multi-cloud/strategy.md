@@ -1,3 +1,7 @@
+← [Previous: Multi-Cloud Overview](./README.md) | [Home](../README.md) | [Next: Networking →](./networking.md)
+
+---
+
 # Multi-Cloud Strategy
 
 A multi-cloud strategy starts with a clear answer to: **which workloads belong on which cloud and why?** Without that answer, you get accidental complexity instead of intentional architecture.

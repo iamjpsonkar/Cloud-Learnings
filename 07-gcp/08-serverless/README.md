@@ -1,3 +1,7 @@
+← [Previous: Cloud Run](../07-containers/cloud-run.md) | [Home](../../README.md) | [Next: Cloud Functions →](./cloud-functions.md)
+
+---
+
 # GCP Serverless
 
 ---

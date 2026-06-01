@@ -1,3 +1,7 @@
+← [Previous: Data Pipeline](./data-pipeline.md) | [Home](../README.md) | [Next: DR Setup →](./dr-setup.md)
+
+---
+
 # Project: Multi-Tier Web Application
 
 Deploy a classic 3-tier architecture: a public-facing web tier (EC2 Auto Scaling + ALB), an application tier (private EC2), and a highly available database tier (RDS Multi-AZ). This pattern is the foundation for many enterprise production workloads.

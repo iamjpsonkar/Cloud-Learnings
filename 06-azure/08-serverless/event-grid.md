@@ -1,3 +1,7 @@
+← [Previous: Service Bus](./service-bus.md) | [Home](../../README.md) | [Next: API Management →](./apim.md)
+
+---
+
 # Azure Event Grid
 
 Event Grid is a fully managed event routing service. It connects event sources (Azure services, custom apps) to event handlers (webhooks, Functions, Service Bus, Event Hubs) using a publish/subscribe model.

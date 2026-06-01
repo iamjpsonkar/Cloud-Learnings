@@ -1,3 +1,7 @@
+← [Previous: Azure IaC](./README.md) | [Home](../../README.md) | [Next: Terraform on Azure →](./terraform-azure.md)
+
+---
+
 # Azure Bicep
 
 Bicep is Azure's domain-specific language for Infrastructure as Code. It compiles to ARM JSON, supports modular design, and has first-class Azure tooling (VS Code extension, `what-if` deployments, schema validation).

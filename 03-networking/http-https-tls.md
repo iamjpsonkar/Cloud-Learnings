@@ -1,3 +1,7 @@
+← [Previous: Load Balancing](./load-balancing.md) | [Home](../README.md) | [Next: CDN →](./cdn.md)
+
+---
+
 # HTTP, HTTPS, and TLS
 
 HTTP is the application-layer protocol that powers the web. HTTPS is HTTP secured with TLS. Understanding their mechanics — methods, headers, status codes, and the TLS handshake — is fundamental for debugging, API design, and cloud security.

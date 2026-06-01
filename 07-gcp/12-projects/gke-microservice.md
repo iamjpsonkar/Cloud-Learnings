@@ -1,3 +1,7 @@
+← [Previous: Static Website](./static-website.md) | [Home](../../README.md) | [Next: Cloud Run API →](./cloud-run-api.md)
+
+---
+
 # Project: GKE Microservice
 
 Deploy a production-grade microservice on a private GKE Autopilot cluster with Workload Identity, Cloud SQL, Secret Manager, Cloud Monitoring, and a full GitHub Actions CI/CD pipeline.

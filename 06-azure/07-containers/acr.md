@@ -1,3 +1,7 @@
+← [Previous: Azure Containers](./README.md) | [Home](../../README.md) | [Next: AKS →](./aks.md)
+
+---
+
 # Azure Container Registry (ACR)
 
 ACR is a private OCI-compliant container registry. It supports Docker images, Helm charts, and any OCI artifact. It integrates natively with AKS, Azure Container Apps, and CI/CD pipelines.

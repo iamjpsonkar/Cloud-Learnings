@@ -1,3 +1,7 @@
+← [Previous: Alibaba Cloud](./alibaba-cloud.md) | [Home](../README.md) | [Next: Cloudflare →](./cloudflare.md)
+
+---
+
 # DigitalOcean
 
 DigitalOcean is a developer-focused cloud platform with simple pricing, excellent documentation, and a streamlined product set. It excels at straightforward web application hosting, small-to-medium workloads, and indie/startup use cases where simplicity and predictable cost matter more than breadth of services.

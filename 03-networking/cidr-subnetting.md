@@ -1,3 +1,7 @@
+← [Previous: DNS](./dns.md) | [Home](../README.md) | [Next: NAT & Routing →](./nat-routing.md)
+
+---
+
 # CIDR and Subnetting
 
 CIDR (Classless Inter-Domain Routing) is the notation and method used to describe IP address ranges. Every VPC, subnet, security group rule, and routing decision in the cloud uses CIDR. Getting subnetting right at the start prevents painful re-architectures later.

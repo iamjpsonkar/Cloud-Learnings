@@ -1,3 +1,7 @@
+← [Previous: Deployment Strategies](./deployment-strategies.md) | [Home](../README.md) | [Next: Security (Batch 20) →](../14-security/README.md)
+
+---
+
 # Production Pipelines
 
 A production-grade CI/CD pipeline is not just build + deploy — it includes quality gates, security scanning, observability integration, and operational controls.

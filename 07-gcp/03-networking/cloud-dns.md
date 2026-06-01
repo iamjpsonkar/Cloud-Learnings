@@ -1,3 +1,7 @@
+← [Previous: Load Balancing](./load-balancing.md) | [Home](../../README.md) | [Next: GCP Compute →](../04-compute/README.md)
+
+---
+
 # Cloud DNS
 
 Cloud DNS is a scalable, highly available managed DNS service. It supports public zones (for internet DNS), private zones (for VPC-internal resolution), and DNS peering.

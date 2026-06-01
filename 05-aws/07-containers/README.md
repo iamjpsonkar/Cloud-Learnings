@@ -1,3 +1,7 @@
+← [Previous: Redshift](../06-databases/redshift.md) | [Home](../../README.md) | [Next: ECR →](./ecr.md)
+
+---
+
 # AWS Containers
 
 AWS offers managed container services at every layer of the stack: a fully managed registry (ECR), an orchestrator without Kubernetes (ECS), and a managed Kubernetes control plane (EKS).

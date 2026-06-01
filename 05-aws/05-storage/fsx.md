@@ -1,3 +1,7 @@
+← [Previous: EFS](./efs.md) | [Home](../../README.md) | [Next: AWS Databases →](../06-databases/README.md)
+
+---
+
 # Amazon FSx
 
 FSx provides fully managed third-party file systems as a service. Choose the variant based on your workload requirements — Windows File Server for SMB, Lustre for HPC, NetApp ONTAP for enterprise NAS migration, and OpenZFS for POSIX workloads requiring advanced data management.

@@ -1,3 +1,7 @@
+← [Previous: AWS Account Setup](./README.md) | [Home](../../README.md) | [Next: Billing & Budgets →](./billing-budgets.md)
+
+---
+
 # AWS Account Setup and Hardening
 
 Securing an AWS account on day one prevents the most common and most expensive cloud security incidents — exposed access keys, public S3 buckets, and undetected cryptocurrency mining.

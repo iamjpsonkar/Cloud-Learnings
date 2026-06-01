@@ -1,3 +1,7 @@
+← [Previous: Linux Cheatsheet](../24-cheatsheets/linux.md) | [Home](../README.md) | [Next: Roadmaps →](../26-roadmaps/README.md)
+
+---
+
 # Glossary
 
 Definitions for cloud, DevOps, SRE, and infrastructure terms used throughout this repo. Terms are grouped by category.

@@ -1,3 +1,7 @@
+← [Previous: Cloud Fundamentals](./README.md) | [Home](../README.md) | [Next: Storage →](./storage.md)
+
+---
+
 # Cloud Compute Fundamentals
 
 ## What Is Cloud Compute?

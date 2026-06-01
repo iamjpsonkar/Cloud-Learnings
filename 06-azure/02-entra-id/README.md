@@ -1,3 +1,7 @@
+← [Previous: Resource Groups](../01-account-setup/resource-groups.md) | [Home](../../README.md) | [Next: Entra ID Basics →](./entra-id-basics.md)
+
+---
+
 # Microsoft Entra ID (formerly Azure Active Directory)
 
 Entra ID is Azure's identity and access management platform. It handles authentication (who are you?) and authorization (what can you do?). Every Azure resource is secured through Entra ID.

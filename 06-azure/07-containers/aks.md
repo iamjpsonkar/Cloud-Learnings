@@ -1,3 +1,7 @@
+← [Previous: ACR](./acr.md) | [Home](../../README.md) | [Next: ACI →](./aci.md)
+
+---
+
 # Azure Kubernetes Service (AKS)
 
 AKS is a managed Kubernetes service. Azure manages the control plane; you manage node pools and workloads. AKS integrates with ACR, Entra ID, Azure Monitor, Key Vault, and Azure networking.

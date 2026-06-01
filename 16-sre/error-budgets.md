@@ -1,3 +1,7 @@
+← [Previous: SLIs & SLOs](./slos-slis.md) | [Home](../README.md) | [Next: Toil Reduction →](./toil-reduction.md)
+
+---
+
 # Error Budgets
 
 An error budget is the acceptable amount of unreliability for a given period, derived from your SLO. It aligns engineering and operations: when the budget is healthy, move fast; when it's exhausted, stop feature work and fix reliability.

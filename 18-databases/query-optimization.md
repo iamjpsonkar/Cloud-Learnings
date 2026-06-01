@@ -1,3 +1,7 @@
+← [Previous: Backups](./backups.md) | [Home](../README.md) | [Next: Disaster Recovery →](../19-disaster-recovery/README.md)
+
+---
+
 # Query Optimization
 
 Slow queries are the most common database performance problem. Most can be fixed with indexes, query rewrites, or connection pool tuning — before you need to scale hardware.

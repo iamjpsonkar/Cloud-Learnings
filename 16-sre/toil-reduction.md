@@ -1,3 +1,7 @@
+← [Previous: Error Budgets](./error-budgets.md) | [Home](../README.md) | [Next: On-Call →](./on-call.md)
+
+---
+
 # Toil Reduction
 
 Toil is manual, repetitive, automatable operational work that scales with service growth. Google SRE caps toil at 50% of an SRE's time — the rest is engineering work that reduces future toil.

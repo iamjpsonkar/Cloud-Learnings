@@ -1,3 +1,7 @@
+← [Previous: KMS](./kms.md) | [Home](../../README.md) | [Next: ACM →](./acm.md)
+
+---
+
 # AWS Secrets Manager
 
 Secrets Manager stores, retrieves, and automatically rotates secrets such as database credentials, API keys, OAuth tokens, and SSH keys. Applications retrieve secrets at runtime using the SDK — no hardcoded credentials.

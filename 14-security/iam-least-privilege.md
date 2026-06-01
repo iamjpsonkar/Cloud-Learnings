@@ -1,3 +1,7 @@
+← [Previous: Security Overview](./README.md) | [Home](../README.md) | [Next: Network Security →](./network-security.md)
+
+---
+
 # IAM and Least Privilege
 
 The principle of least privilege grants only the minimum permissions needed to perform a task. Over-permissioned identities are one of the most common cloud security vulnerabilities.

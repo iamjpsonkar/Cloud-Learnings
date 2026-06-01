@@ -1,3 +1,7 @@
+← [Previous: Logging](./logging.md) | [Home](../README.md) | [Next: Alerting →](./alerting.md)
+
+---
+
 # Distributed Tracing
 
 Distributed tracing tracks a request as it flows through multiple services. A trace is a collection of spans — each span represents one unit of work (an HTTP call, a DB query, a queue publish).

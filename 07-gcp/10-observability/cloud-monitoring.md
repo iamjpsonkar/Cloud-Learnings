@@ -1,3 +1,7 @@
+← [Previous: GCP Observability](./README.md) | [Home](../../README.md) | [Next: Cloud Logging →](./cloud-logging.md)
+
+---
+
 # Cloud Monitoring
 
 Cloud Monitoring (formerly Stackdriver) collects metrics, creates dashboards, sets alerting policies, and runs uptime checks for GCP and hybrid cloud resources.

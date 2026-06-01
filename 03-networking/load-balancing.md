@@ -1,3 +1,7 @@
+← [Previous: Firewalls & VPN](./firewalls-vpn.md) | [Home](../README.md) | [Next: HTTP/HTTPS/TLS →](./http-https-tls.md)
+
+---
+
 # Load Balancing
 
 A load balancer distributes incoming traffic across multiple backend servers, improving availability and scalability. It also provides health checking, SSL termination, and a stable single endpoint for clients.

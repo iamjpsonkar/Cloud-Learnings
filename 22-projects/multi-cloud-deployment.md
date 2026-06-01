@@ -1,3 +1,7 @@
+← [Previous: DR Setup](./dr-setup.md) | [Home](../README.md) | [Next: Troubleshooting →](../23-troubleshooting/README.md)
+
+---
+
 # Project: Multi-Cloud Deployment
 
 Deploy an application that runs compute on AWS (ECS Fargate) while streaming analytics data to GCP BigQuery. Both clouds are provisioned with a single Terraform run using OIDC authentication — no long-lived credentials anywhere.

@@ -1,3 +1,7 @@
+← [Previous: GCP Projects](../07-gcp/12-projects/README.md) | [Home](../README.md) | [Next: OCI →](./oci.md)
+
+---
+
 # Other Clouds
 
 Coverage of cloud platforms beyond AWS, Azure, and GCP — including Oracle Cloud Infrastructure (OCI), IBM Cloud, Alibaba Cloud, DigitalOcean, and Cloudflare.

@@ -1,3 +1,7 @@
+← [Previous: AWS CLI](./aws-cli.md) | [Home](../README.md) | [Next: Terraform →](./terraform.md)
+
+---
+
 # kubectl Cheatsheet
 
 ```bash

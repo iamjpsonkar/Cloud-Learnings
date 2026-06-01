@@ -1,3 +1,7 @@
+← [Previous: Users, Groups & Roles](./users-groups-roles.md) | [Home](../../README.md) | [Next: Identity Center →](./identity-center.md)
+
+---
+
 # IAM Policies
 
 An IAM policy is a JSON document that defines what actions are allowed or denied on which resources under what conditions. Policies are the mechanism through which all AWS access is controlled.

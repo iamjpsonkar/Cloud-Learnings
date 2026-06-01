@@ -1,3 +1,7 @@
+← [Previous: Refactor](./refactor.md) | [Home](../README.md) | [Next: Multi-Cloud →](../21-multi-cloud/README.md)
+
+---
+
 # Data Migration
 
 Moving data is often the hardest part of a migration. Unlike application code, data has zero tolerance for loss or corruption. This file covers AWS DMS for live database migration, AWS Snow Family for offline bulk transfer, and patterns for large-scale data movement.

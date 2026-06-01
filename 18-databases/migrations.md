@@ -1,3 +1,7 @@
+← [Previous: Caching](./caching.md) | [Home](../README.md) | [Next: Replication →](./replication.md)
+
+---
+
 # Database Migrations
 
 Database migrations track and apply schema changes over time. Every change must be versioned, reviewed, and deployable without downtime in production.

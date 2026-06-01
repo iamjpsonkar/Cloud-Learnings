@@ -1,3 +1,7 @@
+← [Previous: NoSQL](./nosql.md) | [Home](../README.md) | [Next: Migrations →](./migrations.md)
+
+---
+
 # Caching
 
 Caching reduces database load, lowers latency, and improves throughput. Use it strategically — a cache that is hard to invalidate correctly is worse than no cache.

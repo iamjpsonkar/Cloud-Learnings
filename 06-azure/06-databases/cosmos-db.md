@@ -1,3 +1,7 @@
+← [Previous: Azure SQL](./azure-sql.md) | [Home](../../README.md) | [Next: Redis Cache →](./redis.md)
+
+---
+
 # Azure Cosmos DB
 
 Cosmos DB is a globally distributed, multi-model NoSQL database. It offers single-digit millisecond latency, 99.999% availability SLAs, and automatic multi-region replication.

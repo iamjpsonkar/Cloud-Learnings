@@ -1,3 +1,7 @@
+← [Previous: Variables & Outputs](./variables-outputs.md) | [Home](../README.md) | [Next: Providers →](./providers.md)
+
+---
+
 # Expressions, Functions, and Meta-Arguments
 
 ---

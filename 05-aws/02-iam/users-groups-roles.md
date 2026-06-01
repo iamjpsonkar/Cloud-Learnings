@@ -1,3 +1,7 @@
+← [Previous: IAM Overview](./iam-overview.md) | [Home](../../README.md) | [Next: IAM Policies →](./policies.md)
+
+---
+
 # IAM Users, Groups, and Roles
 
 This file covers the practical details of creating and managing IAM users, groups, and roles — including instance profiles, trust policies, and role chaining patterns used in cloud architectures.

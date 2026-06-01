@@ -1,3 +1,7 @@
+← [Previous: Dashboards](./dashboards.md) | [Home](../README.md) | [Next: Prometheus & Grafana →](./prometheus-grafana.md)
+
+---
+
 # OpenTelemetry
 
 OpenTelemetry (OTel) is the CNCF standard for generating, collecting, and exporting telemetry (traces, metrics, logs). It replaces vendor-specific agents and SDKs with a single, portable instrumentation layer.

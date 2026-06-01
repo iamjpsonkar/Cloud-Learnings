@@ -1,3 +1,7 @@
+← [Previous: AWS Networking](./aws-networking.md) | [Home](../README.md) | [Next: Databases →](./databases.md)
+
+---
+
 # Troubleshooting: Containers & Kubernetes
 
 Container failures almost always fall into: image pull errors, startup crashes, OOM kills, health check failures, or networking issues between services. ECS and Kubernetes surface these differently but the root causes are the same.

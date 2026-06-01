@@ -1,3 +1,7 @@
+← [Previous: Variables](./variables.md) | [Home](../README.md) | [Next: Modules →](./modules.md)
+
+---
+
 # Ansible Vault
 
 Ansible Vault encrypts sensitive data (passwords, API keys, certificates) at rest using AES-256. Encrypted files can be safely committed to version control.

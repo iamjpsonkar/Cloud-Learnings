@@ -1,3 +1,7 @@
+← [Previous: Cloud Trace](../10-observability/cloud-trace.md) | [Home](../../README.md) | [Next: Terraform on GCP →](./terraform-gcp.md)
+
+---
+
 # GCP Infrastructure as Code
 
 ---

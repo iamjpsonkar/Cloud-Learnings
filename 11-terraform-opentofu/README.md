@@ -1,3 +1,7 @@
+← [Previous: Kubernetes Troubleshooting](../10-kubernetes/troubleshooting.md) | [Home](../README.md) | [Next: Getting Started →](./getting-started.md)
+
+---
+
 # Terraform / OpenTofu
 
 Terraform (by HashiCorp) and OpenTofu (the open-source fork) are declarative Infrastructure-as-Code tools that manage cloud and on-premises resources using HCL (HashiCorp Configuration Language).

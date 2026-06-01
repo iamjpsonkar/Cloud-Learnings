@@ -1,3 +1,7 @@
+← [Previous: Ansible Best Practices](../12-ansible/best-practices.md) | [Home](../README.md) | [Next: GitHub Actions →](./github-actions.md)
+
+---
+
 # CI/CD & GitOps
 
 CI/CD automates the path from code commit to production. GitOps extends that model by using Git as the single source of truth for both application code and infrastructure state.

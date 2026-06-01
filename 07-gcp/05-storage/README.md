@@ -1,3 +1,7 @@
+← [Previous: Managed Instance Groups](../04-compute/managed-instance-groups.md) | [Home](../../README.md) | [Next: Cloud Storage →](./cloud-storage.md)
+
+---
+
 # GCP Storage
 
 ---

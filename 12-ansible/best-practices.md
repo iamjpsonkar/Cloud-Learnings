@@ -1,3 +1,7 @@
+← [Previous: Modules](./modules.md) | [Home](../README.md) | [Next: CI/CD & GitOps (Batch 19) →](../13-cicd-gitops/README.md)
+
+---
+
 # Best Practices
 
 ---

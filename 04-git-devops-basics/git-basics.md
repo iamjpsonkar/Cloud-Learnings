@@ -1,3 +1,7 @@
+← [Previous: Git & DevOps Basics](./README.md) | [Home](../README.md) | [Next: GitHub Workflow →](./github-workflow.md)
+
+---
+
 # Git Basics
 
 Git is a distributed version control system. Every developer has a full copy of the repository history. Changes are recorded as immutable commits forming a directed acyclic graph (DAG).

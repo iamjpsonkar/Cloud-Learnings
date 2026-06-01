@@ -1,3 +1,7 @@
+← [Previous: Compute](./compute.md) | [Home](../README.md) | [Next: Networking →](./networking.md)
+
+---
+
 # Cloud Storage Fundamentals
 
 ## Storage Types

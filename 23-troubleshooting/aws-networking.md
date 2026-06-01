@@ -1,3 +1,7 @@
+← [Previous: Troubleshooting Overview](./README.md) | [Home](../README.md) | [Next: Containers & Kubernetes →](./containers-k8s.md)
+
+---
+
 # Troubleshooting: AWS Networking
 
 Most AWS networking problems fall into one of four categories: security group rules blocking traffic, route tables missing routes, DNS resolution failures, or NACLs with deny rules. Work through them in that order — security groups are the most common cause.

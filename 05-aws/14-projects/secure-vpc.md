@@ -1,3 +1,7 @@
+← [Previous: 3-Tier Architecture](./3-tier-architecture.md) | [Home](../../README.md) | [Next: Static Website on AWS →](./static-website.md)
+
+---
+
 # Project: Build a Secure VPC from Scratch
 
 A production-grade VPC with public/private/isolated subnet tiers, NAT Gateways, security groups, NACLs, VPC endpoints, and flow logs. This is the network foundation for nearly all other projects.

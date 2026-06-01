@@ -1,3 +1,7 @@
+← [Previous: Billing & Budgets](./billing-budgets.md) | [Home](../../README.md) | [Next: Subscriptions →](./subscriptions.md)
+
+---
+
 # Azure CLI Setup
 
 ---
