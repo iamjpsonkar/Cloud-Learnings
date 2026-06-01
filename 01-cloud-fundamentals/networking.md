@@ -47,7 +47,7 @@ AWS Account
 **CIDR (Classless Inter-Domain Routing)** notation defines IP address ranges.
 
 ```
-10.0.0.0/16   → 65,536 addresses (10.0.0.0 to 10.255.255.255)
+10.0.0.0/16   → 65,536 addresses (10.0.0.0 to 10.0.255.255)
 10.0.1.0/24   → 256 addresses (10.0.1.0 to 10.0.1.255)
 10.0.1.0/28   → 16 addresses (10.0.1.0 to 10.0.1.15)
 ```
